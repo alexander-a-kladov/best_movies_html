@@ -1,0 +1,9 @@
+20th Century Fox	20th_Century_Studios
+Columbia	Columbia_Pictures
+Paramount	Paramount_Pictures
+Warner Bros.	Warner_Bros.
+Universal	Universal_Pictures
+United Artists	United_Artists
+Embassy	Embassy_Pictures
+MGM	Metro-Goldwyn-Mayer
+
