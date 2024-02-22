@@ -45,7 +45,7 @@ def add_year(new_year):
             html_data[year] = "<html>\n"+style_data+"<body>\n<table style=\"font-size:42px;font-weight:500;\">\n"
 
 
-def read_movies(fname):
+def read_movies(fname, prefix):
     global html_data, youtube_com, wikipedia, distr
     f = open(fname, "r")
     if f:
@@ -64,7 +64,14 @@ def read_movies(fname):
             html_data[year] += "<td><a href='"+ youtube_com + tokens[6] +"'><img src='"+qrfile+"' width=200px height=200px></img></a></td>"
             key = tokens[0]+tokens[4]
             if len(info_data)>0 and key in info_dict:
-                html_data[year] += "<td><a style=\"font-size:18px;\" href='"+info_data+info_dict[key]+"'>"+info_dict[key]+"</a></td>"
+                if len(info_dict[key].split("\t"))>1:
+                    link = info_dict[key].split("\t")[0]
+                    rem  = info_dict[key].split("\t")[1]
+                else:
+                    link = info_dict[key]
+                    rem  = ""
+                html_data[year] += "<td><a style=\"font-size:18px;\" href='"+info_data+link+"'>"+prefix+":"+link+"</a></td>"
+                html_data[year] += "<td><a style=\"font-size:18px;\">"+rem+"</td>"
             html_data[year] += "</tr>\n"
     f.close()
 
@@ -79,6 +86,8 @@ def read_info(fname):
             key = tokens[0]+tokens[1]
             if key not in info_dict:
                 info_dict[key] = tokens[2]
+                if len(tokens)>3:
+                    info_dict[key]+="\t"+tokens[3]
     f.close()
 
 
@@ -112,6 +121,6 @@ if __name__ == "__main__":
         read_info(fname)
         prefix = fname.split(".txt")[0]
     read_distr("distributors.txt")
-    read_movies("movies.txt")
+    read_movies("movies.txt", prefix)
     save_html(prefix)
     save_index(prefix)

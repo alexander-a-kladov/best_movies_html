@@ -4,7 +4,7 @@
 3	Stir Crazy	Columbia	Stir_Crazy_(film)	1980	f/f1/Stir_Crazy.jpg	1U1h0aYcXyQ
 4	Airplane!	Paramount	Airplane!	1980	2/21/Airplane!_(1980_film).jpg	07pPmCfKi3U
 5	Any Which Way You Can	Warner Bros.	Any_Which_Way_You_Can	1980	2/29/Any_which_way_you_can.jpg	ahnYnbQdeDI
-6 	Private Benjamin	Warner Bros.	Private_Benjamin_(1980_film)	1980	1/18/Private_benjamon.jpg	KTuip4gVJWg
+6	Private Benjamin	Warner Bros.	Private_Benjamin_(1980_film)	1980	1/18/Private_benjamon.jpg	KTuip4gVJWg
 7	Coal Miner's Daughter	Universal	Coal_Miner's_Daughter_(film)	1980	0/05/Coal_miners_daughter.jpg	V8I2cF51Npc
 8	Smokey and the Bandit II	Universal	Smokey_and_the_Bandit_II	1980	2/2e/Smokey_and_the_bandit_ii_poster.jpg	H8INfASWJ4c
 9	The Blue Lagoon	Columbia	The_Blue_Lagoon_(1980_film)	1980	3/32/Blue_lagoon_1980_movie_poster.jpg	A0UapwJIJn8
