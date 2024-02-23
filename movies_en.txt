@@ -9,6 +9,12 @@
 8	Smokey and the Bandit II	Universal	Smokey_and_the_Bandit_II	1980	2/2e/Smokey_and_the_bandit_ii_poster.jpg	H8INfASWJ4c
 9	The Blue Lagoon	Columbia	The_Blue_Lagoon_(1980_film)	1980	3/32/Blue_lagoon_1980_movie_poster.jpg	A0UapwJIJn8
 10	The Blues Brothers	Universal	The_Blues_Brothers_(film)	1980	a/ae/Bluesbrothersmovieposter.jpg	2HCR4c1zPyk
+11	Mad Max	Roadshow Film	Mad_Max_(film)	1980	5/5a/MadMazAus.jpg	pnfAa9i9LYM
+12	Friday the 13th	Paramount	Friday_the_13th_(1980_film)	1980	2/2c/Friday_the_13th_(1980)_theatrical_poster.jpg	sAzkW7HFh5U
+13	Urban Cowboy	Paramount	Urban_Cowboy	1980	6/6b/Urban_cowboy_Poster.jpg	dnc4oSelsPY
+14	Fame	United Artists	Fame_(1980_film)	1980	6/6b/Fameposter.jpg	fZpBoyh9mds
+15	The Shining	Warner Bros.	The_Shining_(film)	1980	1/1d/The_Shining_(1980)_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg	S014oGZiSdI 
+16	Flash Gordon	Universal	Flash_Gordon_(film)	1980	5/50/Flash_gordon_movie_poster.jpg	VzFwECV8Kkk 
 1	Raiders of the Lost Ark	Paramount	Raiders_of_the_Lost_Ark	1981	a/a6/Raiders_of_the_Lost_Ark_Theatrical_Poster.jpg	0xQSIdSRlAk
 2	On Golden Pond	Universal	On_Golden_Pond_(1981_film)	1981	3/34/On_golden_pond.jpg	Y85sfYVOS84
 3	Superman II	Warner Bros.	Superman_II	1981	3/36/Superman_II.jpg	jxD8RlGnP64

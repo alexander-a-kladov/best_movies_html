@@ -1,0 +1,6 @@
+#ru
+trailer	https://www.youtube.com/watch?v=
+wiki	https://ru.wikipedia.org/wiki/
+poster	https://upload.wikimedia.org/wikipedia/ru/
+buy_poster	https://www.kinopoisk.ru/index.php?kp_query=
+
