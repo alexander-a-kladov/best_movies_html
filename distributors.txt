@@ -1,10 +1,10 @@
-20th Century Fox	20th_Century_Studios
-Columbia	Columbia_Pictures
-Paramount	Paramount_Pictures
-Warner Bros.	Warner_Bros.
-Universal	Universal_Pictures
-United Artists	United_Artists
-Embassy	Embassy_Pictures
-MGM	Metro-Goldwyn-Mayer
-Roadshow Film	Roadshow_Entertainment
+20th Century Fox	20th_Century_Studios	https://upload.wikimedia.org/wikipedia/commons/2/22/20th_Century_Studios_(2020).svg
+Columbia	Columbia_Pictures	https://upload.wikimedia.org/wikipedia/commons/7/7e/Columbia_Pictures_logo.png
+Paramount	Paramount_Pictures	https://upload.wikimedia.org/wikipedia/commons/8/89/Paramount_Pictures_2022_(Blue).svg
+Warner Bros.	Warner_Bros.	https://upload.wikimedia.org/wikipedia/commons/4/4e/Warner_Bros._logo_2023.svg
+Universal	Universal_Pictures	https://upload.wikimedia.org/wikipedia/commons/b/b6/Universal_Pictures_logo.svg
+United Artists	United_Artists	https://upload.wikimedia.org/wikipedia/commons/6/67/United_Artists_Logo.svg
+Embassy	Embassy_Pictures	https://upload.wikimedia.org/wikipedia/en/7/70/Embassy_Pictures.jpg
+MGM	Metro-Goldwyn-Mayer	https://upload.wikimedia.org/wikipedia/en/4/41/Metro-Goldwyn-Mayer_logo.png
+Roadshow Film	Roadshow_Entertainment	https://upload.wikimedia.org/wikipedia/en/f/f4/Village-roadshow-limited-brand.png
 

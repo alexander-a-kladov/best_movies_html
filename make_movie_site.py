@@ -52,7 +52,9 @@ def read_distr(fname):
                 continue
             line = line.strip().split('\t')
             if line[0] not in distr:
-                distr[line[0]] = line[1]
+                distr[line[0]] = [line[1]]
+                if len(line)>2:
+                    distr[line[0]].append(line[2])
     f.close()
 
 
@@ -83,24 +85,32 @@ def read_movies(fname, prefix):
             if line[0] == '\n' or line[0] == '#':
                 continue
             tokens = line.strip().split('\t')
+            if len(tokens)<7:
+                continue
             #print(tokens)
             add_year(tokens[4])
             html_data[year] += "<tr>\n"
             html_data[year] += "<td>" + tokens[0] + "</td>\n"
             html_data[year] += "<td><a href='"+config['buy_poster']+tokens[1].replace("'","&apos;").replace(' ','+')+"'><img src='" + config['poster'] + tokens[5]+"' width=160px height=200px></img></a></td>\n"
             html_data[year] += "<td><a href='"+ config['wiki']+tokens[3].replace("'","&apos;") +"'>" + tokens[1] + "</a></td>\n"
-            html_data[year] += "<td><a href='"+ config['wiki']+distr[tokens[2]]+"'>"+ tokens[2]+"</a></td>\n"
+            if len(distr[tokens[2]])>1:
+                logo = "<img src='"+ distr[tokens[2]][1] +"' width=200px height=100px>"
+            else:
+                logo = distr[tokens[2]][0]
+            html_data[year] += "<td><a href='"+ config['wiki']+distr[tokens[2]][0]+"'>"+logo+"</a></td>\n"
             qrfile = "../"+download_poster(tokens[6])
             html_data[year] += "<td><a href='"+ config['trailer'] + tokens[6] +"'><img src='"+qrfile+"' width=300px height=200px></img></a></td>\n"
             key = tokens[0]+tokens[4]
             if len(info_data)>0 and key in info_dict:
                 if len(info_dict[key].split("\t"))>1:
                     link = info_dict[key].split("\t")[0]
+
+
                     rem  = info_dict[key].split("\t")[1]
                 else:
                     link = info_dict[key]
                     rem  = ""
-                html_data[year] += "<td><a style=\"font-size:18px;\" href='"+info_data+link.replace("'","&apos;")+"'>"+prefix+":"+link+"</a></td>"
+                html_data[year] += "<td><a style=\"font-size:18px;\" href='"+info_data+link.replace("'","&apos;")+"'><img src='../images/play.png' width=100px height=100px></a></td>"
                 html_data[year] += "<td><a style=\"font-size:18px;\">"+rem+"</td>\n"
             html_data[year] += "</tr>\n"
     f.close()
