@@ -24,19 +24,26 @@ def get_poster(movie_url):
 
     
 
-def parse(url = URL_TEMPLATE):
-    result_list = {'href': [], 'title': [], 'poster': []}
+def parse(year):
+    url = URL_TEMPLATE + year
+    result_list = {'rank' :[], 'title': [], 'distributor': [], 'href': [], 'year': [], 'poster': [], 'trailer': []}
     r = requests.get(url)
     soup = bs(r.text, "html.parser")
     print(soup.title)
     table = soup.find("caption")
     movie_list = table.next_sibling.next_sibling
+    rank = 1
     for movies in movie_list.find_all('i'):
         link = movies.contents[0]
-        #print(link)
-        result_list['href'].append(link.get('href'))
-        result_list['title'].append(link.get('title'))
-        result_list['poster'].append(get_poster(link.get('href').strip()))
+        print(link.text)
+        result_list['rank'].append(str(rank))
+        result_list['href'].append(urllib.parse.unquote(link.get('href').split('/wiki/')[1]))
+        result_list['title'].append(link.text)
+        result_list['poster'].append(get_poster(link.get('href')).split('/220px')[0])
+        result_list['year'].append(year)
+        result_list['trailer'].append("mz_YWNhKOkM")
+        result_list['distributor'].append("Warner Bros.")
+        rank += 1
     return result_list
 
 
@@ -44,6 +51,5 @@ if __name__ == "__main__":
     year = "1980"
     if len(sys.argv)>1:
         year = sys.argv[1]
-    year = URL_TEMPLATE + year
     df = pd.DataFrame(data=parse(year))
-    print(df)
+    df.to_csv('movies_en.txt', sep='\t', index=False)
