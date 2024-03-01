@@ -109,10 +109,16 @@ def read_movies(fname, prefix):
             else:
                 html_data[year] += "<td>"
             html_data[year] += "<a href='"+ config['wiki']+tokens[3].replace("'","&apos;") +"'>" + tokens[1] + "</a></td>\n"
-            if len(distr[tokens[2]])>1:
-                logo = "<img src='"+ distr[tokens[2]][1] +"' width=200px height=100px>"
-            else:
-                logo = distr[tokens[2]][0]
+            try:
+                if len(distr[tokens[2]])>1:
+                    logo = "<img src='"+ distr[tokens[2]][1] +"' width=200px height=100px>"
+                else:
+                    logo = distr[tokens[2]][0]
+            except:
+                print(tokens)
+                print("Error")
+                sys.exit()
+
             html_data[year] += "<td><a href='"+ config['wiki']+distr[tokens[2]][0]+"'>"+logo+"</a></td>\n"
             qrfile = "../"+download_poster(tokens[6])
             html_data[year] += "<td><a href='"+ config['trailer'] + tokens[6] +"'><img src='"+qrfile+"' width=300px height=200px></a></td>\n"

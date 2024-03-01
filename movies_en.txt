@@ -64,3 +64,58 @@
 
 
 
+#rank	title	distributor	href	year	poster	trailer
+1	Return of the Jedi	20th Century Fox	Return_of_the_Jedi	1983	b/b2/ReturnOfTheJediPoster1983.jpg	mz_YWNhKOkM
+2	Terms of Endearment	Paramount	Terms_of_Endearment	1983	b/bf/Terms_of_Endearment,_1983_film.jpg	mz_YWNhKOkM
+3	Flashdance	Paramount	Flashdance	1983	7/7c/Flashdanceposter.jpg	mz_YWNhKOkM
+4	Trading Places	Paramount	Trading_Places	1983	4/4d/Trading_Places.jpg	mz_YWNhKOkM
+5	WarGames	MGM	WarGames	1983	2/29/Wargames.jpg	mz_YWNhKOkM
+6	Octopussy	MGM	Octopussy	1983	b/b2/Octopussy_-_UK_cinema_poster.jpg	mz_YWNhKOkM
+7	Sudden Impact	Warner Bros.	Sudden_Impact	1983	0/0b/Sudden_Impact.jpg	mz_YWNhKOkM
+8	Staying Alive	Paramount	Staying_Alive_(1983_film)	1983	f/f0/Stayingalive.jpg	mz_YWNhKOkM
+9	Mr. Mom	20th Century Fox	Mr._Mom	1983	e/ed/Mr_mom_poster.jpg	mz_YWNhKOkM
+10	Risky Business	Warner Bros.	Risky_Business	1983	3/33/Risky_Business.jpg	mz_YWNhKOkM
+#rank	title	distributor	href	year	poster	trailer
+1	Ghostbusters	Columbia	Ghostbusters	1984	2/2f/Ghostbusters_(1984)_theatrical_poster.png	mz_YWNhKOkM
+2	Beverly Hills Cop	Paramount	Beverly_Hills_Cop	1984	a/a2/Beverly_Hills_Cop.jpg	mz_YWNhKOkM
+3	Indiana Jones and the Temple of Doom	Paramount	Indiana_Jones_and_the_Temple_of_Doom	1984	1/10/Indiana_Jones_and_the_Temple_of_Doom_PosterB.jpg	mz_YWNhKOkM
+4	Gremlins	Warner Bros.	Gremlins	1984	3/3d/Gremlins1.jpg	mz_YWNhKOkM
+5	The Karate Kid	Columbia	The_Karate_Kid	1984	a/a9/Karate_kid.jpg	mz_YWNhKOkM
+6	Police Academy	Warner Bros.	Police_Academy_(film)	1984	4/4d/Police_Academy_film.jpg	mz_YWNhKOkM
+7	Footloose	Paramount	Footloose_(1984_film)	1984	e/e4/FootloosePoster.jpg	mz_YWNhKOkM
+8	Romancing the Stone	20th Century Fox	Romancing_the_Stone	1984	8/84/Romancing_the_stone.jpg	mz_YWNhKOkM
+9	Star Trek III: The Search for Spock	Paramount Pictures	Star_Trek_III:_The_Search_for_Spock	1984	b/b6/Star_Trek_III_The_Search_for_Spock.png	mz_YWNhKOkM
+10	Splash	Buena Vista	Splash_(film)	1984	a/a3/Splash_ver2.jpg	mz_YWNhKOkM
+#rank	title	distributor	href	year	poster	trailer
+1	Back to the Future	Universal	Back_to_the_Future	1985	d/d2/Back_to_the_Future.jpg	mz_YWNhKOkM
+2	Rambo: First Blood Part II	Tri-Star	Rambo:_First_Blood_Part_II	1985	f/fc/Rambo_first_blood_part_ii.jpg	mz_YWNhKOkM
+3	Rocky IV	MGM	Rocky_IV	1985	9/95/Rocky_IV.jpg	mz_YWNhKOkM
+4	The Color Purple	Warner Bros.	The_Color_Purple_(1985_film)	1985	b/be/The_Color_Purple_poster.jpg	mz_YWNhKOkM
+5	Out of Africa	Universal	Out_of_Africa_(film)	1985	d/d8/Out_of_Africa_(1985).jpg	mz_YWNhKOkM
+6	Cocoon	20th Century Fox	Cocoon_(film)	1985	e/ef/Cocoonposter.jpg	mz_YWNhKOkM
+7	The Jewel of the Nile	20th Century Fox	The_Jewel_of_the_Nile	1985	4/42/The_Jewel_of_the_Nile_(1985)_film_poster.jpg	mz_YWNhKOkM
+8	Witness	Paramount	Witness_(1985_film)	1985	b/bc/Witness_movie.jpg	mz_YWNhKOkM
+9	The Goonies	Warner Bros.	The_Goonies	1985	c/c6/The_Goonies.jpg	mz_YWNhKOkM
+10	Spies Like Us	Warner Bros.	Spies_Like_Us	1985	f/fb/Spieslikeusposter.jpg	mz_YWNhKOkM
+#rank	title	distributor	href	year	poster	trailer
+1	Top Gun	Paramount	Top_Gun	1986	4/46/Top_Gun_Movie.jpg	mz_YWNhKOkM
+2	Crocodile Dundee	Paramount	Crocodile_Dundee	1986	a/a6/Crocodile_Dundee_original_Australian_New_Zealand_poster.jpg	mz_YWNhKOkM
+3	Platoon	Orion Pictures	Platoon_(film)	1986	a/a9/Platoon_posters_86.jpg	mz_YWNhKOkM
+4	The Karate Kid Part II	Columbia	The_Karate_Kid_Part_II	1986	b/b5/Karate_kid_part_II.jpg	mz_YWNhKOkM
+5	Star Trek IV: The Voyage Home	Paramount Pictures	Star_Trek_IV:_The_Voyage_Home	1986	6/68/Star_Trek_IV_The_Voyage_Home.png	mz_YWNhKOkM
+6	Back to School	Orion Pictures	Back_to_School	1986	7/7f/Back_to_School_Movie_Poster.jpg	mz_YWNhKOkM
+7	Aliens	20th Century Fox	Aliens_(film)	1986	f/fb/Aliens_poster.jpg	mz_YWNhKOkM
+8	The Golden Child	Paramount Pictures	The_Golden_Child	1986	1/1a/Golden_child_movie.jpg	mz_YWNhKOkM
+9	Ruthless People	Buena Vista	Ruthless_People	1986	3/3a/Ruthless_people_poster.jpg	mz_YWNhKOkM
+10	Ferris Bueller's Day Off	Paramount	Ferris_Bueller's_Day_Off	1986	9/9b/Ferris_Bueller's_Day_Off.jpg	mz_YWNhKOkM
+#rank	title	distributor	href	year	poster	trailer
+1	Three Men and a Baby	Buena Vista	Three_Men_and_a_Baby	1987	b/bd/Three_Men_and_a_Baby.png	mz_YWNhKOkM
+2	Fatal Attraction	Paramount	Fatal_Attraction	1987	b/ba/Fatal_Attraction_poster.png	mz_YWNhKOkM
+3	Beverly Hills Cop II	Paramount	Beverly_Hills_Cop_II	1987	5/52/Beverly_Hills_Cop_II.jpg	mz_YWNhKOkM
+4	Good Morning, Vietnam	Buena Vista	Good_Morning,_Vietnam	1987	d/d0/Good_Morning,_Vietnam.jpg	mz_YWNhKOkM
+5	Moonstruck	MGM/UA Communications Co.	Moonstruck	1987	7/7d/Chermoonstruck.jpg	mz_YWNhKOkM
+6	The Untouchables	Paramount	The_Untouchables_(film)	1987	9/92/UntouchablesThe.jpg	mz_YWNhKOkM
+7	The Secret of My Success	Universal Pictures	The_Secret_of_My_Success_(1987_film)	1987	1/18/The_Secret_Of_My_Success.jpg	mz_YWNhKOkM
+8	Stakeout	Buena Vista	Stakeout_(1987_film)	1987	2/2f/Stakeoutposter1987.jpg	mz_YWNhKOkM
+9	Lethal Weapon	Warner Bros.	Lethal_Weapon	1987	d/d9/Lethal_weapon1.jpg	mz_YWNhKOkM
+10	The Witches of Eastwick	Warner Bros.	The_Witches_of_Eastwick_(film)	1987	f/f4/Witches_moviep.jpg	mz_YWNhKOkM
