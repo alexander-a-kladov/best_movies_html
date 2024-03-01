@@ -74,7 +74,9 @@ def add_year(new_year):
             html_data[year] += "</table>\n</body>\n</html>\n"
         if new_year not in html_data:
             year = new_year
-            html_data[year] = "<html>\n"+style_data+"<body>\n<table style=\"font-size:42px;font-weight:500;\">\n"
+            html_data[year] = "<html>\n"+style_data+"<body>\n"
+            html_data[year] += "<div style=\"font-size:42px;\"><a href='"+config['wiki']+year+"_in_film'>"+year+"</a></div>"
+            html_data[year] += "<table style=\"font-size:42px;\">\n"
 
 
 def read_movies(fname, prefix):
@@ -89,29 +91,32 @@ def read_movies(fname, prefix):
                 continue
             #print(tokens)
             add_year(tokens[4])
+            
+            key = tokens[0]+tokens[4]
+            link = ""
+            rem  = ""
+            if len(info_data)>0 and key in info_dict:
+                if len(info_dict[key].split("\t"))>1:
+                    link = info_dict[key].split("\t")[0]
+                    rem  = info_dict[key].split("\t")[1]
+                else:
+                    link = info_dict[key]
             html_data[year] += "<tr>\n"
             html_data[year] += "<td>" + tokens[0] + "</td>\n"
-            html_data[year] += "<td><a href='"+config['buy_poster']+tokens[1].replace("'","&apos;").replace(' ','+')+"'><img src='" + config['poster'] + tokens[5]+"' width=160px height=200px></img></a></td>\n"
-            html_data[year] += "<td><a href='"+ config['wiki']+tokens[3].replace("'","&apos;") +"'>" + tokens[1] + "</a></td>\n"
+            html_data[year] += "<td><a href='"+config['buy_poster']+tokens[1].replace("'","&apos;").replace(' ','+')+"'><img src='" + config['poster'] + tokens[5].replace("'","&apos;")+"' width=160px height=200px></a></td>\n"
+            if len(link)>0:
+                html_data[year] += "<td><a href='"+info_data+link.replace("'","&apos;")+"'><img src='../images/play.png' width=100px height=100px></a>\n"
+            else:
+                html_data[year] += "<td>"
+            html_data[year] += "<a href='"+ config['wiki']+tokens[3].replace("'","&apos;") +"'>" + tokens[1] + "</a></td>\n"
             if len(distr[tokens[2]])>1:
                 logo = "<img src='"+ distr[tokens[2]][1] +"' width=200px height=100px>"
             else:
                 logo = distr[tokens[2]][0]
             html_data[year] += "<td><a href='"+ config['wiki']+distr[tokens[2]][0]+"'>"+logo+"</a></td>\n"
             qrfile = "../"+download_poster(tokens[6])
-            html_data[year] += "<td><a href='"+ config['trailer'] + tokens[6] +"'><img src='"+qrfile+"' width=300px height=200px></img></a></td>\n"
-            key = tokens[0]+tokens[4]
-            if len(info_data)>0 and key in info_dict:
-                if len(info_dict[key].split("\t"))>1:
-                    link = info_dict[key].split("\t")[0]
-
-
-                    rem  = info_dict[key].split("\t")[1]
-                else:
-                    link = info_dict[key]
-                    rem  = ""
-                html_data[year] += "<td><a style=\"font-size:18px;\" href='"+info_data+link.replace("'","&apos;")+"'><img src='../images/play.png' width=100px height=100px></a></td>"
-                html_data[year] += "<td><a style=\"font-size:18px;\">"+rem+"</td>\n"
+            html_data[year] += "<td><a href='"+ config['trailer'] + tokens[6] +"'><img src='"+qrfile+"' width=300px height=200px></a></td>\n"
+            html_data[year] += "<td><a style=\"font-size:18px;\">"+rem+"</td>\n"
             html_data[year] += "</tr>\n"
     f.close()
 
