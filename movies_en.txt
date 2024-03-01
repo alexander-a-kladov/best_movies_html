@@ -27,12 +27,13 @@
 8	For Your Eyes Only	United Artists	For_Your_Eyes_Only_(film)	1981	c/cd/For_Your_Eyes_Only_-_UK_cinema_poster.jpg	e0iF8TCk4Fw
 9	The Four Seasons	Universal	The_Four_Seasons_(1981_film)	1981	9/9b/Four_seasonsmovieposter.jpg	QqTfHyRpXCI
 10	Time Bandits	Embassy	Time_Bandits	1981	8/82/Time_bandits.jpg	vioocIR0gHQ
-11	Clash of the Titans
-12	The Postman Always Rings Twice
-13	Excalibur
-14	Bustin' Loose
-15	Escape from New York
-16	Endless Love
+11	Clash of the Titans	United Artists	Clash_of_the_Titans_(1981_film)	1981	d/d2/Clash_of_the_titansposter.jpg	ojw1sau98Jg
+12	The Postman Always Rings Twice	Paramount	The_Postman_Always_Rings_Twice_(1981_film)	1981	a/a1/Postman_always_rings_twice.jpg	WXAHXsA76oY	
+13	Excalibur	Warner Bros.	Excalibur_(film)	1981	6/60/Excalibur_movie_poster.jpg	6QR6_17mn5s
+14	Bustin' Loose	Universal	Bustin'_Loose_(film)	1981	e/ea/Bustin'_Loose.jpg	S3xiOW7SCkw	
+15	Escape from New York	Embassy	Escape_from_New_York	1981	4/4b/EscapefromNYposter.jpg	ckvDo2JHB7o
+16	Endless Love	Universal	Endless_Love_(1981_film)	1981	f/f0/Endless_love.jpg	dlnoOdbZFdg
+17	An American Werewolf in London	Universal	An_American_Werewolf_in_London	1981	e/e5/An_American_Werewolf_in_London_poster.jpg	Tfz9AhPnM8c
 
 
 1	E.T. the Extra-Terrestrial	Universal	E.T._the_Extra-Terrestrial	1982	6/66/E_t_the_extra_terrestrial_ver3.jpg	wZNInG8kSiA
@@ -45,4 +46,21 @@
 8	Poltergeist	MGM	Poltergeist_(1982_film)	1982	e/e4/Poltergeist_(1982).png	9eZgEKjYJqA
 9	The Best Little Whorehouse in Texas	Universal	The_Best_Little_Whorehouse_in_Texas_(film)	1982	a/af/Best_little_whorehouse_in_texasposter.jpg	2BE3NqTRfLc
 10	Annie	Columbia	Annie_(1982_film)	1982	c/cd/Annie-film.jpg	I78xulb-l0s
+11	Gandhi	Columbia	Gandhi_(film)	1982	1/10/Gandhi-poster.png	B7I6D3mSYTE
+12	Death Wish II	Filmways	Death_Wish_II	1982	4/4c/Death_Wish_II.jpg	y4L65odzonc
+13	Conan the Barbarian	Universal	Conan_the_Barbarian_(1982_film)	1982	e/ed/Conan_movie_psoter.jpg	Nok-jOYn6Dg
+14	Firefox	Warner Bros.	Firefox_(film)	1982	4/42/Firefox(1982_film)_poster.jpg	T5W4MiBuEnY
+15	Blade Runner	Warner Bros.	Blade_Runner	1982	9/9f/Blade_Runner_(1982_poster).png	eogpIG53Cis
+16	Tron	Buena Vista	Tron	1982	1/17/Tron_poster.jpg	hMT8tRrEMC4
+17	The Thing
+18	Pink Floyd – The Wall
+19	First Blood
+20	Piranha II: The Spawning
+21	The Verdict
+22	The Toy (1982 film)
+23	Best Friends (1982 film)
+
+
+
+
 
