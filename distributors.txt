@@ -40,3 +40,4 @@ Associated Film	Associated_Film_Distribution	https://upload.wikimedia.org/wikipe
 Newmarket Films	Newmarket_Films	https://upload.wikimedia.org/wikipedia/commons/7/73/Newmarket_Films.png
 Summit Entertainment	Summit_Entertainment	https://upload.wikimedia.org/wikipedia/commons/4/4c/Summit_Entertainment_logo.svg
 Lionsgate	Lionsgate_Films	https://upload.wikimedia.org/wikipedia/commons/6/65/Lionsgate_Logo.svg
+Angel Studios	Angel_Studios	https://upload.wikimedia.org/wikipedia/commons/6/61/Angel_Studios_logo.svg

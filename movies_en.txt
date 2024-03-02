@@ -515,3 +515,113 @@
 8	The Hobbit: The Desolation of Smaug	Warner Bros.	The_Hobbit:_The_Desolation_of_Smaug	2013	4/4f/The_Hobbit_-_The_Desolation_of_Smaug_theatrical_poster.jpg	
 9	Fast & Furious 6	Universal	Fast_&_Furious_6	2013	3/30/Fast_&_Furious_6_film_poster.jpg	
 10	Oz the Great and Powerful	Buena Vista	Oz_the_Great_and_Powerful	2013	5/52/Oz_-_The_Great_and_Powerful_Poster.jpg	
+#rank	title	distributor	href	year	poster	trailer
+1	American Sniper	Warner Bros.	American_Sniper	2014	1/10/American_Sniper_poster.jpg	
+2	The Hunger Games: Mockingjay – Part 1	Lionsgate	The_Hunger_Games:_Mockingjay_–_Part_1	2014	6/63/MockingjayPart1Poster3.jpg	
+3	Guardians of the Galaxy	Buena Vista	Guardians_of_the_Galaxy_(film)	2014	3/33/Guardians_of_the_Galaxy_(film)_poster.jpg	
+4	Captain America: The Winter Soldier	Buena Vista	Captain_America:_The_Winter_Soldier	2014	9/9e/Captain_America_The_Winter_Soldier_poster.jpg	
+5	The Lego Movie	Warner Bros.	The_Lego_Movie	2014	1/10/The_Lego_Movie_poster.jpg	
+6	The Hobbit: The Battle of the Five Armies	Warner Bros.	The_Hobbit:_The_Battle_of_the_Five_Armies	2014	e/e7/The_Hobbit_-_The_Battle_of_the_Five_Armies.png	
+7	Transformers: Age of Extinction	Paramount	Transformers:_Age_of_Extinction	2014	0/0f/Transformers_Age_of_Extinction_poster.jpg	
+8	Maleficent	Buena Vista	Maleficent_(film)	2014	5/55/Maleficent_poster.jpg	
+9	X-Men: Days of Future Past	20th Century Fox	X-Men:_Days_of_Future_Past	2014	0/0c/X-Men_Days_of_Future_Past_poster.jpg	
+10	Big Hero 6	Buena Vista	Big_Hero_6_(film)	2014	4/4b/Big_Hero_6_(film)_poster.jpg	
+#rank	title	distributor	href	year	poster	trailer
+1	Star Wars: The Force Awakens	Buena Vista	Star_Wars:_The_Force_Awakens	2015	a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg	
+2	Jurassic World	Universal	Jurassic_World	2015	6/6e/Jurassic_World_poster.jpg	
+3	Avengers: Age of Ultron	Buena Vista	Avengers:_Age_of_Ultron	2015	f/ff/Avengers_Age_of_Ultron_poster.jpg	
+4	Inside Out	Buena Vista	Inside_Out_(2015_film)	2015	0/0a/Inside_Out_(2015_film)_poster.jpg	
+5	Furious 7	Universal	Furious_7	2015	b/b8/Furious_7_poster.jpg	
+6	Minions	Universal	Minions_(film)	2015	1/19/Minions_(2015_film).jpg	
+7	The Hunger Games: Mockingjay – Part 2	Lionsgate	The_Hunger_Games:_Mockingjay_–_Part_2	2015	9/9d/Mockingjay_Part_2_Poster.jpg	
+8	The Martian	20th Century Fox	The_Martian_(film)	2015	c/cd/The_Martian_film_poster.jpg	
+9	Cinderella	Buena Vista	Cinderella_(2015_American_film)	2015	c/c2/Cinderella_2015_official_poster.jpg	
+10	Spectre	Sony Pictures Releasing	Spectre_(2015_film)	2015	b/b9/Spectre_2015_poster.jpg	
+#rank	title	distributor	href	year	poster	trailer
+1	Rogue One: A Star Wars Story	Buena Vista	Rogue_One:_A_Star_Wars_Story	2016	d/d4/Rogue_One,_A_Star_Wars_Story_poster.png	
+2	Finding Dory	Buena Vista	Finding_Dory	2016	3/3e/Finding_Dory.jpg	
+3	Captain America: Civil War	Buena Vista	Captain_America:_Civil_War	2016	5/53/Captain_America_Civil_War_poster.jpg	
+4	The Secret Life of Pets	Universal	The_Secret_Life_of_Pets	2016	6/64/The_Secret_Life_of_Pets_poster.jpg	
+5	The Jungle Book	Buena Vista	The_Jungle_Book_(2016_film)	2016	a/a4/The_Jungle_Book_(2016).jpg	
+6	Deadpool	20th Century Fox	Deadpool_(film)	2016	2/23/Deadpool_(2016_poster).png	
+7	Zootopia	Buena Vista	Zootopia	2016	9/96/Zootopia_(movie_poster).jpg	
+8	Batman v Superman: Dawn of Justice	Warner Bros.	Batman_v_Superman:_Dawn_of_Justice	2016	3/31/Batman_v_Superman_Dawn_of_Justice_poster.jpg	
+9	Suicide Squad	Warner Bros.	Suicide_Squad_(2016_film)	2016	5/5c/Suicide_Squad_(2016_film)_poster.png	
+10	Sing	Universal	Sing_(2016_American_film)	2016	b/bb/Sing_(2016_film)_poster.jpg	
+#rank	title	distributor	href	year	poster	trailer
+1	Star Wars: The Last Jedi	Buena Vista	Star_Wars:_The_Last_Jedi	2017	7/7f/Star_Wars_The_Last_Jedi.jpg	
+2	Beauty and the Beast	Buena Vista	Beauty_and_the_Beast_(2017_film)	2017	d/d6/Beauty_and_the_Beast_2017_poster.jpg	
+3	Wonder Woman	Warner Bros.	Wonder_Woman_(2017_film)	2017	b/b0/Wonder_Woman_(2017_film)_poster.jpg	
+4	Jumanji: Welcome to the Jungle	Sony Pictures Releasing	Jumanji:_Welcome_to_the_Jungle	2017	d/dc/Jumanji_Welcome_to_the_Jungle.png	
+5	Guardians of the Galaxy Vol. 2	Buena Vista	Guardians_of_the_Galaxy_Vol._2	2017	3/32/Guardians_of_the_Galaxy_Vol._2_poster.jpg	
+6	Spider-Man: Homecoming	Sony Pictures Releasing	Spider-Man:_Homecoming	2017	f/f9/Spider-Man_Homecoming_poster.jpg	
+7	It	Warner Bros.	It_(2017_film)	2017	5/5a/It_(2017)_poster.jpg	
+8	Thor: Ragnarok	Buena Vista	Thor:_Ragnarok	2017	7/7d/Thor_Ragnarok_poster.jpg	
+9	Despicable Me 3	Universal Pictures	Despicable_Me_3	2017	8/80/Despicable_Me_3_theatrical_release_poster.jpg	
+10	Justice League	Warner Bros.	Justice_League_(film)	2017	6/6b/Justice_League_(film)_poster.jpg	
+#rank	title	distributor	href	year	poster	trailer
+1	Black Panther	Buena Vista	Black_Panther_(film)	2018	d/d6/Black_Panther_(film)_poster.jpg	
+2	Avengers: Infinity War	Buena Vista	Avengers:_Infinity_War	2018	4/4d/Avengers_Infinity_War_poster.jpg	
+3	Incredibles 2	Buena Vista	Incredibles_2	2018	1/1f/Incredibles_2_(2018_animated_film).jpg	
+4	Jurassic World: Fallen Kingdom	Universal	Jurassic_World:_Fallen_Kingdom	2018	c/c6/Jurassic_World_Fallen_Kingdom.png	
+5	Aquaman	Warner Bros.	Aquaman_(film)	2018	e/ed/Aquaman_(film)_poster.jpg	
+6	Deadpool 2	20th Century Fox	Deadpool_2	2018	c/cf/Deadpool_2_poster.jpg	
+7	The Grinch	Universal Pictures	The_Grinch_(film)	2018	4/4f/The_Grinch,_final_poster.jpg	
+8	Mission: Impossible – Fallout	Paramount	Mission:_Impossible_–_Fallout	2018	f/ff/MI_–_Fallout.jpg	
+9	Ant-Man and the Wasp	Buena Vista	Ant-Man_and_the_Wasp	2018	2/2c/Ant-Man_and_the_Wasp_poster.jpg	
+10	Bohemian Rhapsody	20th Century Fox	Bohemian_Rhapsody_(film)	2018	2/2e/Bohemian_Rhapsody_poster.png	
+#rank	title	distributor	href	year	poster	trailer
+1	Avengers: Endgame	Buena Vista	Avengers:_Endgame	2019	0/0d/Avengers_Endgame_poster.jpg	
+2	The Lion King	Buena Vista	The_Lion_King_(2019_film)	2019	9/9d/Disney_The_Lion_King_2019.jpg	
+3	Star Wars: The Rise of Skywalker	Buena Vista	Star_Wars:_The_Rise_of_Skywalker	2019	a/af/Star_Wars_The_Rise_of_Skywalker_poster.jpg	
+4	Frozen II	Buena Vista	Frozen_II	2019	8/89/Frozen_II_(2019_animated_film).jpg	
+5	Toy Story 4	Buena Vista	Toy_Story_4	2019	4/4c/Toy_Story_4_poster.jpg	
+6	Captain Marvel	Buena Vista	Captain_Marvel_(film)	2019	4/4e/Captain_Marvel_(film)_poster.jpg	
+7	Spider-Man: Far From Home	Sony Pictures Releasing	Spider-Man:_Far_From_Home	2019	b/bd/Spider-Man_Far_From_Home_poster.jpg	
+8	Aladdin	Buena Vista	Aladdin_(2019_film)	2019	9/9a/Aladdin_(Official_2019_Film_Poster).png	
+9	Joker	Warner Bros.	Joker_(2019_film)	2019	e/e1/Joker_(2019_film)_poster.jpg	
+10	Jumanji: The Next Level	Sony Pictures Releasing	Jumanji:_The_Next_Level	2019	1/12/Jumanji_-The_Next_Level_film_poster.jpg	
+#rank	title	distributor	href	year	poster	trailer
+1	Bad Boys for Life	Sony Pictures Releasing	Bad_Boys_for_Life	2020	9/90/Bad_Boys_for_Life_poster.jpg	
+2	Sonic the Hedgehog	Paramount	Sonic_the_Hedgehog_(film)	2020	4/45/Sonic_the_Hedgehog_film_poster.jpg	
+3	Birds of Prey	Warner Bros.	Birds_of_Prey_(2020_film)	2020	1/1c/Birds_of_Prey_(2020_film)_poster.jpg	
+4	Dolittle	Universal	Dolittle_(film)	2020	1/1f/Dolittle_(2020_film_poster).png	
+5	The Invisible Man	Universal	The_Invisible_Man_(2020_film)	2020	3/3a/The_Invisible_Man_(2020_film)_-_release_poster.jpg	
+6	The Call of the Wild	20th Century Fox	The_Call_of_the_Wild_(2020_film)	2020	4/43/The_Call_of_the_Wild_poster.jpg	
+7	Onward	Buena Vista	Onward_(film)	2020	0/03/Onward_poster.jpg	
+8	The Croods: A New Age	Universal	The_Croods:_A_New_Age	2020	9/91/The_Croods_-_A_New_Age.png	
+9	Tenet	Warner Bros.	Tenet_(film)	2020	1/14/Tenet_movie_poster.jpg	
+10	Wonder Woman 1984	Warner Bros.	Wonder_Woman_1984	2020	4/4f/Wonder_Woman_1984_poster.png	
+#rank	title	distributor	href	year	poster	trailer
+1	Spider-Man: No Way Home	Sony Pictures Releasing	Spider-Man:_No_Way_Home	2021	0/00/Spider-Man_No_Way_Home_poster.jpg	
+2	Shang-Chi and the Legend of the Ten Rings	Buena Vista	Shang-Chi_and_the_Legend_of_the_Ten_Rings	2021	7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg	
+3	Venom: Let There Be Carnage	Sony Pictures Releasing	Venom:_Let_There_Be_Carnage	2021	a/a7/Venom_Let_There_Be_Carnage_poster.jpg	
+4	Black Widow	Buena Vista	Black_Widow_(2021_film)	2021	e/e9/Black_Widow_(2021_film)_poster.jpg	
+5	F9	Universal	F9_(film)	2021	2/2b/F9_film_poster.jpg	
+6	Eternals	Buena Vista	Eternals_(film)	2021	9/9b/Eternals_(film)_poster.jpeg	
+7	Sing 2	Universal	Sing_2	2021	8/87/Sing_2_poster.jpg	
+8	No Time to Die	United Artists	No_Time_to_Die	2021	f/fe/No_Time_to_Die_poster.jpg	
+9	A Quiet Place Part II	Paramount	A_Quiet_Place_Part_II	2021	0/02/A_Quiet_Place_Part_II.jpg	
+10	Ghostbusters: Afterlife	Sony Pictures Releasing	Ghostbusters:_Afterlife	2021	d/d1/Ghostbusters_-_Afterlife_official_theatrical_poster.jpg	
+#rank	title	distributor	href	year	poster	trailer
+1	Top Gun: Maverick	Paramount	Top_Gun:_Maverick	2022	1/13/Top_Gun_Maverick_Poster.jpg	
+2	Avatar: The Way of Water	20th Century Fox	Avatar:_The_Way_of_Water	2022	5/54/Avatar_The_Way_of_Water_poster.jpg	
+3	Black Panther: Wakanda Forever	Buena Vista	Black_Panther:_Wakanda_Forever	2022	3/3b/Black_Panther_Wakanda_Forever_poster.jpg	
+4	Doctor Strange in the Multiverse of Madness	Buena Vista	Doctor_Strange_in_the_Multiverse_of_Madness	2022	1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg	
+5	Jurassic World Dominion	Universal	Jurassic_World_Dominion	2022	c/ce/JurassicWorldDominion_Poster.jpeg	
+6	Minions: The Rise of Gru	Universal	Minions:_The_Rise_of_Gru	2022	4/45/Minions_The_Rise_of_Gru_poster.jpg	
+7	The Batman	Warner Bros.	The_Batman_(film)	2022	f/ff/The_Batman_(film)_poster.jpg	
+8	Thor: Love and Thunder	Buena Vista	Thor:_Love_and_Thunder	2022	8/88/Thor_Love_and_Thunder_poster.jpeg	
+9	Sonic the Hedgehog 2	Paramount	Sonic_the_Hedgehog_2_(film)	2022	3/3e/Sonic_the_Hedgehog_2_film_poster.jpg	
+10	Puss in Boots: The Last Wish	Universal	Puss_in_Boots:_The_Last_Wish	2022	7/78/Puss_in_Boots_The_Last_Wish_poster.jpg	
+#rank	title	distributor	href	year	poster	trailer
+1	Barbie	Warner Bros.	Barbie_(film)	2023	0/0b/Barbie_2023_poster.jpg	
+2	The Super Mario Bros. Movie	Universal Pictures	The_Super_Mario_Bros._Movie	2023	4/44/The_Super_Mario_Bros._Movie_poster.jpg	
+3	Spider-Man: Across the Spider-Verse	Sony Pictures Releasing	Spider-Man:_Across_the_Spider-Verse	2023	b/b4/Spider-Man-_Across_the_Spider-Verse_poster.jpg	
+4	Guardians of the Galaxy Vol. 3	Buena Vista	Guardians_of_the_Galaxy_Vol._3	2023	7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg	
+5	Oppenheimer	Universal	Oppenheimer_(film)	2023	4/4a/Oppenheimer_(film).jpg	
+6	The Little Mermaid	Buena Vista	The_Little_Mermaid_(2023_film)	2023	f/f4/The_Little_Mermaid_(2023_film).png	
+7	Wonka	Warner Bros.	Wonka_(film)	2023	9/90/Wonka_2023_film_poster.jpg	
+8	Ant-Man and the Wasp: Quantumania	Buena Vista	Ant-Man_and_the_Wasp:_Quantumania	2023	3/30/Ant-Man_and_the_Wasp_Quantumania_poster.jpg	
+9	John Wick: Chapter 4	Lionsgate	John_Wick:_Chapter_4	2023	d/d0/John_Wick_-_Chapter_4_promotional_poster.jpg	
+10	Sound of Freedom	Angel Studios	Sound_of_Freedom_(film)	2023	2/24/Sound_of_Freedom_(film)_poster.jpg	
