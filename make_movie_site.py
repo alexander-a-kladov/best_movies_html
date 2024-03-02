@@ -95,19 +95,24 @@ def read_movies(fname, prefix):
             key = tokens[0]+tokens[4]
             link = ""
             rem  = ""
-            if len(info_data)>0 and key in info_dict:
-                if len(info_dict[key].split("\t"))>1:
-                    link = info_dict[key].split("\t")[0]
-                    rem  = info_dict[key].split("\t")[1]
-                else:
-                    link = info_dict[key]
+            if len(info_data)>0:
+                if key in info_dict:
+                    if len(info_dict[key].split("\t"))>1:
+                        link = info_dict[key].split("\t")[0]
+                        rem  = info_dict[key].split("\t")[1]
+                    else:
+                        link = info_dict[key]
+
             html_data[year] += "<tr>\n"
             html_data[year] += "<td>" + tokens[0] + "</td>\n"
             html_data[year] += "<td><a href='"+config['buy_poster']+tokens[1].replace("'","&apos;").replace(' ','+')+"'><img src='" + config['poster'] + tokens[5].replace("'","&apos;")+"' width=160px height=200px></a></td>\n"
             if len(link)>0:
                 html_data[year] += "<td><a href='"+info_data+link.replace("'","&apos;")+"'><img src='../images/play.png' width=100px height=100px></a>\n"
             else:
-                html_data[year] += "<td>"
+                if info_data.find('dl.php?t=') != -1:
+                    html_data[year] += "<td><a href='"+info_data.replace('dl.php?t=', 'tracker.php?nm=')+tokens[1]+ "' target=_blank><img src='../images/search.png' width=100px height=100px></a>\n"
+                else:
+                    html_data[year] += "<td>\n"
             html_data[year] += "<a href='"+ config['wiki']+tokens[3].replace("'","&apos;") +"'>" + tokens[1] + "</a></td>\n"
             try:
                 if len(distr[tokens[2]])>1:

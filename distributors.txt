@@ -27,4 +27,16 @@ Miramax Films	Miramax	https://upload.wikimedia.org/wikipedia/commons/d/dc/Mirama
 Sony Pictures Releasing	Sony_Pictures_Motion_Picture_Group#Sony_Pictures_Releasing	https://upload.wikimedia.org/wikipedia/commons/8/8f/Sony_Pictures_Releasing_logo.svg
 Artisan	Artisan_Entertainment	https://upload.wikimedia.org/wikipedia/commons/a/a0/Artisan_Entertainment_%28logo%29.png
 IFC Films	IFC_Films	https://upload.wikimedia.org/wikipedia/commons/c/c5/IFC_Films_logo.svg
-
+American International Pictures	American_International_Pictures	https://upload.wikimedia.org/wikipedia/commons/c/c1/AIP2021.svg
+20th Century-Fox	20th_Century-Fox	https://upload.wikimedia.org/wikipedia/commons/2/22/20th_Century_Studios_(2020).svg
+Allied Artists	Allied_Artists_Pictures_Corporation	https://upload.wikimedia.org/wikipedia/commons/9/99/Monogramlogo.jpg
+Buena Vista Distribution	Buena_Vista_Distribution	https://upload.wikimedia.org/wikipedia/commons/5/5e/Walt_Disney_Studios_Motion_Pictures_logo.svg
+National General Pictures	National_General_Pictures	https://www.blu-ray.com/images/products/46/4404_1_large.jpg
+Sunn Classic	Sunn_Classic_Pictures	https://static.wikia.nocookie.net/logopedia/images/4/44/Sun_Classic_Pictures.jpg/revision/latest/scale-to-width-down/250?cb=20140926230600
+EMI Films	EMI_Films#Anglo-EMI_Film_Distributors	https://static.wikia.nocookie.net/freakylogo/images/7/77/Anglo-EMI/revision/latest?cb=20230425124833
+Conoco	Conoco	https://upload.wikimedia.org/wikipedia/commons/1/11/Conoco_logo.svg
+Compass International	Compass_International_Pictures	https://static.wikia.nocookie.net/closinglogogroup/images/e/e2/Compass_International_Pictures_%281978%29.gif/revision/latest/scale-to-width-down/1000?cb=20220817200210
+Associated Film	Associated_Film_Distribution	https://upload.wikimedia.org/wikipedia/commons/2/2a/Associated_Film_Distribution_Logo_%281980%29.png
+Newmarket Films	Newmarket_Films	https://upload.wikimedia.org/wikipedia/commons/7/73/Newmarket_Films.png
+Summit Entertainment	Summit_Entertainment	https://upload.wikimedia.org/wikipedia/commons/4/4c/Summit_Entertainment_logo.svg
+Lionsgate	Lionsgate_Films	https://upload.wikimedia.org/wikipedia/commons/6/65/Lionsgate_Logo.svg
