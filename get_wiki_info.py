@@ -7,7 +7,6 @@ import urllib
 WIKI = "https://en.wikipedia.org"
 URL_TEMPLATE = "https://en.wikipedia.org/wiki/List_of_American_films_of_"
 MEDIA_PREF = "https://upload.wikimedia.org/wikipedia/en/"
-FILE_NAME = "test.txt"
 POSTER_PREF = "//upload.wikimedia.org/wikipedia/en/thumb/"
 POSTER_PREF_SET = "//upload.wikimedia.org/wikipedia/en/"
 DISTRIBUTORS = dict()
@@ -81,14 +80,19 @@ def parse(year):
     rank = 1
     for movies in movie_list.find_all('i'):
         link = movies.contents[0]
-        print(link.text)
+        text = link.text
+        try:
+            print(link.text, link.get('href'))
+        except:
+            link = movies.previous_element
+            print(text, link.get('href'))
         result_list['rank'].append(str(rank))
         result_list['href'].append(urllib.parse.unquote(link.get('href').split('/wiki/')[1]))
-        result_list['title'].append(link.text)
+        result_list['title'].append(text)
         r1 = requests.get(WIKI+link.get('href'))
         result_list['poster'].append(get_poster(r1).split('/220px')[0])
         result_list['year'].append(year)
-        result_list['trailer'].append("mz_YWNhKOkM")
+        result_list['trailer'].append("")
         result_list['distributor'].append(get_distributor(r1))
         rank += 1
     return result_list

@@ -87,7 +87,7 @@ def read_movies(fname, prefix):
             if line[0] == '\n' or line[0] == '#':
                 continue
             tokens = line.strip().split('\t')
-            if len(tokens)<7:
+            if len(tokens)<6:
                 continue
             #print(tokens)
             add_year(tokens[4])
@@ -120,8 +120,12 @@ def read_movies(fname, prefix):
                 sys.exit()
 
             html_data[year] += "<td><a href='"+ config['wiki']+distr[tokens[2]][0]+"'>"+logo+"</a></td>\n"
-            qrfile = "../"+download_poster(tokens[6])
-            html_data[year] += "<td><a href='"+ config['trailer'] + tokens[6] +"'><img src='"+qrfile+"' width=300px height=200px></a></td>\n"
+            if len(tokens)==7:
+                qrfile = "../"+download_poster(tokens[6])
+                html_data[year] += "<td><a href='"+ config['trailer'] + tokens[6] +"'><img src='"+qrfile+"' width=300px height=200px></a></td>\n"
+            else:
+                qrfile = "../images/trailer.png"
+                html_data[year] += "<td><a href='"+ config['trailer_search'] + (tokens[1].replace("'", "&apos;")+" "+year+" trailer").replace(" ", "+") +"'><img src='"+qrfile+"' width=300px height=200px></a></td>\n"
             html_data[year] += "<td><a style=\"font-size:18px;\">"+rem+"</td>\n"
             html_data[year] += "</tr>\n"
     f.close()
