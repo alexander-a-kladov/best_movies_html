@@ -130,7 +130,7 @@
 1	Raiders of the Lost Ark	Paramount	Raiders_of_the_Lost_Ark	1981	a/a6/Raiders_of_the_Lost_Ark_Theatrical_Poster.jpg	0xQSIdSRlAk
 2	On Golden Pond	Universal	On_Golden_Pond_(1981_film)	1981	3/34/On_golden_pond.jpg	Y85sfYVOS84
 3	Superman II	Warner Bros.	Superman_II	1981	3/36/Superman_II.jpg	jxD8RlGnP64
-4	Arthur	Warner Bros.	Arthur_(1981_film)	1981	7/75/ArthurDVD.jpg	Z-vMsjd0ccM
+4	Arthur	Warner Bros.	Arthur_(1981_film)	1981	7/7b/Arthur_(1981_film)_poster.jpg	Z-vMsjd0ccM
 5	Stripes	Columbia	Stripes_(film)	1981	3/3e/Stripesposter.jpg	sKHwEoCIYqA
 6	The Cannonball Run	20th Century Fox	The_Cannonball_Run	1981	a/a0/Cannonball_run.jpg	s8BNVDUslcE
 7	Chariots of Fire	Warner Bros.	Chariots_of_Fire	1981	b/b5/Chariots_of_fire.jpg	odtqtlhsv4E

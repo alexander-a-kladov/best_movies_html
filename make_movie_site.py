@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 import segno, os, sys, requests
 
-autoplay = '&autoplay=1'
 style_data = "<style>body {background-color:#aaaadd;}</style>\n"
 info_data = ''
 info_dict=dict()
 html_data=dict()
+index_img_dict=dict()
 config=dict()
 distr=dict()
 year=""
@@ -58,24 +58,19 @@ def read_distr(fname):
     f.close()
 
 
-def qr_file_save(youtube_code):
-    global config
-    qrfile = "images/"+youtube_code+".png"
-    if not os.path.isfile(qrfile):
-        qrcode = segno.make_qr(config['trailer'] + youtube_code)
-        qrcode.save(qrfile, scale=5)
-    return qrfile
-
-
 def add_year(new_year):
-    global year, html_data
+    global year, html_data, index_img_dict
     if year != new_year:
         if year != "":
             html_data[year] += "</table>\n</body>\n</html>\n"
+        if new_year not in index_img_dict:
+            index_img_dict[new_year]=[]
         if new_year not in html_data:
             year = new_year
             html_data[year] = "<html>\n"+style_data+"<body>\n"
-            html_data[year] += "<div style=\"font-size:42px;\"><a href='"+config['wiki']+year+"_in_film'>"+year+"</a></div>"
+            html_data[year] += "<div style=\"font-size:42px;\">"
+            html_data[year] += "<a href='../index.html'><img src=../images/film.png height=50px></a>"
+            html_data[year] += "<a href='"+config['wiki']+year+"_in_film'>"+year+"</a></div>"
             html_data[year] += "<table style=\"font-size:42px;\">\n"
 
 
@@ -90,8 +85,7 @@ def read_movies(fname, prefix):
             if len(tokens)<6:
                 continue
             #print(tokens)
-            add_year(tokens[4])
-            
+            add_year(tokens[4])    
             key = tokens[0]+tokens[4]
             link = ""
             rem  = ""
@@ -105,7 +99,9 @@ def read_movies(fname, prefix):
 
             html_data[year] += "<tr>\n"
             html_data[year] += "<td>" + tokens[0] + "</td>\n"
-            html_data[year] += "<td><a href='"+config['buy_poster']+tokens[1].replace("'","&apos;").replace(' ','+')+"'><img src='" + config['poster'] + tokens[5].replace("'","&apos;")+"' width=160px height=200px></a></td>\n"
+            html_data[year] += "<td><a href='"+ config['trailer_search'] + (tokens[1].replace("'", "&apos;")+" "+year+" trailer").replace(" ", "+")+"'>\n"
+            html_data[year] += "<img src='" + config['poster'] + tokens[5].replace("'","&apos;")+"' width=150px height=200px></a></td>\n"
+            index_img_dict[year].append("<img src='" + config['poster'] + tokens[5].replace("'","&apos;")+"' width=75px height=100px>\n")
             if len(link)>0:
                 html_data[year] += "<td><a href='"+info_data+link.replace("'","&apos;")+"'><img src='../images/play.png' width=100px height=100px></a>\n"
             else:
@@ -125,12 +121,6 @@ def read_movies(fname, prefix):
                 sys.exit()
 
             html_data[year] += "<td><a href='"+ config['wiki']+distr[tokens[2]][0]+"'>"+logo+"</a></td>\n"
-            if len(tokens)==7:
-                qrfile = "../"+download_poster(tokens[6])
-                html_data[year] += "<td><a href='"+ config['trailer'] + tokens[6] +"'><img src='"+qrfile+"' width=300px height=200px></a></td>\n"
-            else:
-                qrfile = "../images/trailer.png"
-                html_data[year] += "<td><a href='"+ config['trailer_search'] + (tokens[1].replace("'", "&apos;")+" "+year+" trailer").replace(" ", "+") +"'><img src='"+qrfile+"' width=300px height=200px></a></td>\n"
             html_data[year] += "<td><a style=\"font-size:18px;\">"+rem+"</td>\n"
             html_data[year] += "</tr>\n"
     f.close()
@@ -152,11 +142,17 @@ def read_info(fname):
 
 
 def save_index(prefix):
-    global html_data
+    global html_data, index_img_dict
     index_html = "<html>\n<body style=\"font-size:42px;background-color:#dddd88;\">\n"
-    index_html += "<p>The Most Successful Movies of the Year</p>"
+    index_html += "<p><a href='index.html'><img src=images/film.png height=50px></a>The Most Successful Movies of the Year</p>"
     for year_key in html_data.keys():
-        index_html += "<div><a href='"+"pages/"+prefix+year_key+".html'>~~~~~~~~~~~"+ year_key+"~~~~~~~~~~</a></div>"
+        index_html += "<div><a href='"+"pages/"+prefix+year_key+".html'>"
+        for img_index in range(len(index_img_dict[year_key])//2):
+            index_html += index_img_dict[year_key][img_index]
+        index_html += year_key
+        for img_index in range(len(index_img_dict[year_key])//2, len(index_img_dict[year_key])):
+            index_html += index_img_dict[year_key][img_index]
+        index_html += "</a></div>"
     index_html += "</body>\n</html>\n"
     f_html = open(prefix+".html", "w")
     if f_html:
