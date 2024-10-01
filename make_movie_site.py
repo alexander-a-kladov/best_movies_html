@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import segno, os, sys, requests
+from bs4 import BeautifulSoup as bs
 
 style_data = "<style>body {background-color:#aaaadd;}</style>\n"
 info_data = ''
@@ -23,6 +24,24 @@ def download_poster(youtube_code):
                 f.write(chunk)
         f.close()
     return local_f
+
+
+def get_description(wiki_page):
+    global config
+    url = config['wiki'] + wiki_page
+    print(url)
+    r = requests.get(url)
+    soup = bs(r.text, "html.parser")
+    table = soup.find("table")
+    text = ""
+    elem = table.next_element.next_element
+    print(elem.text,elem.name)
+    while elem.name != 'b':
+        print('--->'+elem.name+'\n')
+        text += elem.text+" "
+        elem = elem.next_sibling
+    print(text)
+    sys.exit()
 
 
 def load_config():
@@ -110,6 +129,7 @@ def read_movies(fname, prefix):
                 else:
                     html_data[year] += "<td>\n"
             html_data[year] += "<a href='"+ config['wiki']+tokens[3].replace("'","&apos;") +"'>" + tokens[1] + "</a></td>\n"
+            get_description(tokens[3].replace("'","&apos;"))
             try:
                 if len(distr[tokens[2]])>1:
                     logo = "<img src='"+ distr[tokens[2]][1] +"' width=200px height=100px>"

@@ -1,7 +1,7 @@
 #rank	title	distributor	href	year	poster	trailer
 1	Love Story	Paramount	Love_Story_(1970_film)	1970	b/b7/Love_Story_(1970_film).jpg	
 2	Airport	Universal	Airport_(1970_film)	1970	4/4f/Airport_film.jpg	
-3	M*A*S*H	20th Century-Fox	M*A*S*H_(film)	1970		
+3	M*A*S*H	20th Century-Fox	M*A*S*H_(film)	1970	6/61/M*A*S*H_(1970_film_poster).jpg	
 4	Patton	20th Century Fox	Patton_(film)	1970	f/f2/70_patton.jpg	
 5	The Aristocats	Buena Vista Distribution	The_Aristocats	1970	8/8d/Aristoposter.jpg	
 6	Woodstock	Warner Bros.	Woodstock_(film)	1970	3/35/WoodstockFilmPoster.jpg	
@@ -196,6 +196,12 @@
 8	Romancing the Stone	20th Century Fox	Romancing_the_Stone	1984	8/84/Romancing_the_stone.jpg	
 9	Star Trek III: The Search for Spock	Paramount	Star_Trek_III:_The_Search_for_Spock	1984	b/b6/Star_Trek_III_The_Search_for_Spock.png	
 10	Splash	Buena Vista	Splash_(film)	1984	a/a3/Splash_ver2.jpg	
+Bachelor Party	Bachelor_Party_(1984_film)	38
+Moscow on the Hudson	Moscow_on_the_Hudson	25
+The Bounty	The_Bounty_(1984_film)	18
+Once Upon a Time in America	Once_Upon_a_Time_in_America	5
+
+
 #rank	title	distributor	href	year	poster	trailer
 1	Back to the Future	Universal	Back_to_the_Future	1985	d/d2/Back_to_the_Future.jpg	
 2	Rambo: First Blood Part II	Tri-Star	Rambo:_First_Blood_Part_II	1985	f/fc/Rambo_first_blood_part_ii.jpg	
