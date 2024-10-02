@@ -104,7 +104,7 @@
 4	Star Trek: The Motion Picture	Paramount	Star_Trek:_The_Motion_Picture	1979	d/df/Star_Trek_The_Motion_Picture_poster.png	
 5	Alien	20th Century-Fox	Alien_(film)	1979	c/c3/Alien_movie_poster.jpg	
 6	Apocalypse Now	United Artists	Apocalypse_Now	1979	c/c2/Apocalypse_Now_poster.jpg	
-7	10	Warner Bros.	10_(1979_film)	1979	a/a2/Bo10.jpg	
+7	10	Warner Bros.	10_(1979_film)	1979	6/67/10_1979_film_poster.jpg	
 8	The Jerk	Universal Pictures	The_Jerk	1979	3/3e/The_Jerk.jpg	
 9	Moonraker	United Artists	Moonraker_(film)	1979	6/66/Moonraker_(UK_cinema_poster).jpg	
 10	The Muppet Movie	Associated Film	The_Muppet_Movie	1979	a/a8/The_Muppet_Movie.jpg	
