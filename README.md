@@ -10,5 +10,5 @@ Html pages generator with best movies
 
 3. You can also use ./make_movie_site.py kinopoisk.txt to create html-pages with kinopoisk.ru links where you can probably watch that film
 
-or ./make_movie_site.py info.txt to create html-pages with your comments and local paths to film files
+or ./make_movie_site.py films.txt to create html-pages with your comments and local paths to film files
 
