@@ -1,4 +1,4 @@
 #en
 trailer_search	https://www.youtube.com/results?search_query=
 wiki	https://en.wikipedia.org/wiki/
-poster	https://upload.wikimedia.org/wikipedia/en/
+poster	https://upload.wikimedia.org/wikipedia/

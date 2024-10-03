@@ -16,7 +16,7 @@ MGM/UA Communications Co.	MGM/UA_Communications_Co.	https://upload.wikimedia.org
 Universal Pictures	Universal_Studios	https://upload.wikimedia.org/wikipedia/commons/b/b6/Universal_Pictures_logo.svg
 Warner Bros.	Warner_Bros._Pictures	https://upload.wikimedia.org/wikipedia/commons/0/0c/Warner_Bros._Pictures_2023_(Alt).svg/150px-Warner_Bros._Pictures_2023_(Alt).svg.png
 Buena Vista Pictures Distribution	Buena_Vista_Pictures_Distribution	https://upload.wikimedia.org/wikipedia/commons/5/5e/Walt_Disney_Studios_Motion_Pictures_logo.svg
-New Line Cinema	New_Line_Cinema	https://upload.wikimedia.org/wikipedia/en/8/87/New_Line_Cinema_2011_WarnerMedia_Byline.svg
+New Line Cinema	New_Line_Cinema	https://upload.wikimedia.org/wikipedia/commons/0/0f/New_Line_Cinema_2024.svg
 Buena Vista Pictures Distribution, Inc.	Buena_Vista_Pictures_Distribution,_Inc.	https://upload.wikimedia.org/wikipedia/commons/5/5e/Walt_Disney_Studios_Motion_Pictures_logo.svg
 Miramax Films	Miramax_Films	https://upload.wikimedia.org/wikipedia/commons/d/dc/Miramax.svg
 Sony Pictures Releasing	Sony_Pictures_Releasing	https://upload.wikimedia.org/wikipedia/commons/8/8f/Sony_Pictures_Releasing_logo.svg
@@ -41,3 +41,5 @@ Newmarket Films	Newmarket_Films	https://upload.wikimedia.org/wikipedia/commons/7
 Summit Entertainment	Summit_Entertainment	https://upload.wikimedia.org/wikipedia/commons/4/4c/Summit_Entertainment_logo.svg
 Lionsgate	Lionsgate_Films	https://upload.wikimedia.org/wikipedia/commons/6/65/Lionsgate_Logo.svg
 Angel Studios	Angel_Studios	https://upload.wikimedia.org/wikipedia/commons/6/61/Angel_Studios_logo.svg
+Cinemation Industries	Cinemation_Industries	
+Bryanston Distributing Company	Bryanston_Distributing_Company	

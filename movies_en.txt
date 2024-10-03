@@ -1,167 +1,167 @@
-#rank	title	distributor	href	year	poster	trailer
-1	Love Story	Paramount	Love_Story_(1970_film)	1970	b/b7/Love_Story_(1970_film).jpg	
-2	Airport	Universal	Airport_(1970_film)	1970	4/4f/Airport_film.jpg	
-3	M*A*S*H	20th Century-Fox	M*A*S*H_(film)	1970	6/61/M*A*S*H_(1970_film_poster).jpg	
-4	Patton	20th Century Fox	Patton_(film)	1970	f/f2/70_patton.jpg	
-5	The Aristocats	Buena Vista Distribution	The_Aristocats	1970	8/8d/Aristoposter.jpg	
-6	Woodstock	Warner Bros.	Woodstock_(film)	1970	3/35/WoodstockFilmPoster.jpg	
-7	Little Big Man	National General Pictures	Little_Big_Man_(film)	1970	2/24/Little_Big_Man_1970_film_poster.jpg	
-8	Ryan's Daughter	MGM	Ryan's_Daughter	1970	d/d8/Ryans_daughter.jpg	
-9	Tora! Tora! Tora!	20th Century Fox	Tora!_Tora!_Tora!	1970	1/1a/ToraToraTora1970.png	
-10	Catch-22	Paramount	Catch-22_(film)	1970	d/d6/Catch-22_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Billy Jack	Warner Bros.	Billy_Jack	1971	4/48/Billy_Jack_poster.jpg	
-2	Fiddler on the Roof	United Artists	Fiddler_on_the_Roof_(film)	1971	5/5e/Fiddler_on_the_roof.jpg	
-3	Diamonds Are Forever	United Artists	Diamonds_Are_Forever_(film)	1971	7/77/Diamonds_Are_Forever_-_UK_cinema_poster.jpg	
-4	The French Connection	20th Century-Fox	The_French_Connection_(film)	1971	b/b8/TheFrenchConnection.jpg	
-5	Summer of '42	Warner Bros.	Summer_of_'42	1971	1/18/Summer_of_'42_POSTER.jpg	
-6	Dirty Harry	Warner Bros.	Dirty_Harry	1971	6/65/Dirty_harry.jpg	
-7	A Clockwork Orange	Warner Bros.	A_Clockwork_Orange_(film)	1971	7/73/A_Clockwork_Orange_(1971).png	
-8	The Last Picture Show	Columbia	The_Last_Picture_Show	1971	8/8f/The_Last_Picture_Show_(movie_poster).jpg	
-9	Bedknobs and Broomsticks	Buena Vista	Bedknobs_and_Broomsticks	1971	6/64/Bedknobs_and_Broomsticks_poster.jpg	
-10	Sweet Sweetback's Baadasssss Song	Cinemation Industries	Sweet_Sweetback's_Baadasssss_Song	1971		
-#rank	title	distributor	href	year	poster	trailer
-1	The Godfather	Paramount	The_Godfather	1972	1/1c/Godfather_ver1.jpg	
-2	The Poseidon Adventure	20th Century Fox	The_Poseidon_Adventure_(1972_film)	1972	8/86/PoseidonAdventure.jpg	
-3	What's Up, Doc?	Warner Bros.	What's_Up,_Doc?_(1972_film)	1972	4/45/What's_Up_Doc_poster.jpg	
-4	Deliverance	Warner Bros.	Deliverance	1972	e/e5/Deliverance_poster.jpg	
-5	Deep Throat	Bryanston Distributing Company	Deep_Throat_(film)	1972		
-6	Jeremiah Johnson	Warner Bros.	Jeremiah_Johnson_(film)	1972	9/97/Jeremiah_Johnsonposter.jpg	
-7	Cabaret	Allied Artists	Cabaret_(1972_film)	1972	3/3e/Original_movie_poster_for_Cabaret.jpg	
-8	The Getaway	National General Pictures	The_Getaway_(1972_film)	1972	7/72/The_Getaway_1972_poster.jpg	
-9	Last Tango in Paris	United Artists	Last_Tango_in_Paris	1972	d/d5/LastTango.jpg	
-10	Lady Sings the Blues	Paramount	Lady_Sings_the_Blues_(film)	1972	5/53/Lady_sings_the_blues.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	The Exorcist	Warner Bros.	The_Exorcist	1973	7/7b/Exorcist_ver2.jpg	
-2	The Sting	Universal Pictures	The_Sting	1973		
-3	American Graffiti	Universal	American_Graffiti	1973	e/e6/American_graffiti_ver1.jpg	
-4	Papillon	Allied Artists	Papillon_(1973_film)	1973	2/23/Papillon_ver1.jpg	
-5	The Way We Were	Columbia	The_Way_We_Were	1973	4/46/The_Way_We_Were.jpg	
-6	Magnum Force	Warner Bros.	Magnum_Force	1973	c/c1/Magnum_Force.jpg	
-7	Live and Let Die	United Artists	Live_and_Let_Die_(film)	1973	3/36/Live_and_Let_Die-_UK_cinema_poster.jpg	
-8	Robin Hood	Buena Vista Distribution	Robin_Hood_(1973_film)	1973	9/91/Robinhood_1973_poster.png	
-9	Paper Moon	Paramount	Paper_Moon_(film)	1973	7/71/Paper-moon_small.jpg	
-10	Serpico	Paramount	Serpico_(film)	1973	e/ef/Serpico_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Blazing Saddles	Warner Bros.	Blazing_Saddles	1974	7/7b/Blazing_saddles_movie_poster.jpg	
-2	The Towering Inferno	20th Century Fox	The_Towering_Inferno	1974	5/5c/Towering_inferno_movie_poster.jpg	
-3	The Trial of Billy Jack	Warner Bros.	The_Trial_of_Billy_Jack	1974	1/12/Trial_of_billy_jack.jpg	
-4	Young Frankenstein	20th Century-Fox	Young_Frankenstein	1974	b/b5/Young_Frankenstein_movie_poster.jpg	
-5	Earthquake	Universal	Earthquake_(1974_film)	1974	7/78/Earthquake_movie.jpg	
-6	The Godfather Part II	Paramount	The_Godfather_Part_II	1974	0/03/Godfather_part_ii.jpg	
-7	Airport 1975	Universal	Airport_1975	1974	6/6d/Airport_nineteen_seventy_five_movie_poster.jpg	
-8	The Life and Times of Grizzly Adams	Sunn Classic	The_Life_and_Times_of_Grizzly_Adams	1974	2/2d/LifeandTimesofGrizzlyAdams1974.jpg	
-9	The Longest Yard	Paramount	The_Longest_Yard_(1974_film)	1974	5/52/Longest_yard_1974.jpg	
-10	Murder on the Orient Express	EMI Films	Murder_on_the_Orient_Express_(1974_film)	1974	6/61/Murder_on_the_Orient_Express_-_UK_poster.png	
-#rank	title	distributor	href	year	poster	trailer
-1	Jaws	Universal Pictures	Jaws_(film)	1975		
-2	One Flew Over the Cuckoo's Nest	United Artists	One_Flew_Over_the_Cuckoo's_Nest_(film)	1975	2/26/One_Flew_Over_the_Cuckoo's_Nest_poster.jpg	
-3	Shampoo	Columbia	Shampoo_(film)	1975	a/ab/Shampooposter.jpg	
-4	Dog Day Afternoon	Warner Bros.	Dog_Day_Afternoon	1975	4/44/Dog_Day_Afternoon_film_poster.jpg	
-5	The Return of the Pink Panther	United Artists	The_Return_of_the_Pink_Panther	1975	5/55/The_Return_of_the_Pink_Panther_poster.jpg	
-6	Three Days of the Condor	Paramount	Three_Days_of_the_Condor	1975	2/25/Three_Days_of_the_Condor_poster.JPG	
-7	The Rocky Horror Picture Show	20th Century Fox	The_Rocky_Horror_Picture_Show	1975	c/c2/Original_Rocky_Horror_Picture_Show_poster.jpg	
-8	Funny Lady	Columbia	Funny_Lady	1975	d/d5/Funny_lady_movie_poster.jpg	
-9	The Other Side of the Mountain	Universal	The_Other_Side_of_the_Mountain	1975	e/e4/Film_Poster_for_The_Other_Side_of_the_Mountain.jpg	
-10	Tommy	Columbia	Tommy_(1975_film)	1975	d/d4/Tommy_film_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Rocky	United Artists	Rocky	1976	1/18/Rocky_poster.jpg	
-2	To Fly!	Conoco	To_Fly!	1976	9/97/To_Fly_(1976_short_film).jpg	
-3	A Star Is Born	Warner Bros.	A_Star_Is_Born_(1976_film)	1976		
-4	King Kong	Paramount	King_Kong_(1976_film)	1976	6/6c/King_kong_1976_movie_poster.jpg	
-5	Silver Streak	20th Century Fox	Silver_Streak_(film)	1976	8/84/Silver-Streak-Poster.jpg	
-6	All the President's Men	Warner Bros.	All_the_President's_Men_(film)	1976	9/92/All_the_president's_men.jpg	
-7	The Omen	20th Century Fox	The_Omen	1976	1/1d/Omen_ver4.jpg	
-8	The Enforcer	Warner Bros.	The_Enforcer_(1976_film)	1976	c/cb/The_Enforcer.jpg	
-9	Midway	Universal	Midway_(1976_film)	1976	1/11/Midway_movie_poster.jpg	
-10	The Bad News Bears	Paramount	The_Bad_News_Bears	1976	f/f9/Bad_news_bears_1976_movie_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Star Wars	20th Century-Fox	Star_Wars_(film)	1977	8/87/StarWarsMoviePoster1977.jpg	
-2	Smokey and the Bandit	Universal	Smokey_and_the_Bandit	1977	c/cb/Smokey_And_The_Bandit_Poster.jpg	
-3	Close Encounters of the Third Kind	Columbia	Close_Encounters_of_the_Third_Kind	1977	b/ba/Close_Encounters_of_the_Third_Kind_(1977)_theatrical_poster.jpg	
-4	Saturday Night Fever	Paramount	Saturday_Night_Fever	1977	4/45/Saturday_night_fever_movie_poster.jpg	
-5	The Goodbye Girl	Warner Bros.	The_Goodbye_Girl	1977	c/c9/Goodbye_Girl_movie_poster.jpg	
-6	A Bridge Too Far	United Artists	A_Bridge_Too_Far_(film)	1977	e/e7/Bridge_too_far_movieposter.jpg	
-7	The Deep	Columbia	The_Deep_(1977_film)	1977	8/81/The_Deep_movie_poster.jpg	
-8	The Spy Who Loved Me	United Artists	The_Spy_Who_Loved_Me_(film)	1977	d/d7/The_Spy_Who_Loved_Me_(UK_cinema_poster).jpg	
-9	Oh, God!	Warner Bros.	Oh,_God!_(film)	1977	f/fd/Oh,_God!_(movie_poster).jpg	
-10	Annie Hall	United Artists	Annie_Hall	1977	e/e6/Anniehallposter.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Grease	Paramount	Grease_(film)	1978	e/e2/Grease_ver2.jpg	
-2	Superman	Warner Bros.	Superman_(1978_film)	1978	b/b0/Superman_(1978_film_poster).jpg	
-3	National Lampoon’s Animal House	Universal Pictures	Animal_House	1978	e/ea/Animalhouseposter.jpg	
-4	Every Which Way but Loose	Warner Bros.	Every_Which_Way_but_Loose_(film)	1978	6/63/Everywhichwaybutloosemovieposter.jpg	
-5	Heaven Can Wait	Paramount	Heaven_Can_Wait_(1978_film)	1978	1/1a/Heaven_can_wait_poster.jpg	
-6	Hooper	Warner Bros.	Hooper_(film)	1978	3/30/HooperPoster.jpg	
-7	Jaws 2	Universal Pictures	Jaws_2	1978	1/1a/Jaws2_poster.jpg	
-8	Revenge of the Pink Panther	United Artists	Revenge_of_the_Pink_Panther	1978	1/14/Revenge_of_the_pink_panther_ver3.jpg	
-9	The Deer Hunter	Universal	The_Deer_Hunter	1978	5/57/The_Deer_Hunter_poster.jpg	
-10	Halloween	Compass International	Halloween_(1978_film)	1978	a/af/Halloween_(1978)_theatrical_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Kramer vs. Kramer	Columbia	Kramer_vs._Kramer	1979	b/b0/Oscar_posters_79.jpg	
-2	The Amityville Horror	American International Pictures	The_Amityville_Horror_(1979_film)	1979	0/09/Amityville_poster.jpg	
-3	Rocky II	United Artists	Rocky_II	1979	b/bc/Rocky_ii_poster.jpg	
-4	Star Trek: The Motion Picture	Paramount	Star_Trek:_The_Motion_Picture	1979	d/df/Star_Trek_The_Motion_Picture_poster.png	
-5	Alien	20th Century-Fox	Alien_(film)	1979	c/c3/Alien_movie_poster.jpg	
-6	Apocalypse Now	United Artists	Apocalypse_Now	1979	c/c2/Apocalypse_Now_poster.jpg	
-7	10	Warner Bros.	10_(1979_film)	1979	6/67/10_1979_film_poster.jpg	
-8	The Jerk	Universal Pictures	The_Jerk	1979	3/3e/The_Jerk.jpg	
-9	Moonraker	United Artists	Moonraker_(film)	1979	6/66/Moonraker_(UK_cinema_poster).jpg	
-10	The Muppet Movie	Associated Film	The_Muppet_Movie	1979	a/a8/The_Muppet_Movie.jpg	
-#Rank	Title	Distibutor	Title_wiki	Year	Poster	Trailer
-1	The Empire Strikes Back	20th Century Fox	The_Empire_Strikes_Back	1980	3/3f/The_Empire_Strikes_Back_(1980_film).jpg	mz_YWNhKOkM
-2	9 to 5	20th Century Fox	9_to_5_(film)	1980	e/e0/9_to_5_moviep.jpg	qni6HOyPNBA
-3	Stir Crazy	Columbia	Stir_Crazy_(film)	1980	f/f1/Stir_Crazy.jpg	1U1h0aYcXyQ
-4	Airplane!	Paramount	Airplane!	1980	2/21/Airplane!_(1980_film).jpg	07pPmCfKi3U
-5	Any Which Way You Can	Warner Bros.	Any_Which_Way_You_Can	1980	2/29/Any_which_way_you_can.jpg	ahnYnbQdeDI
-6	Private Benjamin	Warner Bros.	Private_Benjamin_(1980_film)	1980	1/18/Private_benjamon.jpg	KTuip4gVJWg
-7	Coal Miner's Daughter	Universal	Coal_Miner's_Daughter_(film)	1980	0/05/Coal_miners_daughter.jpg	V8I2cF51Npc
-8	Smokey and the Bandit II	Universal	Smokey_and_the_Bandit_II	1980	2/2e/Smokey_and_the_bandit_ii_poster.jpg	H8INfASWJ4c
-9	The Blue Lagoon	Columbia	The_Blue_Lagoon_(1980_film)	1980	3/32/Blue_lagoon_1980_movie_poster.jpg	A0UapwJIJn8
-10	The Blues Brothers	Universal	The_Blues_Brothers_(film)	1980	a/ae/Bluesbrothersmovieposter.jpg	2HCR4c1zPyk
-11	Mad Max	Roadshow Film	Mad_Max_(film)	1980	5/5a/MadMazAus.jpg	pnfAa9i9LYM
-12	Friday the 13th	Paramount	Friday_the_13th_(1980_film)	1980	2/2c/Friday_the_13th_(1980)_theatrical_poster.jpg	sAzkW7HFh5U
-13	Urban Cowboy	Paramount	Urban_Cowboy	1980	6/6b/Urban_cowboy_Poster.jpg	dnc4oSelsPY
-14	Fame	United Artists	Fame_(1980_film)	1980	6/6b/Fameposter.jpg	fZpBoyh9mds
-15	The Shining	Warner Bros.	The_Shining_(film)	1980	1/1d/The_Shining_(1980)_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg	S014oGZiSdI 
-16	Flash Gordon	Universal	Flash_Gordon_(film)	1980	5/50/Flash_gordon_movie_poster.jpg	VzFwECV8Kkk
+#rank	title	distributor	href	year	poster
+1	Love Story	Paramount	Love_Story_(1970_film)	1970	en/b/b7/Love_Story_(1970_film).jpg
+2	Airport	Universal	Airport_(1970_film)	1970	en/4/4f/Airport_film.jpg
+3	M*A*S*H	20th Century-Fox	M*A*S*H_(film)	1970	commons/6/61/M*A*S*H_(1970_film_poster).jpg
+4	Patton	20th Century Fox	Patton_(film)	1970	en/f/f2/70_patton.jpg
+5	The Aristocats	Buena Vista Distribution	The_Aristocats	1970	en/8/8d/Aristoposter.jpg
+6	Woodstock	Warner Bros.	Woodstock_(film)	1970	en/3/35/WoodstockFilmPoster.jpg
+7	Little Big Man	National General Pictures	Little_Big_Man_(film)	1970	en/2/24/Little_Big_Man_1970_film_poster.jpg
+8	Ryan's Daughter	MGM	Ryan's_Daughter	1970	en/d/d8/Ryans_daughter.jpg
+9	Tora! Tora! Tora!	20th Century Fox	Tora!_Tora!_Tora!	1970	en/1/1a/ToraToraTora1970.png
+10	Catch-22	Paramount	Catch-22_(film)	1970	en/d/d6/Catch-22_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Billy Jack	Warner Bros.	Billy_Jack	1971	en/4/48/Billy_Jack_poster.jpg
+2	Fiddler on the Roof	United Artists	Fiddler_on_the_Roof_(film)	1971	en/5/5e/Fiddler_on_the_roof.jpg
+3	Diamonds Are Forever	United Artists	Diamonds_Are_Forever_(film)	1971	en/7/77/Diamonds_Are_Forever_-_UK_cinema_poster.jpg
+4	The French Connection	20th Century-Fox	The_French_Connection_(film)	1971	en/b/b8/TheFrenchConnection.jpg
+5	Summer of '42	Warner Bros.	Summer_of_'42	1971	en/1/18/Summer_of_'42_POSTER.jpg
+6	Dirty Harry	Warner Bros.	Dirty_Harry	1971	en/6/65/Dirty_harry.jpg
+7	A Clockwork Orange	Warner Bros.	A_Clockwork_Orange_(film)	1971	en/7/73/A_Clockwork_Orange_(1971).png
+8	The Last Picture Show	Columbia	The_Last_Picture_Show	1971	en/8/8f/The_Last_Picture_Show_(movie_poster).jpg
+9	Bedknobs and Broomsticks	Buena Vista	Bedknobs_and_Broomsticks	1971	en/6/64/Bedknobs_and_Broomsticks_poster.jpg
+10	Sweet Sweetback's Baadasssss Song	Cinemation Industries	Sweet_Sweetback's_Baadasssss_Song	1971	commons/b/ba/Sweet_sweetback_poster.jpg
+#rank	title	distributor	href	year	poster
+1	The Godfather	Paramount	The_Godfather	1972	en/1/1c/Godfather_ver1.jpg
+2	The Poseidon Adventure	20th Century Fox	The_Poseidon_Adventure_(1972_film)	1972	en/8/86/PoseidonAdventure.jpg
+3	What's Up, Doc?	Warner Bros.	What's_Up,_Doc?_(1972_film)	1972	en/4/45/What's_Up_Doc_poster.jpg
+4	Deliverance	Warner Bros.	Deliverance	1972	en/e/e5/Deliverance_poster.jpg
+5	Deep Throat	Bryanston Distributing Company	Deep_Throat_(film)	1972	commons/c/c9/Deep_throat_PD_poster_(restored,_borderless).png
+6	Jeremiah Johnson	Warner Bros.	Jeremiah_Johnson_(film)	1972	en/9/97/Jeremiah_Johnsonposter.jpg
+7	Cabaret	Allied Artists	Cabaret_(1972_film)	1972	en/3/3e/Original_movie_poster_for_Cabaret.jpg
+8	The Getaway	National General Pictures	The_Getaway_(1972_film)	1972	en/7/72/The_Getaway_1972_poster.jpg
+9	Last Tango in Paris	United Artists	Last_Tango_in_Paris	1972	en/d/d5/LastTango.jpg
+10	Lady Sings the Blues	Paramount	Lady_Sings_the_Blues_(film)	1972	en/5/53/Lady_sings_the_blues.jpg
+#rank	title	distributor	href	year	poster
+1	The Exorcist	Warner Bros.	The_Exorcist	1973	en/7/7b/Exorcist_ver2.jpg
+2	The Sting	Universal Pictures	The_Sting	1973	commons/a/aa/The_Sting_(1973_alt_poster).jpeg
+3	American Graffiti	Universal	American_Graffiti	1973	en/e/e6/American_graffiti_ver1.jpg
+4	Papillon	Allied Artists	Papillon_(1973_film)	1973	en/2/23/Papillon_ver1.jpg
+5	The Way We Were	Columbia	The_Way_We_Were	1973	en/4/46/The_Way_We_Were.jpg
+6	Magnum Force	Warner Bros.	Magnum_Force	1973	en/c/c1/Magnum_Force.jpg
+7	Live and Let Die	United Artists	Live_and_Let_Die_(film)	1973	en/3/36/Live_and_Let_Die-_UK_cinema_poster.jpg
+8	Robin Hood	Buena Vista Distribution	Robin_Hood_(1973_film)	1973	en/9/91/Robinhood_1973_poster.png
+9	Paper Moon	Paramount	Paper_Moon_(film)	1973	en/7/71/Paper-moon_small.jpg
+10	Serpico	Paramount	Serpico_(film)	1973	en/e/ef/Serpico_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Blazing Saddles	Warner Bros.	Blazing_Saddles	1974	en/7/7b/Blazing_saddles_movie_poster.jpg
+2	The Towering Inferno	20th Century Fox	The_Towering_Inferno	1974	en/5/5c/Towering_inferno_movie_poster.jpg
+3	The Trial of Billy Jack	Warner Bros.	The_Trial_of_Billy_Jack	1974	en/1/12/Trial_of_billy_jack.jpg
+4	Young Frankenstein	20th Century-Fox	Young_Frankenstein	1974	en/b/b5/Young_Frankenstein_movie_poster.jpg
+5	Earthquake	Universal	Earthquake_(1974_film)	1974	en/7/78/Earthquake_movie.jpg
+6	The Godfather Part II	Paramount	The_Godfather_Part_II	1974	en/0/03/Godfather_part_ii.jpg
+7	Airport 1975	Universal	Airport_1975	1974	en/6/6d/Airport_nineteen_seventy_five_movie_poster.jpg
+8	The Life and Times of Grizzly Adams	Sunn Classic	The_Life_and_Times_of_Grizzly_Adams	1974	en/2/2d/LifeandTimesofGrizzlyAdams1974.jpg
+9	The Longest Yard	Paramount	The_Longest_Yard_(1974_film)	1974	en/5/52/Longest_yard_1974.jpg
+10	Murder on the Orient Express	EMI Films	Murder_on_the_Orient_Express_(1974_film)	1974	en/6/61/Murder_on_the_Orient_Express_-_UK_poster.png
+#rank	title	distributor	href	year	poster
+1	Jaws	Universal Pictures	Jaws_(film)	1975	commons/4/40/Jaws_movie_poster.jpg
+2	One Flew Over the Cuckoo's Nest	United Artists	One_Flew_Over_the_Cuckoo's_Nest_(film)	1975	en/2/26/One_Flew_Over_the_Cuckoo's_Nest_poster.jpg
+3	Shampoo	Columbia	Shampoo_(film)	1975	en/a/ab/Shampooposter.jpg
+4	Dog Day Afternoon	Warner Bros.	Dog_Day_Afternoon	1975	en/4/44/Dog_Day_Afternoon_film_poster.jpg
+5	The Return of the Pink Panther	United Artists	The_Return_of_the_Pink_Panther	1975	en/5/55/The_Return_of_the_Pink_Panther_poster.jpg
+6	Three Days of the Condor	Paramount	Three_Days_of_the_Condor	1975	en/2/25/Three_Days_of_the_Condor_poster.JPG
+7	The Rocky Horror Picture Show	20th Century Fox	The_Rocky_Horror_Picture_Show	1975	en/c/c2/Original_Rocky_Horror_Picture_Show_poster.jpg
+8	Funny Lady	Columbia	Funny_Lady	1975	en/d/d5/Funny_lady_movie_poster.jpg
+9	The Other Side of the Mountain	Universal	The_Other_Side_of_the_Mountain	1975	en/e/e4/Film_Poster_for_The_Other_Side_of_the_Mountain.jpg
+10	Tommy	Columbia	Tommy_(1975_film)	1975	en/d/d4/Tommy_film_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Rocky	United Artists	Rocky	1976	en/1/18/Rocky_poster.jpg
+2	To Fly!	Conoco	To_Fly!	1976	en/9/97/To_Fly_(1976_short_film).jpg
+3	A Star Is Born	Warner Bros.	A_Star_Is_Born_(1976_film)	1976	commons/8/87/A_Star_Is_Born_(1976_film_poster).jpg
+4	King Kong	Paramount	King_Kong_(1976_film)	1976	en/6/6c/King_kong_1976_movie_poster.jpg
+5	Silver Streak	20th Century Fox	Silver_Streak_(film)	1976	en/8/84/Silver-Streak-Poster.jpg
+6	All the President's Men	Warner Bros.	All_the_President's_Men_(film)	1976	en/9/92/All_the_president's_men.jpg
+7	The Omen	20th Century Fox	The_Omen	1976	en/1/1d/Omen_ver4.jpg
+8	The Enforcer	Warner Bros.	The_Enforcer_(1976_film)	1976	en/c/cb/The_Enforcer.jpg
+9	Midway	Universal	Midway_(1976_film)	1976	en/1/11/Midway_movie_poster.jpg
+10	The Bad News Bears	Paramount	The_Bad_News_Bears	1976	en/f/f9/Bad_news_bears_1976_movie_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Star Wars	20th Century-Fox	Star_Wars_(film)	1977	en/8/87/StarWarsMoviePoster1977.jpg
+2	Smokey and the Bandit	Universal	Smokey_and_the_Bandit	1977	en/c/cb/Smokey_And_The_Bandit_Poster.jpg
+3	Close Encounters of the Third Kind	Columbia	Close_Encounters_of_the_Third_Kind	1977	en/b/ba/Close_Encounters_of_the_Third_Kind_(1977)_theatrical_poster.jpg
+4	Saturday Night Fever	Paramount	Saturday_Night_Fever	1977	en/4/45/Saturday_night_fever_movie_poster.jpg
+5	The Goodbye Girl	Warner Bros.	The_Goodbye_Girl	1977	en/c/c9/Goodbye_Girl_movie_poster.jpg
+6	A Bridge Too Far	United Artists	A_Bridge_Too_Far_(film)	1977	en/e/e7/Bridge_too_far_movieposter.jpg
+7	The Deep	Columbia	The_Deep_(1977_film)	1977	en/8/81/The_Deep_movie_poster.jpg
+8	The Spy Who Loved Me	United Artists	The_Spy_Who_Loved_Me_(film)	1977	en/d/d7/The_Spy_Who_Loved_Me_(UK_cinema_poster).jpg
+9	Oh, God!	Warner Bros.	Oh,_God!_(film)	1977	en/f/fd/Oh,_God!_(movie_poster).jpg
+10	Annie Hall	United Artists	Annie_Hall	1977	en/e/e6/Anniehallposter.jpg
+#rank	title	distributor	href	year	poster
+1	Grease	Paramount	Grease_(film)	1978	en/e/e2/Grease_ver2.jpg
+2	Superman	Warner Bros.	Superman_(1978_film)	1978	en/b/b0/Superman_(1978_film_poster).jpg
+3	National Lampoon’s Animal House	Universal Pictures	Animal_House	1978	en/e/ea/Animalhouseposter.jpg
+4	Every Which Way but Loose	Warner Bros.	Every_Which_Way_but_Loose_(film)	1978	en/6/63/Everywhichwaybutloosemovieposter.jpg
+5	Heaven Can Wait	Paramount	Heaven_Can_Wait_(1978_film)	1978	en/1/1a/Heaven_can_wait_poster.jpg
+6	Hooper	Warner Bros.	Hooper_(film)	1978	en/3/30/HooperPoster.jpg
+7	Jaws 2	Universal Pictures	Jaws_2	1978	en/1/1a/Jaws2_poster.jpg
+8	Revenge of the Pink Panther	United Artists	Revenge_of_the_Pink_Panther	1978	en/1/14/Revenge_of_the_pink_panther_ver3.jpg
+9	The Deer Hunter	Universal	The_Deer_Hunter	1978	en/5/57/The_Deer_Hunter_poster.jpg
+10	Halloween	Compass International	Halloween_(1978_film)	1978	en/a/af/Halloween_(1978)_theatrical_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Kramer vs. Kramer	Columbia	Kramer_vs._Kramer	1979	en/b/b0/Oscar_posters_79.jpg
+2	The Amityville Horror	American International Pictures	The_Amityville_Horror_(1979_film)	1979	en/0/09/Amityville_poster.jpg
+3	Rocky II	United Artists	Rocky_II	1979	en/b/bc/Rocky_ii_poster.jpg
+4	Star Trek: The Motion Picture	Paramount	Star_Trek:_The_Motion_Picture	1979	en/d/df/Star_Trek_The_Motion_Picture_poster.png
+5	Alien	20th Century-Fox	Alien_(film)	1979	en/c/c3/Alien_movie_poster.jpg
+6	Apocalypse Now	United Artists	Apocalypse_Now	1979	en/c/c2/Apocalypse_Now_poster.jpg
+7	10	Warner Bros.	10_(1979_film)	1979	en/6/67/10_1979_film_poster.jpg
+8	The Jerk	Universal Pictures	The_Jerk	1979	en/3/3e/The_Jerk.jpg
+9	Moonraker	United Artists	Moonraker_(film)	1979	en/6/66/Moonraker_(UK_cinema_poster).jpg
+10	The Muppet Movie	Associated Film	The_Muppet_Movie	1979	en/a/a8/The_Muppet_Movie.jpg
+#Rank	Title	Distibutor	Title_wiki	Year	Poster
+1	The Empire Strikes Back	20th Century Fox	The_Empire_Strikes_Back	1980	en/3/3f/The_Empire_Strikes_Back_(1980_film).jpg	mz_YWNhKOkM
+2	9 to 5	20th Century Fox	9_to_5_(film)	1980	en/e/e0/9_to_5_moviep.jpg	qni6HOyPNBA
+3	Stir Crazy	Columbia	Stir_Crazy_(film)	1980	en/f/f1/Stir_Crazy.jpg	1U1h0aYcXyQ
+4	Airplane!	Paramount	Airplane!	1980	en/2/21/Airplane!_(1980_film).jpg	07pPmCfKi3U
+5	Any Which Way You Can	Warner Bros.	Any_Which_Way_You_Can	1980	en/2/29/Any_which_way_you_can.jpg	ahnYnbQdeDI
+6	Private Benjamin	Warner Bros.	Private_Benjamin_(1980_film)	1980	en/1/18/Private_benjamon.jpg	KTuip4gVJWg
+7	Coal Miner's Daughter	Universal	Coal_Miner's_Daughter_(film)	1980	en/0/05/Coal_miners_daughter.jpg	V8I2cF51Npc
+8	Smokey and the Bandit II	Universal	Smokey_and_the_Bandit_II	1980	en/2/2e/Smokey_and_the_bandit_ii_poster.jpg	H8INfASWJ4c
+9	The Blue Lagoon	Columbia	The_Blue_Lagoon_(1980_film)	1980	en/3/32/Blue_lagoon_1980_movie_poster.jpg	A0UapwJIJn8
+10	The Blues Brothers	Universal	The_Blues_Brothers_(film)	1980	en/a/ae/Bluesbrothersmovieposter.jpg	2HCR4c1zPyk
+11	Mad Max	Roadshow Film	Mad_Max_(film)	1980	en/5/5a/MadMazAus.jpg	pnfAa9i9LYM
+12	Friday the 13th	Paramount	Friday_the_13th_(1980_film)	1980	en/2/2c/Friday_the_13th_(1980)_theatrical_poster.jpg	sAzkW7HFh5U
+13	Urban Cowboy	Paramount	Urban_Cowboy	1980	en/6/6b/Urban_cowboy_Poster.jpg	dnc4oSelsPY
+14	Fame	United Artists	Fame_(1980_film)	1980	en/6/6b/Fameposter.jpg	fZpBoyh9mds
+15	The Shining	Warner Bros.	The_Shining_(film)	1980	en/1/1d/The_Shining_(1980)_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg	S014oGZiSdI
+16	Flash Gordon	Universal	Flash_Gordon_(film)	1980	en/5/50/Flash_gordon_movie_poster.jpg	VzFwECV8Kkk
 
 
-1	Raiders of the Lost Ark	Paramount	Raiders_of_the_Lost_Ark	1981	a/a6/Raiders_of_the_Lost_Ark_Theatrical_Poster.jpg	0xQSIdSRlAk
-2	On Golden Pond	Universal	On_Golden_Pond_(1981_film)	1981	3/34/On_golden_pond.jpg	Y85sfYVOS84
-3	Superman II	Warner Bros.	Superman_II	1981	3/36/Superman_II.jpg	jxD8RlGnP64
-4	Arthur	Warner Bros.	Arthur_(1981_film)	1981	7/7b/Arthur_(1981_film)_poster.jpg	Z-vMsjd0ccM
-5	Stripes	Columbia	Stripes_(film)	1981	3/3e/Stripesposter.jpg	sKHwEoCIYqA
-6	The Cannonball Run	20th Century Fox	The_Cannonball_Run	1981	a/a0/Cannonball_run.jpg	s8BNVDUslcE
-7	Chariots of Fire	Warner Bros.	Chariots_of_Fire	1981	b/b5/Chariots_of_fire.jpg	odtqtlhsv4E
-8	For Your Eyes Only	United Artists	For_Your_Eyes_Only_(film)	1981	c/cd/For_Your_Eyes_Only_-_UK_cinema_poster.jpg	e0iF8TCk4Fw
-9	The Four Seasons	Universal	The_Four_Seasons_(1981_film)	1981	9/9b/Four_seasonsmovieposter.jpg	QqTfHyRpXCI
-10	Time Bandits	Embassy	Time_Bandits	1981	8/82/Time_bandits.jpg	vioocIR0gHQ
-11	Clash of the Titans	United Artists	Clash_of_the_Titans_(1981_film)	1981	d/d2/Clash_of_the_titansposter.jpg	ojw1sau98Jg
-12	The Postman Always Rings Twice	Paramount	The_Postman_Always_Rings_Twice_(1981_film)	1981	a/a1/Postman_always_rings_twice.jpg	WXAHXsA76oY	
-13	Excalibur	Warner Bros.	Excalibur_(film)	1981	6/60/Excalibur_movie_poster.jpg	6QR6_17mn5s
-14	Bustin' Loose	Universal	Bustin'_Loose_(film)	1981	e/ea/Bustin'_Loose.jpg	S3xiOW7SCkw	
-15	Escape from New York	Embassy	Escape_from_New_York	1981	4/4b/EscapefromNYposter.jpg	ckvDo2JHB7o
-16	Endless Love	Universal	Endless_Love_(1981_film)	1981	f/f0/Endless_love.jpg	dlnoOdbZFdg
-17	An American Werewolf in London	Universal	An_American_Werewolf_in_London	1981	e/e5/An_American_Werewolf_in_London_poster.jpg	Tfz9AhPnM8c
+1	Raiders of the Lost Ark	Paramount	Raiders_of_the_Lost_Ark	1981	en/a/a6/Raiders_of_the_Lost_Ark_Theatrical_Poster.jpg	0xQSIdSRlAk
+2	On Golden Pond	Universal	On_Golden_Pond_(1981_film)	1981	en/3/34/On_golden_pond.jpg	Y85sfYVOS84
+3	Superman II	Warner Bros.	Superman_II	1981	en/3/36/Superman_II.jpg	jxD8RlGnP64
+4	Arthur	Warner Bros.	Arthur_(1981_film)	1981	en/7/7b/Arthur_(1981_film)_poster.jpg	Z-vMsjd0ccM
+5	Stripes	Columbia	Stripes_(film)	1981	en/3/3e/Stripesposter.jpg	sKHwEoCIYqA
+6	The Cannonball Run	20th Century Fox	The_Cannonball_Run	1981	en/a/a0/Cannonball_run.jpg	s8BNVDUslcE
+7	Chariots of Fire	Warner Bros.	Chariots_of_Fire	1981	en/b/b5/Chariots_of_fire.jpg	odtqtlhsv4E
+8	For Your Eyes Only	United Artists	For_Your_Eyes_Only_(film)	1981	en/c/cd/For_Your_Eyes_Only_-_UK_cinema_poster.jpg	e0iF8TCk4Fw
+9	The Four Seasons	Universal	The_Four_Seasons_(1981_film)	1981	en/9/9b/Four_seasonsmovieposter.jpg	QqTfHyRpXCI
+10	Time Bandits	Embassy	Time_Bandits	1981	en/8/82/Time_bandits.jpg	vioocIR0gHQ
+11	Clash of the Titans	United Artists	Clash_of_the_Titans_(1981_film)	1981	en/d/d2/Clash_of_the_titansposter.jpg	ojw1sau98Jg
+12	The Postman Always Rings Twice	Paramount	The_Postman_Always_Rings_Twice_(1981_film)	1981	en/a/a1/Postman_always_rings_twice.jpg	WXAHXsA76oY
+13	Excalibur	Warner Bros.	Excalibur_(film)	1981	en/6/60/Excalibur_movie_poster.jpg	6QR6_17mn5s
+14	Bustin' Loose	Universal	Bustin'_Loose_(film)	1981	en/e/ea/Bustin'_Loose.jpg	S3xiOW7SCkw
+15	Escape from New York	Embassy	Escape_from_New_York	1981	en/4/4b/EscapefromNYposter.jpg	ckvDo2JHB7o
+16	Endless Love	Universal	Endless_Love_(1981_film)	1981	en/f/f0/Endless_love.jpg	dlnoOdbZFdg
+17	An American Werewolf in London	Universal	An_American_Werewolf_in_London	1981	en/e/e5/An_American_Werewolf_in_London_poster.jpg	Tfz9AhPnM8c
 
 
-1	E.T. the Extra-Terrestrial	Universal	E.T._the_Extra-Terrestrial	1982	6/66/E_t_the_extra_terrestrial_ver3.jpg	wZNInG8kSiA
-2	Tootsie	Columbia	Tootsie	1982	a/a2/Tootsie_imp.jpg	4U9hfQujTcM
-3	An Officer and a Gentleman	Paramount	An_Officer_and_a_Gentleman	1982	0/06/An_Officer_and_a_Gentleman_film_poster.jpg	VEpu6TcmcJg
-4	Rocky III	United Artists	Rocky_III	1982	f/f4/Rocky_iii_poster.jpg	o7vbDPUMWDc
-5	Porky's	20th Century Fox	Porky's	1982	6/6e/Porkys.jpg	QWmtDAIK03M
-6	Star Trek II: The Wrath of Khan	Paramount	Star_Trek_II:_The_Wrath_of_Khan	1982	9/9a/Star_Trek_II_The_Wrath_of_Khan.png	x8X44NRltMM
-7	48 Hrs.	Paramount	48_Hrs.	1982	1/17/Forty_eight_hrs.jpg	GgOFrVID_CU
-8	Poltergeist	MGM	Poltergeist_(1982_film)	1982	e/e4/Poltergeist_(1982).png	9eZgEKjYJqA
-9	The Best Little Whorehouse in Texas	Universal	The_Best_Little_Whorehouse_in_Texas_(film)	1982	a/af/Best_little_whorehouse_in_texasposter.jpg	2BE3NqTRfLc
-10	Annie	Columbia	Annie_(1982_film)	1982	c/cd/Annie-film.jpg	I78xulb-l0s
-11	Gandhi	Columbia	Gandhi_(film)	1982	1/10/Gandhi-poster.png	B7I6D3mSYTE
-12	Death Wish II	Filmways	Death_Wish_II	1982	4/4c/Death_Wish_II.jpg	y4L65odzonc
-13	Conan the Barbarian	Universal	Conan_the_Barbarian_(1982_film)	1982	e/ed/Conan_movie_psoter.jpg	Nok-jOYn6Dg
-14	Firefox	Warner Bros.	Firefox_(film)	1982	4/42/Firefox(1982_film)_poster.jpg	T5W4MiBuEnY
-15	Blade Runner	Warner Bros.	Blade_Runner	1982	9/9f/Blade_Runner_(1982_poster).png	eogpIG53Cis
-16	Tron	Buena Vista	Tron	1982	1/17/Tron_poster.jpg	hMT8tRrEMC4
+1	E.T. the Extra-Terrestrial	Universal	E.T._the_Extra-Terrestrial	1982	en/6/66/E_t_the_extra_terrestrial_ver3.jpg	wZNInG8kSiA
+2	Tootsie	Columbia	Tootsie	1982	en/a/a2/Tootsie_imp.jpg	4U9hfQujTcM
+3	An Officer and a Gentleman	Paramount	An_Officer_and_a_Gentleman	1982	en/0/06/An_Officer_and_a_Gentleman_film_poster.jpg	VEpu6TcmcJg
+4	Rocky III	United Artists	Rocky_III	1982	en/f/f4/Rocky_iii_poster.jpg	o7vbDPUMWDc
+5	Porky's	20th Century Fox	Porky's	1982	en/6/6e/Porkys.jpg	QWmtDAIK03M
+6	Star Trek II: The Wrath of Khan	Paramount	Star_Trek_II:_The_Wrath_of_Khan	1982	en/9/9a/Star_Trek_II_The_Wrath_of_Khan.png	x8X44NRltMM
+7	48 Hrs.	Paramount	48_Hrs.	1982	en/1/17/Forty_eight_hrs.jpg	GgOFrVID_CU
+8	Poltergeist	MGM	Poltergeist_(1982_film)	1982	en/e/e4/Poltergeist_(1982).png	9eZgEKjYJqA
+9	The Best Little Whorehouse in Texas	Universal	The_Best_Little_Whorehouse_in_Texas_(film)	1982	en/a/af/Best_little_whorehouse_in_texasposter.jpg	2BE3NqTRfLc
+10	Annie	Columbia	Annie_(1982_film)	1982	en/c/cd/Annie-film.jpg	I78xulb-l0s
+11	Gandhi	Columbia	Gandhi_(film)	1982	en/1/10/Gandhi-poster.png	B7I6D3mSYTE
+12	Death Wish II	Filmways	Death_Wish_II	1982	en/4/4c/Death_Wish_II.jpg	y4L65odzonc
+13	Conan the Barbarian	Universal	Conan_the_Barbarian_(1982_film)	1982	en/e/ed/Conan_movie_psoter.jpg	Nok-jOYn6Dg
+14	Firefox	Warner Bros.	Firefox_(film)	1982	en/4/42/Firefox(1982_film)_poster.jpg	T5W4MiBuEnY
+15	Blade Runner	Warner Bros.	Blade_Runner	1982	en/9/9f/Blade_Runner_(1982_poster).png	eogpIG53Cis
+16	Tron	Buena Vista	Tron	1982	en/1/17/Tron_poster.jpg	hMT8tRrEMC4
 17	The Thing
 18	Pink Floyd – The Wall
 19	First Blood
@@ -174,460 +174,461 @@
 
 
 
-#rank	title	distributor	href	year	poster	trailer
-1	Return of the Jedi	20th Century Fox	Return_of_the_Jedi	1983	b/b2/ReturnOfTheJediPoster1983.jpg	
-2	Terms of Endearment	Paramount	Terms_of_Endearment	1983	b/bf/Terms_of_Endearment,_1983_film.jpg	sSY3YUrdSJI
-3	Flashdance	Paramount	Flashdance	1983	7/7c/Flashdanceposter.jpg	
-4	Trading Places	Paramount	Trading_Places	1983	4/4d/Trading_Places.jpg	
-5	WarGames	MGM	WarGames	1983	2/29/Wargames.jpg	
-6	Octopussy	MGM	Octopussy	1983	b/b2/Octopussy_-_UK_cinema_poster.jpg	
-7	Sudden Impact	Warner Bros.	Sudden_Impact	1983	0/0b/Sudden_Impact.jpg	
-8	Staying Alive	Paramount	Staying_Alive_(1983_film)	1983	f/f0/Stayingalive.jpg	
-9	Mr. Mom	20th Century Fox	Mr._Mom	1983	e/ed/Mr_mom_poster.jpg	
-10	Risky Business	Warner Bros.	Risky_Business	1983	3/33/Risky_Business.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Ghostbusters	Columbia	Ghostbusters	1984	2/2f/Ghostbusters_(1984)_theatrical_poster.png	
-2	Beverly Hills Cop	Paramount	Beverly_Hills_Cop	1984	a/a2/Beverly_Hills_Cop.jpg	
-3	Indiana Jones and the Temple of Doom	Paramount	Indiana_Jones_and_the_Temple_of_Doom	1984	1/10/Indiana_Jones_and_the_Temple_of_Doom_PosterB.jpg	
-4	Gremlins	Warner Bros.	Gremlins	1984	3/3d/Gremlins1.jpg	
-5	The Karate Kid	Columbia	The_Karate_Kid	1984	a/a9/Karate_kid.jpg	
-6	Police Academy	Warner Bros.	Police_Academy_(film)	1984	4/4d/Police_Academy_film.jpg	
-7	Footloose	Paramount	Footloose_(1984_film)	1984	e/e4/FootloosePoster.jpg	
-8	Romancing the Stone	20th Century Fox	Romancing_the_Stone	1984	8/84/Romancing_the_stone.jpg	
-9	Star Trek III: The Search for Spock	Paramount	Star_Trek_III:_The_Search_for_Spock	1984	b/b6/Star_Trek_III_The_Search_for_Spock.png	
-10	Splash	Buena Vista	Splash_(film)	1984	a/a3/Splash_ver2.jpg	
+#rank	title	distributor	href	year	poster
+1	Return of the Jedi	20th Century Fox	Return_of_the_Jedi	1983	en/b/b2/ReturnOfTheJediPoster1983.jpg
+2	Terms of Endearment	Paramount	Terms_of_Endearment	1983	en/b/bf/Terms_of_Endearment,_1983_film.jpg	sSY3YUrdSJI
+3	Flashdance	Paramount	Flashdance	1983	en/7/7c/Flashdanceposter.jpg
+4	Trading Places	Paramount	Trading_Places	1983	en/4/4d/Trading_Places.jpg
+5	WarGames	MGM	WarGames	1983	en/2/29/Wargames.jpg
+6	Octopussy	MGM	Octopussy	1983	en/b/b2/Octopussy_-_UK_cinema_poster.jpg
+7	Sudden Impact	Warner Bros.	Sudden_Impact	1983	en/0/0b/Sudden_Impact.jpg
+8	Staying Alive	Paramount	Staying_Alive_(1983_film)	1983	en/f/f0/Stayingalive.jpg
+9	Mr. Mom	20th Century Fox	Mr._Mom	1983	en/e/ed/Mr_mom_poster.jpg
+10	Risky Business	Warner Bros.	Risky_Business	1983	en/3/33/Risky_Business.jpg
+#rank	title	distributor	href	year	poster
+1	Ghostbusters	Columbia	Ghostbusters	1984	en/2/2f/Ghostbusters_(1984)_theatrical_poster.png
+2	Beverly Hills Cop	Paramount	Beverly_Hills_Cop	1984	en/a/a2/Beverly_Hills_Cop.jpg
+3	Indiana Jones and the Temple of Doom	Paramount	Indiana_Jones_and_the_Temple_of_Doom	1984	en/1/10/Indiana_Jones_and_the_Temple_of_Doom_PosterB.jpg
+4	Gremlins	Warner Bros.	Gremlins	1984	en/3/3d/Gremlins1.jpg
+5	The Karate Kid	Columbia	The_Karate_Kid	1984	en/a/a9/Karate_kid.jpg
+6	Police Academy	Warner Bros.	Police_Academy_(film)	1984	en/4/4d/Police_Academy_film.jpg
+7	Footloose	Paramount	Footloose_(1984_film)	1984	en/e/e4/FootloosePoster.jpg
+8	Romancing the Stone	20th Century Fox	Romancing_the_Stone	1984	en/8/84/Romancing_the_stone.jpg
+9	Star Trek III: The Search for Spock	Paramount	Star_Trek_III:_The_Search_for_Spock	1984	en/b/b6/Star_Trek_III_The_Search_for_Spock.png
+10	Splash	Buena Vista	Splash_(film)	1984	en/a/a3/Splash_ver2.jpg
 Bachelor Party	Bachelor_Party_(1984_film)	38
 Moscow on the Hudson	Moscow_on_the_Hudson	25
 The Bounty	The_Bounty_(1984_film)	18
 Once Upon a Time in America	Once_Upon_a_Time_in_America	5
 
 
-#rank	title	distributor	href	year	poster	trailer
-1	Back to the Future	Universal	Back_to_the_Future	1985	d/d2/Back_to_the_Future.jpg	
-2	Rambo: First Blood Part II	Tri-Star	Rambo:_First_Blood_Part_II	1985	f/fc/Rambo_first_blood_part_ii.jpg	
-3	Rocky IV	MGM	Rocky_IV	1985	9/95/Rocky_IV.jpg	
-4	The Color Purple	Warner Bros.	The_Color_Purple_(1985_film)	1985	b/be/The_Color_Purple_poster.jpg	
-5	Out of Africa	Universal	Out_of_Africa_(film)	1985	d/d8/Out_of_Africa_(1985).jpg	
-6	Cocoon	20th Century Fox	Cocoon_(film)	1985	e/ef/Cocoonposter.jpg	
-7	The Jewel of the Nile	20th Century Fox	The_Jewel_of_the_Nile	1985	4/42/The_Jewel_of_the_Nile_(1985)_film_poster.jpg	
-8	Witness	Paramount	Witness_(1985_film)	1985	b/bc/Witness_movie.jpg	
-9	The Goonies	Warner Bros.	The_Goonies	1985	c/c6/The_Goonies.jpg	
-10	Spies Like Us	Warner Bros.	Spies_Like_Us	1985	f/fb/Spieslikeusposter.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Top Gun	Paramount	Top_Gun	1986	4/46/Top_Gun_Movie.jpg	
-2	Crocodile Dundee	Paramount	Crocodile_Dundee	1986	a/a6/Crocodile_Dundee_original_Australian_New_Zealand_poster.jpg	
-3	Platoon	Orion Pictures	Platoon_(film)	1986	a/a9/Platoon_posters_86.jpg	
-4	The Karate Kid Part II	Columbia	The_Karate_Kid_Part_II	1986	b/b5/Karate_kid_part_II.jpg	
-5	Star Trek IV: The Voyage Home	Paramount	Star_Trek_IV:_The_Voyage_Home	1986	6/68/Star_Trek_IV_The_Voyage_Home.png	
-6	Back to School	Orion Pictures	Back_to_School	1986	7/7f/Back_to_School_Movie_Poster.jpg	
-7	Aliens	20th Century Fox	Aliens_(film)	1986	f/fb/Aliens_poster.jpg	
-8	The Golden Child	Paramount	The_Golden_Child	1986	1/1a/Golden_child_movie.jpg	
-9	Ruthless People	Buena Vista	Ruthless_People	1986	3/3a/Ruthless_people_poster.jpg	
-10	Ferris Bueller's Day Off	Paramount	Ferris_Bueller's_Day_Off	1986	9/9b/Ferris_Bueller's_Day_Off.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Three Men and a Baby	Buena Vista	Three_Men_and_a_Baby	1987	b/bd/Three_Men_and_a_Baby.png	
-2	Fatal Attraction	Paramount	Fatal_Attraction	1987	b/ba/Fatal_Attraction_poster.png	
-3	Beverly Hills Cop II	Paramount	Beverly_Hills_Cop_II	1987	5/52/Beverly_Hills_Cop_II.jpg	
-4	Good Morning, Vietnam	Buena Vista	Good_Morning,_Vietnam	1987	d/d0/Good_Morning,_Vietnam.jpg	
-5	Moonstruck	MGM/UA Communications Co.	Moonstruck	1987	7/7d/Chermoonstruck.jpg	
-6	The Untouchables	Paramount	The_Untouchables_(film)	1987	9/92/UntouchablesThe.jpg	
-7	The Secret of My Success	Universal Pictures	The_Secret_of_My_Success_(1987_film)	1987	1/18/The_Secret_Of_My_Success.jpg	
-8	Stakeout	Buena Vista	Stakeout_(1987_film)	1987	2/2f/Stakeoutposter1987.jpg	
-9	Lethal Weapon	Warner Bros.	Lethal_Weapon	1987	d/d9/Lethal_weapon1.jpg	
-10	The Witches of Eastwick	Warner Bros.	The_Witches_of_Eastwick_(film)	1987	f/f4/Witches_moviep.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Rain Man	MGM	Rain_Man	1988	b/b2/Rain_Man_poster.jpg	
-2	Who Framed Roger Rabbit	Buena Vista Pictures Distribution	Who_Framed_Roger_Rabbit	1988	3/32/Movie_poster_who_framed_roger_rabbit.jpg	
-3	Coming to America	Paramount	Coming_to_America	1988	3/38/ComingtoAmerica1988MoviePoster.jpg	
-4	Big	20th Century Fox	Big_(film)	1988	b/be/Big_Poster.jpg	
-5	Twins	Universal	Twins_(1988_film)	1988	6/6b/Twins_Poster.jpg	
-6	Crocodile Dundee II	Paramount	Crocodile_Dundee_II	1988	6/68/Crocodile_dundee_ii_ver2.jpg	
-7	Die Hard	20th Century Fox	Die_Hard	1988	c/ca/Die_Hard_(1988_film)_poster.jpg	
-8	The Naked Gun: From the Files of Police Squad!	Paramount	The_Naked_Gun:_From_the_Files_of_Police_Squad!	1988	5/5f/The_Naked_Gun_Poster.jpg	
-9	Cocktail	Buena Vista	Cocktail_(1988_film)	1988	8/8c/Cocktail_1988.jpg	
-10	Beetlejuice	Warner Bros.	Beetlejuice	1988	7/76/Beetlejuice_(1988_film_poster).png	
-#rank	title	distributor	href	year	poster	trailer
-1	Batman	Warner Bros.	Batman_(1989_film)	1989	5/5a/Batman_(1989)_theatrical_poster.jpg	
-2	Indiana Jones and the Last Crusade	Paramount	Indiana_Jones_and_the_Last_Crusade	1989	8/8c/Indiana_Jones_and_the_Last_Crusade.png	
-3	Lethal Weapon 2	Warner Bros.	Lethal_Weapon_2	1989	6/67/Lethal_Weapon_2_Poster.jpg	
-4	Look Who's Talking	Tri-Star	Look_Who's_Talking	1989	d/de/Look_whos_talking.jpg	
-5	Honey, I Shrunk the Kids	Buena Vista	Honey,_I_Shrunk_the_Kids	1989	4/4b/Honey_I_Shrunk_the_kids.jpg	
-6	Back to the Future Part II	Universal Pictures	Back_to_the_Future_Part_II	1989	c/c2/Back_to_the_Future_Part_II.jpg	
-7	Ghostbusters II	Columbia	Ghostbusters_II	1989	0/01/Ghostbusters_ii_poster.jpg	
-8	Driving Miss Daisy	Warner Bros.	Driving_Miss_Daisy	1989	a/a5/Driving_Miss_Daisy_.jpg	
-9	Parenthood	Universal	Parenthood_(film)	1989	3/33/Parenthood_(film)_poster.png	
-10	Dead Poets Society	Buena Vista Pictures Distribution	Dead_Poets_Society	1989	4/49/Dead_poets_society.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Home Alone	20th Century Fox	Home_Alone	1990	7/76/Home_alone_poster.jpg	
-2	Ghost	Paramount	Ghost_(1990_film)	1990	4/41/Ghost_(1990_movie_poster).jpg	
-3	Dances with Wolves	Orion Pictures	Dances_with_Wolves	1990	8/82/Dances_with_Wolves_poster.jpg	
-4	Pretty Woman	Buena Vista	Pretty_Woman	1990	b/b6/Pretty_woman_movie.jpg	
-5	Teenage Mutant Ninja Turtles	New Line Cinema	Teenage_Mutant_Ninja_Turtles_(1990_film)	1990	8/8d/Teenage_Mutant_Ninja_Turtles_(1990_film)_poster.jpg	
-6	The Hunt for Red October	Paramount	The_Hunt_for_Red_October_(film)	1990	3/36/The_Hunt_for_Red_October_movie_poster.png	
-7	Total Recall	Tri-Star	Total_Recall_(1990_film)	1990	2/2d/Total_Recall_(1990_film)_poster.jpg	
-8	Die Hard 2	20th Century Fox	Die_Hard_2	1990	2/2c/Die_Hard_2.jpg	
-9	Dick Tracy	Buena Vista Pictures Distribution	Dick_Tracy_(1990_film)	1990	9/9d/Dick_tracy1.jpg	
-10	Kindergarten Cop	Universal	Kindergarten_Cop	1990	3/36/Kindergarten_Cop_film.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Terminator 2: Judgment Day	Tri-Star	Terminator_2:_Judgment_Day	1991	8/85/Terminator2poster.jpg	
-2	Robin Hood: Prince of Thieves	Warner Bros.	Robin_Hood:_Prince_of_Thieves	1991	4/4f/Robin_hood_1991.jpg	
-3	Beauty and the Beast	Buena Vista Pictures Distribution, Inc.	Beauty_and_the_Beast_(1991_film)	1991	5/5e/Beauty_and_the_Beast_(1991_film)_poster.jpg	
-4	The Silence of the Lambs	Orion Pictures	The_Silence_of_the_Lambs_(film)	1991	8/86/The_Silence_of_the_Lambs_poster.jpg	
-5	City Slickers	Columbia	City_Slickers	1991	3/3c/City_Slickers.jpg	
-6	Hook	Tri-Star	Hook_(film)	1991	0/0e/Hook_poster_transparent.png	
-7	The Addams Family	Paramount	The_Addams_Family_(1991_film)	1991	0/04/The_Addams_Family.jpg	
-8	Sleeping with the Enemy	20th Century Fox	Sleeping_with_the_Enemy	1991	a/a4/Sleeping_With_The_Enemy.jpg	
-9	Father of the Bride	Buena Vista	Father_of_the_Bride_(1991_film)	1991	a/a1/Father_of_the_bride_poster.jpg	
-10	The Naked Gun 2½: The Smell of Fear	Paramount	The_Naked_Gun_2½:_The_Smell_of_Fear	1991	d/d1/Naked_Gun_2.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Aladdin	Buena Vista Pictures Distribution	Aladdin_(1992_Disney_film)	1992	b/bd/Aladdin_(1992_Disney_film)_poster.jpg	
-2	Home Alone 2: Lost in New York	20th Century Fox	Home_Alone_2:_Lost_in_New_York	1992	5/50/Home_Alone_2.jpg	
-3	Batman Returns	Warner Bros.	Batman_Returns	1992	8/83/Batman_returns_poster2.jpg	
-4	Lethal Weapon 3	Warner Bros.	Lethal_Weapon_3	1992	c/cc/Lethal_Weapon_3_Poster.jpg	
-5	A Few Good Men	Columbia	A_Few_Good_Men	1992	4/45/A_Few_Good_Men_poster.jpg	
-6	Sister Act	Buena Vista	Sister_Act	1992	a/a3/Sister_Act_film_poster.jpg	
-7	The Bodyguard	Warner Bros.	The_Bodyguard_(1992_film)	1992	8/8f/The_Bodyguard_1992_Film_Poster.jpg	
-8	Wayne's World	Paramount	Wayne's_World_(film)	1992	e/e0/Wayne's_World.jpg	
-9	Basic Instinct	Tri-Star	Basic_Instinct	1992	f/f9/Basic_Instinct.png	
-10	A League of Their Own	Columbia	A_League_of_Their_Own	1992	5/5f/League_of_their_own_ver2.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Jurassic Park	Universal Pictures	Jurassic_Park_(film)	1993	e/e7/Jurassic_Park_poster.jpg	
-2	Mrs. Doubtfire	20th Century Fox	Mrs._Doubtfire	1993	5/5a/Mrs_Doubtfire.jpg	
-3	The Fugitive	Warner Bros.	The_Fugitive_(1993_film)	1993	c/c7/The_Fugitive_movie.jpg	
-4	The Firm	Paramount	The_Firm_(1993_film)	1993	f/ff/Firm_ver2.jpg	
-5	Sleepless in Seattle	Tri-Star	Sleepless_in_Seattle	1993	e/e1/Sleepless_in_seattle.jpg	
-6	Indecent Proposal	Paramount	Indecent_Proposal	1993	8/84/Indecent_proposal.jpg	
-7	In the Line of Fire	Columbia	In_the_Line_of_Fire	1993	f/fd/In_the_line_of_fireposter.jpg	
-8	The Pelican Brief	Warner Bros.	The_Pelican_Brief_(film)	1993	9/9d/The_Pelican_Brief.jpg	
-9	Schindler's List	Universal Pictures	Schindler's_List	1993	3/38/Schindler's_List_movie.jpg	
-10	Cliffhanger	Tri-Star	Cliffhanger_(film)	1993	4/4a/Cliffhanger_Poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Forrest Gump	Paramount	Forrest_Gump	1994	6/67/Forrest_Gump_poster.jpg	
-2	The Lion King	Buena Vista Pictures Distribution	The_Lion_King	1994	3/3d/The_Lion_King_poster.jpg	
-3	True Lies	20th Century Fox	True_Lies	1994	8/81/True_Lies_poster.png	
-4	The Santa Clause	Buena Vista Pictures Distribution	The_Santa_Clause	1994	8/86/The_Santa_Clause.jpg	
-5	The Flintstones	Universal	The_Flintstones_(film)	1994	d/dc/Flintstones_ver2.jpg	
-6	Dumb and Dumber	New Line Cinema	Dumb_and_Dumber	1994	6/64/Dumbanddumber.jpg	
-7	Clear and Present Danger	Paramount	Clear_and_Present_Danger_(film)	1994	3/36/Clear_and_Present_Danger_film.jpg	
-8	Speed	20th Century Fox	Speed_(1994_film)	1994	4/45/Speed_movie_poster.jpg	
-9	The Mask	New Line Cinema	The_Mask_(1994_film)	1994	4/4b/The_Mask_(film)_poster.jpg	
-10	Pulp Fiction	Miramax Films	Pulp_Fiction	1994	3/3b/Pulp_Fiction_(1994)_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Toy Story	Buena Vista Pictures Distribution	Toy_Story	1995	1/13/Toy_Story.jpg	
-2	Batman Forever	Warner Bros.	Batman_Forever	1995	9/9d/Batman_Forever_poster.png	
-3	Apollo 13	Universal Pictures	Apollo_13_(film)	1995	9/9e/Apollo_thirteen_movie.jpg	
-4	Pocahontas	Buena Vista Pictures Distribution	Pocahontas_(1995_film)	1995	5/57/Pocahontasposter.jpg	
-5	Ace Ventura: When Nature Calls	Warner Bros.	Ace_Ventura:_When_Nature_Calls	1995	b/b9/AceVenturaWhenNatureCallsposter.jpg	
-6	GoldenEye	MGM	GoldenEye	1995	2/24/GoldenEye_-_UK_cinema_poster.jpg	
-7	Jumanji	Sony Pictures Releasing	Jumanji_(film)	1995	b/b6/Jumanji_poster.jpg	
-8	Casper	Universal	Casper_(1995_film)	1995	7/7f/Casper_poster.jpg	
-9	Seven	New Line Cinema	Seven_(1995_film)	1995	6/68/Seven_(movie)_poster.jpg	
-10	Die Hard with a Vengeance	20th Century Fox	Die_Hard_with_a_Vengeance	1995	4/4c/Die_Hard_With_A_Vengance.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Independence Day	20th Century Fox	Independence_Day_(1996_film)	1996	b/bb/Independence_day_movieposter.jpg	
-2	Twister	Warner Bros.	Twister_(1996_film)	1996	a/a5/Twistermovieposter.jpg	
-3	Mission: Impossible	Paramount	Mission:_Impossible_(film)	1996	e/e1/MissionImpossiblePoster.jpg	
-4	Jerry Maguire	Sony Pictures Releasing	Jerry_Maguire	1996	e/ea/Jerry_Maguire_movie_poster.jpg	
-5	Ransom	Buena Vista	Ransom_(1996_film)	1996	d/d2/RansomPoster.jpg	
-6	101 Dalmatians	Buena Vista Pictures Distribution	101_Dalmatians_(1996_film)	1996	e/ef/One_hundred_and_one_dalmatians_ver2.jpg	
-7	The Rock	Buena Vista	The_Rock_(film)	1996	8/82/The_Rock_(movie).jpg	
-8	The Nutty Professor	Universal	The_Nutty_Professor_(1996_film)	1996	7/7f/Nutty_professor_ver1.jpg	
-9	The Birdcage	MGM/UA Distribution Co.	The_Birdcage	1996	7/76/Birdcage_imp.jpg	
-10	A Time to Kill	Warner Bros.	A_Time_to_Kill_(1996_film)	1996	6/60/Time_to_kill_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Titanic	Paramount	Titanic_(1997_film)	1997	1/18/Titanic_(1997_film)_poster.png	
-2	Men in Black	Sony Pictures Releasing	Men_in_Black_(1997_film)	1997	f/fb/Men_in_Black_Poster.jpg	
-3	The Lost World: Jurassic Park	Universal Pictures	The_Lost_World:_Jurassic_Park	1997	c/cc/The_Lost_World_–_Jurassic_Park_poster.jpg	
-4	Liar Liar	Universal	Liar_Liar	1997	3/3d/Liar_Liar_poster.JPG	
-5	Air Force One	Sony Pictures Releasing	Air_Force_One_(film)	1997	2/2a/Air_Force_One_(movie_poster).jpg	
-6	As Good as It Gets	Sony Pictures Releasing	As_Good_as_It_Gets	1997	d/dc/As_good_as_it_gets.jpg	
-7	Good Will Hunting	Miramax Films	Good_Will_Hunting	1997	5/52/Good_Will_Hunting.png	
-8	My Best Friend's Wedding	Sony Pictures Releasing	My_Best_Friend's_Wedding	1997	7/71/My_Best_Friends_Wedding.jpg	
-9	Tomorrow Never Dies	MGM	Tomorrow_Never_Dies	1997	b/b3/Tomorrow_Never_Dies_(UK_cinema_poster).jpg	
-10	Face/Off	Paramount	Face/Off	1997	1/1c/FaceOff_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Saving Private Ryan	DreamWorks Pictures	Saving_Private_Ryan	1998	a/ac/Saving_Private_Ryan_poster.jpg	
-2	Armageddon	Buena Vista Pictures Distribution	Armageddon_(1998_film)	1998	f/fc/Armageddon-poster06.jpg	
-3	There's Something About Mary	20th Century Fox	There's_Something_About_Mary	1998	d/df/There's_Something_About_Mary_POSTER.jpg	
-4	A Bug's Life	Buena Vista Pictures Distribution	A_Bug's_Life	1998	c/cc/A_Bug's_Life.jpg	
-5	The Waterboy	Buena Vista	The_Waterboy	1998	f/f3/Waterboy-poster-0.jpg	
-6	Dr. Dolittle	20th Century Fox	Dr._Dolittle_(film)	1998	5/5f/Dr_dolittle_movie_1998.jpg	
-7	Rush Hour	New Line Cinema	Rush_Hour_(1998_film)	1998	4/49/Rush_Hour_poster.png	
-8	Deep Impact	Paramount	Deep_Impact_(film)	1998	9/93/Deep_Impact_poster.jpg	
-9	Godzilla	Tri-Star	Godzilla_(1998_film)	1998	2/2e/Godzilla_(1998_Movie_Poster).jpg	
-10	Patch Adams	Universal	Patch_Adams_(film)	1998	5/53/Patch_Adams_1998_movie_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Star Wars: Episode I - The Phantom Menace	20th Century Fox	Star_Wars:_Episode_I_-_The_Phantom_Menace	1999	4/40/Star_Wars_Phantom_Menace_poster.jpg	
-2	The Sixth Sense	Buena Vista Pictures Distribution	The_Sixth_Sense	1999	a/a4/The_Sixth_Sense_poster.png	
-3	Toy Story 2	Buena Vista Pictures Distribution	Toy_Story_2	1999	c/c0/Toy_Story_2.jpg	
-4	Austin Powers: The Spy Who Shagged Me	New Line Cinema	Austin_Powers:_The_Spy_Who_Shagged_Me	1999	f/ff/Austin_Powers-_The_Spy_Who_Shagged_Me.jpg	
-5	The Matrix	Warner Bros.	The_Matrix	1999	c/c1/The_Matrix_Poster.jpg	
-6	Tarzan	Buena Vista Pictures Distribution	Tarzan_(1999_film)	1999	4/4f/Tarzan_(1999_film)_-_theatrical_poster.jpg	
-7	Big Daddy	Sony Pictures Releasing	Big_Daddy_(1999_film)	1999	c/ca/Big_Daddy_film.jpg	
-8	The Mummy	Universal	The_Mummy_(1999_film)	1999	6/68/The_mummy.jpg	
-9	Runaway Bride	Paramount	Runaway_Bride_(film)	1999	e/e2/Runaway_Bride.jpg	
-10	The Blair Witch Project	Artisan	The_Blair_Witch_Project	1999	2/26/Blair_Witch_Project.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	How the Grinch Stole Christmas	Universal	How_the_Grinch_Stole_Christmas_(2000_film)	2000	e/e7/How_the_Grinch_Stole_Christmas_film_poster.jpg	
-2	Cast Away	20th Century Fox	Cast_Away	2000	a/a7/Cast_away_film_poster.jpg	
-3	Mission: Impossible II	Paramount	Mission:_Impossible_II	2000	4/48/Mission_Impossible_II.jpg	
-4	Gladiator	DreamWorks Pictures	Gladiator_(2000_film)	2000	f/fb/Gladiator_(2000_film_poster).png	
-5	What Women Want	Paramount	What_Women_Want	2000	3/37/Whatwomenwant.jpg	
-6	The Perfect Storm	Warner Bros.	The_Perfect_Storm_(film)	2000	7/7e/Perfect_storm_poster.jpg	
-7	Meet the Parents	Universal	Meet_the_Parents	2000	0/05/Meet_the_parents_ver2.jpg	
-8	X-Men	20th Century Fox	X-Men_(film)	2000	8/81/X-MenfilmPoster.jpg	
-9	Scary Movie	Dimension Films	Scary_Movie_(2000_film)	2000	2/29/Movie_poster_for_"Scary_Movie".jpg	
-10	What Lies Beneath	DreamWorks Pictures	What_Lies_Beneath	2000	d/d8/What_lies_beneath_(poster).jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Harry Potter and the Sorcerer's Stone	Warner Bros.	Harry_Potter_and_the_Sorcerer's_Stone_(film)	2001	7/7a/Harry_Potter_and_the_Philosopher's_Stone_banner.jpg	
-2	The Lord of the Rings: The Fellowship of the Ring	New Line Cinema	The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film)	2001	f/fb/Lord_Rings_Fellowship_Ring.jpg	
-3	Shrek	DreamWorks Pictures	Shrek	2001	7/7b/Shrek_(2001_animated_feature_film).jpg	
-4	Monsters, Inc.	Buena Vista	Monsters,_Inc.	2001	6/63/Monsters_Inc.JPG	
-5	Rush Hour 2	New Line Cinema	Rush_Hour_2	2001	d/dc/Rush_Hour_2_poster.png	
-6	The Mummy Returns	Universal Pictures	The_Mummy_Returns	2001	b/b7/The_Mummy_Returns_poster.jpg	
-7	Pearl Harbor	Buena Vista	Pearl_Harbor_(film)	2001	3/3c/Pearl_harbor_movie_poster.jpg	
-8	Ocean's Eleven	Warner Bros.	Ocean's_Eleven	2001	6/68/Ocean's_Eleven_2001_Poster.jpg	
-9	Jurassic Park III	Universal	Jurassic_Park_III	2001	6/6d/Jurassic_Park_III_poster.jpg	
-10	Planet of the Apes	20th Century Fox	Planet_of_the_Apes_(2001_film)	2001	2/2c/PotA-2001poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Spider-Man	Sony Pictures Releasing	Spider-Man_(2002_film)	2002	6/6c/Spider-Man_(2002_film)_poster.jpg	
-2	The Lord of the Rings: The Two Towers	New Line Cinema	The_Lord_of_the_Rings:_The_Two_Towers_(film)	2002	a/a1/Lord_Rings_Two_Towers.jpg	
-3	Star Wars: Episode II - Attack of the Clones	20th Century Fox	Star_Wars:_Episode_II_-_Attack_of_the_Clones	2002	3/32/Star_Wars_-_Episode_II_Attack_of_the_Clones_(movie_poster).jpg	
-4	Harry Potter and the Chamber of Secrets	Warner Bros.	Harry_Potter_and_the_Chamber_of_Secrets_(film)	2002	c/c0/Harry_Potter_and_the_Chamber_of_Secrets_movie.jpg	
-5	My Big Fat Greek Wedding	IFC Films	My_Big_Fat_Greek_Wedding	2002	3/3b/My_Big_Fat_Greek_Wedding_movie_poster.jpg	
-6	Signs	Buena Vista	Signs_(2002_film)	2002	0/08/The_Signs_movie.jpg	
-7	Austin Powers in Goldmember	New Line Cinema	Austin_Powers_in_Goldmember	2002	9/9d/Austin_Powers_in_Goldmember.jpg	
-8	Men in Black II	Sony Pictures Releasing	Men_in_Black_II	2002	3/3d/Men_in_Black_II_Poster.jpg	
-9	Ice Age	20th Century Fox	Ice_Age_(2002_film)	2002	3/3c/Ice_Age_(2002_film)_poster.jpg	
-10	Chicago	Miramax Films	Chicago_(2002_film)	2002	f/f6/Chicago_(2002_film).png	
-#rank	title	distributor	href	year	poster	trailer
-1	Finding Nemo	Buena Vista Pictures Distribution	Finding_Nemo	2003	2/29/Finding_Nemo.jpg	
-2	Pirates of the Caribbean: The Curse of the Black Pearl	Buena Vista Pictures Distribution	Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl	2003	8/89/Pirates_of_the_Caribbean_-_The_Curse_of_the_Black_Pearl.png	
-3	The Matrix Reloaded	Warner Bros.	The_Matrix_Reloaded	2003	b/ba/Poster_-_The_Matrix_Reloaded.jpg	
-4	The Lord of the Rings: The Return of the King	New Line Cinema	The_Lord_of_the_Rings:_The_Return_of_the_King	2003	4/48/Lord_Rings_Return_King.jpg	
-5	Bruce Almighty	Universal	Bruce_Almighty	2003	6/60/BruceAlmighty_poster.jpg	
-6	X2: X-Men United	20th Century Fox	X2_(film)	2003	3/3e/X2_poster.jpg	
-7	Elf	New Line Cinema	Elf_(film)	2003	d/df/Elf_movie.jpg	
-8	Chicago	Miramax Films	Chicago_(2002_film)	2003	f/f6/Chicago_(2002_film).png	
-9	Terminator 3: Rise of the Machines	Warner Bros.	Terminator_3:_Rise_of_the_Machines	2003	3/39/Terminator_3_Rise_of_the_Machines_movie.jpg	
-10	Bad Boys II	Sony Pictures Releasing	Bad_Boys_II	2003	f/f4/Bad_Boys_II_Official_Theatrical_Poster.png	
-#rank	title	distributor	href	year	poster	trailer
-1	Shrek 2	DreamWorks Pictures	Shrek_2	2004	b/b9/Shrek_2_poster.jpg	
-2	Spider-Man 2	Sony Pictures Releasing	Spider-Man_2	2004	4/4e/Spider-Man_2_poster.jpg	
-3	The Passion of the Christ	Newmarket Films	The_Passion_of_the_Christ	2004	c/c4/The_Passion_of_the_Christ_poster.png	
-4	Meet the Fockers	Universal	Meet_the_Fockers	2004	2/27/Meet_The_Fockers.jpg	
-5	The Incredibles	Buena Vista	The_Incredibles	2004	2/27/The_Incredibles_(2004_animated_feature_film).jpg	
-6	Harry Potter and the Prisoner of Azkaban	Warner Bros.	Harry_Potter_and_the_Prisoner_of_Azkaban_(film)	2004	b/bc/Prisoner_of_azkaban_UK_poster.jpg	
-7	The Day After Tomorrow	20th Century Fox	The_Day_After_Tomorrow	2004	5/58/The_Day_After_Tomorrow_movie.jpg	
-8	The Bourne Supremacy	Universal Pictures	The_Bourne_Supremacy_(film)	2004	3/30/Bourne_supremacy_ver2.jpg	
-9	National Treasure	Buena Vista Pictures Distribution	National_Treasure_(film)	2004	1/12/Movie_national_treasure.JPG	
-10	The Polar Express	Warner Bros.	The_Polar_Express_(film)	2004	2/24/The_Polar_Express_(2004)_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Star Wars: Episode III – Revenge of the Sith	20th Century Fox	Star_Wars:_Episode_III_–_Revenge_of_the_Sith	2005	9/93/Star_Wars_Episode_III_Revenge_of_the_Sith_poster.jpg	
-2	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	Buena Vista Pictures Distribution	The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe	2005	1/10/The_Chronicles_of_Narnia_-_The_Lion,_the_Witch_and_the_Wardrobe.jpg	
-3	Harry Potter and the Goblet of Fire	Warner Bros.	Harry_Potter_and_the_Goblet_of_Fire_(film)	2005	c/c9/Harry_Potter_and_the_Goblet_of_Fire_Poster.jpg	
-4	War of the Worlds	Paramount	War_of_the_Worlds_(2005_film)	2005	8/83/War_of_the_Worlds_2005_poster.jpg	
-5	King Kong	Universal	King_Kong_(2005_film)	2005	6/6a/Kingkong_bigfinal1.jpg	
-6	Wedding Crashers	New Line Cinema	Wedding_Crashers	2005	3/3e/Wedding_crashers_poster.jpg	
-7	Charlie and the Chocolate Factory	Warner Bros.	Charlie_and_the_Chocolate_Factory_(film)	2005	1/17/Charlie_and_the_Chocolate_Factory_(film).png	
-8	Batman Begins	Warner Bros.	Batman_Begins	2005	a/af/Batman_Begins_Poster.jpg	
-9	Madagascar	DreamWorks Pictures	Madagascar_(2005_film)	2005	3/36/Madagascar_Theatrical_Poster.jpg	
-10	Mr. & Mrs. Smith	20th Century Fox	Mr._&_Mrs._Smith_(2005_film)	2005	f/fd/Mr_and_Mrs_Smith_poster.png	
-#rank	title	distributor	href	year	poster	trailer
-1	Pirates of the Caribbean: Dead Man's Chest	Buena Vista Pictures Distribution	Pirates_of_the_Caribbean:_Dead_Man's_Chest	2006	2/2d/Pirates_of_the_caribbean_2_poster_b.jpg	
-2	Night at the Museum	20th Century Fox	Night_at_the_Museum	2006	3/34/Night_at_the_Museum_poster.jpg	
-3	Cars	Buena Vista Pictures Distribution	Cars_(film)	2006	3/34/Cars_2006.jpg	
-4	X-Men: The Last Stand	20th Century Fox	X-Men:_The_Last_Stand	2006	5/5b/X-Men_The_Last_Stand_theatrical_poster.jpg	
-5	The Da Vinci Code	Sony Pictures Releasing	The_Da_Vinci_Code_(film)	2006	e/e9/The_da_vinci_code_final.jpg	
-6	Superman Returns	Warner Bros.	Superman_Returns	2006	1/10/Superman_Returns.jpg	
-7	Happy Feet	Warner Bros.	Happy_Feet	2006	5/5c/Happy_Feet_Poster.jpg	
-8	Ice Age: The Meltdown	20th Century Fox	Ice_Age:_The_Meltdown	2006	f/f1/Ice_Age_2_poster.jpg	
-9	Casino Royale	Sony Pictures Releasing	Casino_Royale_(2006_film)	2006	8/82/Casino_Royale_(2006_film_poster).jpg	
-10	The Pursuit of Happyness	Sony Pictures Releasing	The_Pursuit_of_Happyness	2006	8/81/Poster-pursuithappyness.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Spider-Man 3	Sony Pictures Releasing	Spider-Man_3	2007	7/7a/Spider-Man_3,_International_Poster.jpg	
-2	Shrek the Third	Paramount	Shrek_the_Third	2007	2/22/Shrek_the_Third_(2007_animated_feature_film).jpg	
-3	Transformers	Paramount	Transformers_(film)	2007	6/66/Transformers07.jpg	
-4	Pirates of the Caribbean: At World's End	Buena Vista Pictures Distribution	Pirates_of_the_Caribbean:_At_World's_End	2007	5/5a/Pirates_AWE_Poster.jpg	
-5	Harry Potter and the Order of the Phoenix	Warner Bros.	Harry_Potter_and_the_Order_of_the_Phoenix_(film)	2007	e/e7/Harry_Potter_and_the_Order_of_the_Phoenix_poster.jpg	
-6	I Am Legend	Warner Bros.	I_Am_Legend_(film)	2007	d/df/I_am_legend_teaser.jpg	
-7	The Bourne Ultimatum	Universal Pictures	The_Bourne_Ultimatum_(film)	2007	f/fe/The_Bourne_Ultimatum_(2007_film_poster).jpg	
-8	National Treasure: Book of Secrets	Buena Vista	National_Treasure:_Book_of_Secrets	2007	8/80/Book_of_secrets_post.jpg	
-9	Alvin and the Chipmunks	20th Century Fox	Alvin_and_the_Chipmunks_(film)	2007	d/dc/Alvin_and_the_Chipmunks2007.jpg	
-10	300	Warner Bros.	300_(film)	2007	5/5c/300poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	The Dark Knight	Warner Bros.	The_Dark_Knight	2008	1/1c/The_Dark_Knight_(2008_film).jpg	
-2	Iron Man	Paramount	Iron_Man_(2008_film)	2008	0/02/Iron_Man_(2008_film)_poster.jpg	
-3	Indiana Jones and the Kingdom of the Crystal Skull	Paramount	Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull	2008	d/d5/Kingdomofthecrystalskull.jpg	
-4	Hancock	Sony Pictures Releasing	Hancock_(film)	2008	c/c9/Hancockposter.jpg	
-5	WALL-E	Buena Vista	WALL-E	2008	4/4c/WALL-E_poster.jpg	
-6	Kung Fu Panda	Paramount	Kung_Fu_Panda_(film)	2008	7/76/Kungfupanda.jpg	
-7	Twilight	Summit Entertainment	Twilight_(2008_film)	2008	b/b6/Twilight_(2008_film)_poster.jpg	
-8	Madagascar: Escape 2 Africa	DreamWorks Pictures	Madagascar:_Escape_2_Africa	2008	7/7f/Madagascar2poster.jpg	
-9	Quantum of Solace	Sony Pictures Releasing	Quantum_of_Solace	2008	2/2d/Quantum_of_Solace_-_UK_cinema_poster.jpg	
-10	Horton Hears a Who!	20th Century Fox	Horton_Hears_a_Who!_(film)	2008	8/8b/Horton_Hears_a_Who!.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Avatar	20th Century Fox	Avatar_(2009_film)	2009	d/d6/Avatar_(2009_film)_poster.jpg	
-2	Transformers: Revenge of the Fallen	Paramount	Transformers:_Revenge_of_the_Fallen	2009	c/cb/TF2SteelPoster.jpg	
-3	Harry Potter and the Half-Blood Prince	Warner Bros.	Harry_Potter_and_the_Half-Blood_Prince_(film)	2009	3/3f/Harry_Potter_and_the_Half-Blood_Prince_poster.jpg	
-4	The Twilight Saga: New Moon	Summit Entertainment	The_Twilight_Saga:_New_Moon	2009	9/93/The_Twilight_Saga-_New_Moon_poster.JPG	
-5	Up	Buena Vista	Up_(2009_film)	2009	0/05/Up_(2009_film).jpg	
-6	The Hangover	Warner Bros.	The_Hangover	2009	b/b9/Hangoverposter09.jpg	
-7	Star Trek	Paramount	Star_Trek_(film)	2009	2/29/Startrekposter.jpg	
-8	The Blind Side	Warner Bros.	The_Blind_Side_(film)	2009	6/60/Blind_side_poster.jpg	
-9	Alvin and the Chipmunks: The Squeakquel	20th Century Fox	Alvin_and_the_Chipmunks:_The_Squeakquel	2009	d/d8/Chipmunks2squeakuel.jpg	
-10	Sherlock Holmes	Warner Bros.	Sherlock_Holmes_(2009_film)	2009	e/e0/Sherlock_holmes_ver5.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Toy Story 3	Buena Vista	Toy_Story_3	2010	6/69/Toy_Story_3_poster.jpg	
-2	Alice in Wonderland	Buena Vista	Alice_in_Wonderland_(2010_film)	2010	3/36/Alice_in_Wonderland_(2010_film).png	
-3	Iron Man 2	Paramount	Iron_Man_2	2010	e/ed/Iron_Man_2_poster.jpg	
-4	The Twilight Saga: Eclipse	Summit Entertainment	The_Twilight_Saga:_Eclipse	2010	d/d7/Eclipse_Theatrical_One-Sheet.jpg	
-5	Harry Potter and the Deathly Hallows – Part 1	Warner Bros.	Harry_Potter_and_the_Deathly_Hallows_–_Part_1	2010	2/2d/Harry_Potter_and_the_Deathly_Hallows_–_Part_1.jpg	
-6	Inception	Warner Bros.	Inception	2010	2/2e/Inception_(2010)_theatrical_poster.jpg	
-7	Despicable Me	Universal Pictures	Despicable_Me_(film)	2010	c/c0/Despicable_Me_(2010_animated_feature_film).jpg	
-8	Shrek Forever After	Paramount	Shrek_Forever_After	2010	7/70/Shrek_Forever_After_(2010_animated_feature_film).jpg	
-9	How to Train Your Dragon	Paramount	How_to_Train_Your_Dragon_(2010_film)	2010	9/99/How_to_Train_Your_Dragon_Poster.jpg	
-10	Tangled	Buena Vista	Tangled	2010	a/a8/Tangled_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Harry Potter and the Deathly Hallows – Part 2	Warner Bros.	Harry_Potter_and_the_Deathly_Hallows_–_Part_2	2011	d/df/Harry_Potter_and_the_Deathly_Hallows_–_Part_2.jpg	
-2	Transformers: Dark of the Moon	Paramount	Transformers:_Dark_of_the_Moon	2011	b/bf/Transformers_dark_of_the_moon_ver5.jpg	
-3	The Twilight Saga: Breaking Dawn – Part 1	Summit Entertainment	The_Twilight_Saga:_Breaking_Dawn_–_Part_1	2011	c/c2/Breaking_Dawn_Part_1_Poster.jpg	
-4	The Hangover Part II	Warner Bros.	The_Hangover_Part_II	2011	9/9d/HangoverPart2MP2011.jpg	
-5	Pirates of the Caribbean: On Stranger Tides	Buena Vista	Pirates_of_the_Caribbean:_On_Stranger_Tides	2011	5/5e/Pirates_of_the_Caribbean_-_On_Stranger_Tides.png	
-6	Fast Five	Universal	Fast_Five	2011	0/0c/Fast_Five_poster.jpg	
-7	Mission: Impossible – Ghost Protocol	Paramount	Mission:_Impossible_–_Ghost_Protocol	2011	b/b5/Mission_impossible_ghost_protocol.jpg	
-8	Cars 2	Buena Vista	Cars_2	2011	7/7f/Cars_2_Poster.jpg	
-9	Sherlock Holmes: A Game of Shadows	Warner Bros.	Sherlock_Holmes:_A_Game_of_Shadows	2011	5/53/Sherlock_Holmes2Poster.jpg	
-10	Thor	Paramount	Thor_(film)	2011	9/95/Thor_(film)_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	The Avengers	Buena Vista	The_Avengers_(2012_film)	2012	8/8a/The_Avengers_(2012_film)_poster.jpg	
-2	The Dark Knight Rises	Warner Bros.	The_Dark_Knight_Rises	2012	8/83/Dark_knight_rises_poster.jpg	
-3	The Hunger Games	Lionsgate	The_Hunger_Games_(film)	2012	4/42/HungerGamesPoster.jpg	
-4	Skyfall	Sony Pictures Releasing	Skyfall	2012	a/a7/Skyfall_poster.jpg	
-5	The Hobbit: An Unexpected Journey	Warner Bros.	The_Hobbit:_An_Unexpected_Journey	2012	b/b3/The_Hobbit-_An_Unexpected_Journey.jpeg	
-6	The Twilight Saga: Breaking Dawn – Part 2	Summit Entertainment	The_Twilight_Saga:_Breaking_Dawn_–_Part_2	2012	4/49/The_Twilight_Saga_Breaking_Dawn_Part_2_poster.jpg	
-7	The Amazing Spider-Man	Sony Pictures Releasing	The_Amazing_Spider-Man_(film)	2012	e/e0/The_Amazing_Spider-Man_(film)_poster.jpg	
-8	Brave	Buena Vista	Brave_(2012_film)	2012	9/96/Brave_Poster.jpg	
-9	Ted	Universal	Ted_(film)	2012	d/d4/Ted_(film).png	
-10	Madagascar 3: Europe's Most Wanted	Paramount	Madagascar_3:_Europe's_Most_Wanted	2012	c/c4/Madagascar3-Poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	The Hunger Games: Catching Fire	Lionsgate	The_Hunger_Games:_Catching_Fire	2013	1/12/Catching-Fire_poster.jpg	
-2	Iron Man 3	Buena Vista	Iron_Man_3	2013	1/19/Iron_Man_3_poster.jpg	
-3	Frozen	Buena Vista	Frozen_(2013_film)	2013	0/05/Frozen_(2013_film)_poster.jpg	
-4	Despicable Me 2	Universal	Despicable_Me_2	2013	2/29/Despicable_Me_2_poster.jpg	
-5	Man of Steel	Warner Bros.	Man_of_Steel_(film)	2013	5/50/Man_of_Steel_(film)_poster.jpg	
-6	Gravity	Warner Bros.	Gravity_(2013_film)	2013	f/f6/Gravity_Poster.jpg	
-7	Monsters University	Buena Vista	Monsters_University	2013	2/2a/Monsters_University_poster_3.jpg	
-8	The Hobbit: The Desolation of Smaug	Warner Bros.	The_Hobbit:_The_Desolation_of_Smaug	2013	4/4f/The_Hobbit_-_The_Desolation_of_Smaug_theatrical_poster.jpg	
-9	Fast & Furious 6	Universal	Fast_&_Furious_6	2013	3/30/Fast_&_Furious_6_film_poster.jpg	
-10	Oz the Great and Powerful	Buena Vista	Oz_the_Great_and_Powerful	2013	5/52/Oz_-_The_Great_and_Powerful_Poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	American Sniper	Warner Bros.	American_Sniper	2014	1/10/American_Sniper_poster.jpg	
-2	The Hunger Games: Mockingjay – Part 1	Lionsgate	The_Hunger_Games:_Mockingjay_–_Part_1	2014	6/63/MockingjayPart1Poster3.jpg	
-3	Guardians of the Galaxy	Buena Vista	Guardians_of_the_Galaxy_(film)	2014	3/33/Guardians_of_the_Galaxy_(film)_poster.jpg	
-4	Captain America: The Winter Soldier	Buena Vista	Captain_America:_The_Winter_Soldier	2014	9/9e/Captain_America_The_Winter_Soldier_poster.jpg	
-5	The Lego Movie	Warner Bros.	The_Lego_Movie	2014	1/10/The_Lego_Movie_poster.jpg	
-6	The Hobbit: The Battle of the Five Armies	Warner Bros.	The_Hobbit:_The_Battle_of_the_Five_Armies	2014	e/e7/The_Hobbit_-_The_Battle_of_the_Five_Armies.png	
-7	Transformers: Age of Extinction	Paramount	Transformers:_Age_of_Extinction	2014	0/0f/Transformers_Age_of_Extinction_poster.jpg	
-8	Maleficent	Buena Vista	Maleficent_(film)	2014	5/55/Maleficent_poster.jpg	
-9	X-Men: Days of Future Past	20th Century Fox	X-Men:_Days_of_Future_Past	2014	0/0c/X-Men_Days_of_Future_Past_poster.jpg	
-10	Big Hero 6	Buena Vista	Big_Hero_6_(film)	2014	4/4b/Big_Hero_6_(film)_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Star Wars: The Force Awakens	Buena Vista	Star_Wars:_The_Force_Awakens	2015	a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg	
-2	Jurassic World	Universal	Jurassic_World	2015	6/6e/Jurassic_World_poster.jpg	
-3	Avengers: Age of Ultron	Buena Vista	Avengers:_Age_of_Ultron	2015	f/ff/Avengers_Age_of_Ultron_poster.jpg	
-4	Inside Out	Buena Vista	Inside_Out_(2015_film)	2015	0/0a/Inside_Out_(2015_film)_poster.jpg	
-5	Furious 7	Universal	Furious_7	2015	b/b8/Furious_7_poster.jpg	
-6	Minions	Universal	Minions_(film)	2015	1/19/Minions_(2015_film).jpg	
-7	The Hunger Games: Mockingjay – Part 2	Lionsgate	The_Hunger_Games:_Mockingjay_–_Part_2	2015	9/9d/Mockingjay_Part_2_Poster.jpg	
-8	The Martian	20th Century Fox	The_Martian_(film)	2015	c/cd/The_Martian_film_poster.jpg	
-9	Cinderella	Buena Vista	Cinderella_(2015_American_film)	2015	c/c2/Cinderella_2015_official_poster.jpg	
-10	Spectre	Sony Pictures Releasing	Spectre_(2015_film)	2015	b/b9/Spectre_2015_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Rogue One: A Star Wars Story	Buena Vista	Rogue_One:_A_Star_Wars_Story	2016	d/d4/Rogue_One,_A_Star_Wars_Story_poster.png	
-2	Finding Dory	Buena Vista	Finding_Dory	2016	3/3e/Finding_Dory.jpg	
-3	Captain America: Civil War	Buena Vista	Captain_America:_Civil_War	2016	5/53/Captain_America_Civil_War_poster.jpg	
-4	The Secret Life of Pets	Universal	The_Secret_Life_of_Pets	2016	6/64/The_Secret_Life_of_Pets_poster.jpg	
-5	The Jungle Book	Buena Vista	The_Jungle_Book_(2016_film)	2016	a/a4/The_Jungle_Book_(2016).jpg	
-6	Deadpool	20th Century Fox	Deadpool_(film)	2016	2/23/Deadpool_(2016_poster).png	
-7	Zootopia	Buena Vista	Zootopia	2016	9/96/Zootopia_(movie_poster).jpg	
-8	Batman v Superman: Dawn of Justice	Warner Bros.	Batman_v_Superman:_Dawn_of_Justice	2016	3/31/Batman_v_Superman_Dawn_of_Justice_poster.jpg	
-9	Suicide Squad	Warner Bros.	Suicide_Squad_(2016_film)	2016	5/5c/Suicide_Squad_(2016_film)_poster.png	
-10	Sing	Universal	Sing_(2016_American_film)	2016	b/bb/Sing_(2016_film)_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Star Wars: The Last Jedi	Buena Vista	Star_Wars:_The_Last_Jedi	2017	7/7f/Star_Wars_The_Last_Jedi.jpg	
-2	Beauty and the Beast	Buena Vista	Beauty_and_the_Beast_(2017_film)	2017	d/d6/Beauty_and_the_Beast_2017_poster.jpg	
-3	Wonder Woman	Warner Bros.	Wonder_Woman_(2017_film)	2017	b/b0/Wonder_Woman_(2017_film)_poster.jpg	
-4	Jumanji: Welcome to the Jungle	Sony Pictures Releasing	Jumanji:_Welcome_to_the_Jungle	2017	d/dc/Jumanji_Welcome_to_the_Jungle.png	
-5	Guardians of the Galaxy Vol. 2	Buena Vista	Guardians_of_the_Galaxy_Vol._2	2017	3/32/Guardians_of_the_Galaxy_Vol._2_poster.jpg	
-6	Spider-Man: Homecoming	Sony Pictures Releasing	Spider-Man:_Homecoming	2017	f/f9/Spider-Man_Homecoming_poster.jpg	
-7	It	Warner Bros.	It_(2017_film)	2017	5/5a/It_(2017)_poster.jpg	
-8	Thor: Ragnarok	Buena Vista	Thor:_Ragnarok	2017	7/7d/Thor_Ragnarok_poster.jpg	
-9	Despicable Me 3	Universal Pictures	Despicable_Me_3	2017	8/80/Despicable_Me_3_theatrical_release_poster.jpg	
-10	Justice League	Warner Bros.	Justice_League_(film)	2017	6/6b/Justice_League_(film)_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Black Panther	Buena Vista	Black_Panther_(film)	2018	d/d6/Black_Panther_(film)_poster.jpg	
-2	Avengers: Infinity War	Buena Vista	Avengers:_Infinity_War	2018	4/4d/Avengers_Infinity_War_poster.jpg	
-3	Incredibles 2	Buena Vista	Incredibles_2	2018	1/1f/Incredibles_2_(2018_animated_film).jpg	
-4	Jurassic World: Fallen Kingdom	Universal	Jurassic_World:_Fallen_Kingdom	2018	c/c6/Jurassic_World_Fallen_Kingdom.png	
-5	Aquaman	Warner Bros.	Aquaman_(film)	2018	e/ed/Aquaman_(film)_poster.jpg	
-6	Deadpool 2	20th Century Fox	Deadpool_2	2018	c/cf/Deadpool_2_poster.jpg	
-7	The Grinch	Universal Pictures	The_Grinch_(film)	2018	4/4f/The_Grinch,_final_poster.jpg	
-8	Mission: Impossible – Fallout	Paramount	Mission:_Impossible_–_Fallout	2018	f/ff/MI_–_Fallout.jpg	
-9	Ant-Man and the Wasp	Buena Vista	Ant-Man_and_the_Wasp	2018	2/2c/Ant-Man_and_the_Wasp_poster.jpg	
-10	Bohemian Rhapsody	20th Century Fox	Bohemian_Rhapsody_(film)	2018	2/2e/Bohemian_Rhapsody_poster.png	
-#rank	title	distributor	href	year	poster	trailer
-1	Avengers: Endgame	Buena Vista	Avengers:_Endgame	2019	0/0d/Avengers_Endgame_poster.jpg	
-2	The Lion King	Buena Vista	The_Lion_King_(2019_film)	2019	9/9d/Disney_The_Lion_King_2019.jpg	
-3	Star Wars: The Rise of Skywalker	Buena Vista	Star_Wars:_The_Rise_of_Skywalker	2019	a/af/Star_Wars_The_Rise_of_Skywalker_poster.jpg	
-4	Frozen II	Buena Vista	Frozen_II	2019	8/89/Frozen_II_(2019_animated_film).jpg	
-5	Toy Story 4	Buena Vista	Toy_Story_4	2019	4/4c/Toy_Story_4_poster.jpg	
-6	Captain Marvel	Buena Vista	Captain_Marvel_(film)	2019	4/4e/Captain_Marvel_(film)_poster.jpg	
-7	Spider-Man: Far From Home	Sony Pictures Releasing	Spider-Man:_Far_From_Home	2019	b/bd/Spider-Man_Far_From_Home_poster.jpg	
-8	Aladdin	Buena Vista	Aladdin_(2019_film)	2019	9/9a/Aladdin_(Official_2019_Film_Poster).png	
-9	Joker	Warner Bros.	Joker_(2019_film)	2019	e/e1/Joker_(2019_film)_poster.jpg	
-10	Jumanji: The Next Level	Sony Pictures Releasing	Jumanji:_The_Next_Level	2019	1/12/Jumanji_-The_Next_Level_film_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Bad Boys for Life	Sony Pictures Releasing	Bad_Boys_for_Life	2020	9/90/Bad_Boys_for_Life_poster.jpg	
-2	Sonic the Hedgehog	Paramount	Sonic_the_Hedgehog_(film)	2020	4/45/Sonic_the_Hedgehog_film_poster.jpg	
-3	Birds of Prey	Warner Bros.	Birds_of_Prey_(2020_film)	2020	1/1c/Birds_of_Prey_(2020_film)_poster.jpg	
-4	Dolittle	Universal	Dolittle_(film)	2020	1/1f/Dolittle_(2020_film_poster).png	
-5	The Invisible Man	Universal	The_Invisible_Man_(2020_film)	2020	3/3a/The_Invisible_Man_(2020_film)_-_release_poster.jpg	
-6	The Call of the Wild	20th Century Fox	The_Call_of_the_Wild_(2020_film)	2020	4/43/The_Call_of_the_Wild_poster.jpg	
-7	Onward	Buena Vista	Onward_(film)	2020	0/03/Onward_poster.jpg	
-8	The Croods: A New Age	Universal	The_Croods:_A_New_Age	2020	9/91/The_Croods_-_A_New_Age.png	
-9	Tenet	Warner Bros.	Tenet_(film)	2020	1/14/Tenet_movie_poster.jpg	
-10	Wonder Woman 1984	Warner Bros.	Wonder_Woman_1984	2020	4/4f/Wonder_Woman_1984_poster.png	
-#rank	title	distributor	href	year	poster	trailer
-1	Spider-Man: No Way Home	Sony Pictures Releasing	Spider-Man:_No_Way_Home	2021	0/00/Spider-Man_No_Way_Home_poster.jpg	
-2	Shang-Chi and the Legend of the Ten Rings	Buena Vista	Shang-Chi_and_the_Legend_of_the_Ten_Rings	2021	7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg	
-3	Venom: Let There Be Carnage	Sony Pictures Releasing	Venom:_Let_There_Be_Carnage	2021	a/a7/Venom_Let_There_Be_Carnage_poster.jpg	
-4	Black Widow	Buena Vista	Black_Widow_(2021_film)	2021	e/e9/Black_Widow_(2021_film)_poster.jpg	
-5	F9	Universal	F9_(film)	2021	2/2b/F9_film_poster.jpg	
-6	Eternals	Buena Vista	Eternals_(film)	2021	9/9b/Eternals_(film)_poster.jpeg	
-7	Sing 2	Universal	Sing_2	2021	8/87/Sing_2_poster.jpg	
-8	No Time to Die	United Artists	No_Time_to_Die	2021	f/fe/No_Time_to_Die_poster.jpg	
-9	A Quiet Place Part II	Paramount	A_Quiet_Place_Part_II	2021	0/02/A_Quiet_Place_Part_II.jpg	
-10	Ghostbusters: Afterlife	Sony Pictures Releasing	Ghostbusters:_Afterlife	2021	d/d1/Ghostbusters_-_Afterlife_official_theatrical_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Top Gun: Maverick	Paramount	Top_Gun:_Maverick	2022	1/13/Top_Gun_Maverick_Poster.jpg	
-2	Avatar: The Way of Water	20th Century Fox	Avatar:_The_Way_of_Water	2022	5/54/Avatar_The_Way_of_Water_poster.jpg	
-3	Black Panther: Wakanda Forever	Buena Vista	Black_Panther:_Wakanda_Forever	2022	3/3b/Black_Panther_Wakanda_Forever_poster.jpg	
-4	Doctor Strange in the Multiverse of Madness	Buena Vista	Doctor_Strange_in_the_Multiverse_of_Madness	2022	1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg	
-5	Jurassic World Dominion	Universal	Jurassic_World_Dominion	2022	c/ce/JurassicWorldDominion_Poster.jpeg	
-6	Minions: The Rise of Gru	Universal	Minions:_The_Rise_of_Gru	2022	4/45/Minions_The_Rise_of_Gru_poster.jpg	
-7	The Batman	Warner Bros.	The_Batman_(film)	2022	f/ff/The_Batman_(film)_poster.jpg	
-8	Thor: Love and Thunder	Buena Vista	Thor:_Love_and_Thunder	2022	8/88/Thor_Love_and_Thunder_poster.jpeg	
-9	Sonic the Hedgehog 2	Paramount	Sonic_the_Hedgehog_2_(film)	2022	3/3e/Sonic_the_Hedgehog_2_film_poster.jpg	
-10	Puss in Boots: The Last Wish	Universal	Puss_in_Boots:_The_Last_Wish	2022	7/78/Puss_in_Boots_The_Last_Wish_poster.jpg	
-#rank	title	distributor	href	year	poster	trailer
-1	Barbie	Warner Bros.	Barbie_(film)	2023	0/0b/Barbie_2023_poster.jpg	
-2	The Super Mario Bros. Movie	Universal Pictures	The_Super_Mario_Bros._Movie	2023	4/44/The_Super_Mario_Bros._Movie_poster.jpg	
-3	Spider-Man: Across the Spider-Verse	Sony Pictures Releasing	Spider-Man:_Across_the_Spider-Verse	2023	b/b4/Spider-Man-_Across_the_Spider-Verse_poster.jpg	
-4	Guardians of the Galaxy Vol. 3	Buena Vista	Guardians_of_the_Galaxy_Vol._3	2023	7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg	
-5	Oppenheimer	Universal	Oppenheimer_(film)	2023	4/4a/Oppenheimer_(film).jpg	
-6	The Little Mermaid	Buena Vista	The_Little_Mermaid_(2023_film)	2023	f/f4/The_Little_Mermaid_(2023_film).png	
-7	Wonka	Warner Bros.	Wonka_(film)	2023	9/90/Wonka_2023_film_poster.jpg	
-8	Ant-Man and the Wasp: Quantumania	Buena Vista	Ant-Man_and_the_Wasp:_Quantumania	2023	3/30/Ant-Man_and_the_Wasp_Quantumania_poster.jpg	
-9	John Wick: Chapter 4	Lionsgate	John_Wick:_Chapter_4	2023	d/d0/John_Wick_-_Chapter_4_promotional_poster.jpg	
-10	Sound of Freedom	Angel Studios	Sound_of_Freedom_(film)	2023	2/24/Sound_of_Freedom_(film)_poster.jpg	
+#rank	title	distributor	href	year	poster
+1	Back to the Future	Universal	Back_to_the_Future	1985	en/d/d2/Back_to_the_Future.jpg
+2	Rambo: First Blood Part II	Tri-Star	Rambo:_First_Blood_Part_II	1985	en/f/fc/Rambo_first_blood_part_ii.jpg
+3	Rocky IV	MGM	Rocky_IV	1985	en/9/95/Rocky_IV.jpg
+4	The Color Purple	Warner Bros.	The_Color_Purple_(1985_film)	1985	en/b/be/The_Color_Purple_poster.jpg
+5	Out of Africa	Universal	Out_of_Africa_(film)	1985	en/d/d8/Out_of_Africa_(1985).jpg
+6	Cocoon	20th Century Fox	Cocoon_(film)	1985	en/e/ef/Cocoonposter.jpg
+7	The Jewel of the Nile	20th Century Fox	The_Jewel_of_the_Nile	1985	en/4/42/The_Jewel_of_the_Nile_(1985)_film_poster.jpg
+8	Witness	Paramount	Witness_(1985_film)	1985	en/b/bc/Witness_movie.jpg
+9	The Goonies	Warner Bros.	The_Goonies	1985	en/c/c6/The_Goonies.jpg
+10	Spies Like Us	Warner Bros.	Spies_Like_Us	1985	en/f/fb/Spieslikeusposter.jpg
+#rank	title	distributor	href	year	poster
+1	Top Gun	Paramount	Top_Gun	1986	en/4/46/Top_Gun_Movie.jpg
+2	Crocodile Dundee	Paramount	Crocodile_Dundee	1986	en/a/a6/Crocodile_Dundee_original_Australian_New_Zealand_poster.jpg
+3	Platoon	Orion Pictures	Platoon_(film)	1986	en/a/a9/Platoon_posters_86.jpg
+4	The Karate Kid Part II	Columbia	The_Karate_Kid_Part_II	1986	en/b/b5/Karate_kid_part_II.jpg
+5	Star Trek IV: The Voyage Home	Paramount	Star_Trek_IV:_The_Voyage_Home	1986	en/6/68/Star_Trek_IV_The_Voyage_Home.png
+6	Back to School	Orion Pictures	Back_to_School	1986	en/7/7f/Back_to_School_Movie_Poster.jpg
+7	Aliens	20th Century Fox	Aliens_(film)	1986	en/f/fb/Aliens_poster.jpg
+8	The Golden Child	Paramount	The_Golden_Child	1986	en/1/1a/Golden_child_movie.jpg
+9	Ruthless People	Buena Vista	Ruthless_People	1986	en/3/3a/Ruthless_people_poster.jpg
+10	Ferris Bueller's Day Off	Paramount	Ferris_Bueller's_Day_Off	1986	en/9/9b/Ferris_Bueller's_Day_Off.jpg
+#rank	title	distributor	href	year	poster
+1	Three Men and a Baby	Buena Vista	Three_Men_and_a_Baby	1987	en/b/bd/Three_Men_and_a_Baby.png
+2	Fatal Attraction	Paramount	Fatal_Attraction	1987	en/b/ba/Fatal_Attraction_poster.png
+3	Beverly Hills Cop II	Paramount	Beverly_Hills_Cop_II	1987	en/5/52/Beverly_Hills_Cop_II.jpg
+4	Good Morning, Vietnam	Buena Vista	Good_Morning,_Vietnam	1987	en/d/d0/Good_Morning,_Vietnam.jpg
+5	Moonstruck	MGM/UA Communications Co.	Moonstruck	1987	en/7/7d/Chermoonstruck.jpg
+6	The Untouchables	Paramount	The_Untouchables_(film)	1987	en/9/92/UntouchablesThe.jpg
+7	The Secret of My Success	Universal Pictures	The_Secret_of_My_Success_(1987_film)	1987	en/1/18/The_Secret_Of_My_Success.jpg
+8	Stakeout	Buena Vista	Stakeout_(1987_film)	1987	en/2/2f/Stakeoutposter1987.jpg
+9	Lethal Weapon	Warner Bros.	Lethal_Weapon	1987	en/d/d9/Lethal_weapon1.jpg
+10	The Witches of Eastwick	Warner Bros.	The_Witches_of_Eastwick_(film)	1987	en/f/f4/Witches_moviep.jpg
+#rank	title	distributor	href	year	poster
+1	Rain Man	MGM	Rain_Man	1988	en/b/b2/Rain_Man_poster.jpg
+2	Who Framed Roger Rabbit	Buena Vista Pictures Distribution	Who_Framed_Roger_Rabbit	1988	en/3/32/Movie_poster_who_framed_roger_rabbit.jpg
+3	Coming to America	Paramount	Coming_to_America	1988	en/3/38/ComingtoAmerica1988MoviePoster.jpg
+4	Big	20th Century Fox	Big_(film)	1988	en/b/be/Big_Poster.jpg
+5	Twins	Universal	Twins_(1988_film)	1988	en/6/6b/Twins_Poster.jpg
+6	Crocodile Dundee II	Paramount	Crocodile_Dundee_II	1988	en/6/68/Crocodile_dundee_ii_ver2.jpg
+7	Die Hard	20th Century Fox	Die_Hard	1988	en/c/ca/Die_Hard_(1988_film)_poster.jpg
+8	The Naked Gun: From the Files of Police Squad!	Paramount	The_Naked_Gun:_From_the_Files_of_Police_Squad!	1988	en/5/5f/The_Naked_Gun_Poster.jpg
+9	Cocktail	Buena Vista	Cocktail_(1988_film)	1988	en/8/8c/Cocktail_1988.jpg
+10	Beetlejuice	Warner Bros.	Beetlejuice	1988	en/7/76/Beetlejuice_(1988_film_poster).png
+#rank	title	distributor	href	year	poster
+1	Batman	Warner Bros.	Batman_(1989_film)	1989	en/5/5a/Batman_(1989)_theatrical_poster.jpg
+2	Indiana Jones and the Last Crusade	Paramount	Indiana_Jones_and_the_Last_Crusade	1989	en/8/8c/Indiana_Jones_and_the_Last_Crusade.png
+3	Lethal Weapon 2	Warner Bros.	Lethal_Weapon_2	1989	en/6/67/Lethal_Weapon_2_Poster.jpg
+4	Look Who's Talking	Tri-Star	Look_Who's_Talking	1989	en/d/de/Look_whos_talking.jpg
+5	Honey, I Shrunk the Kids	Buena Vista	Honey,_I_Shrunk_the_Kids	1989	en/4/4b/Honey_I_Shrunk_the_kids.jpg
+6	Back to the Future Part II	Universal Pictures	Back_to_the_Future_Part_II	1989	en/c/c2/Back_to_the_Future_Part_II.jpg
+7	Ghostbusters II	Columbia	Ghostbusters_II	1989	en/0/01/Ghostbusters_ii_poster.jpg
+8	Driving Miss Daisy	Warner Bros.	Driving_Miss_Daisy	1989	en/a/a5/Driving_Miss_Daisy_.jpg
+9	Parenthood	Universal	Parenthood_(film)	1989	en/3/33/Parenthood_(film)_poster.png
+10	Dead Poets Society	Buena Vista Pictures Distribution	Dead_Poets_Society	1989	en/4/49/Dead_poets_society.jpg
+#rank	title	distributor	href	year	poster
+1	Home Alone	20th Century Fox	Home_Alone	1990	en/7/76/Home_alone_poster.jpg
+2	Ghost	Paramount	Ghost_(1990_film)	1990	en/4/41/Ghost_(1990_movie_poster).jpg
+3	Dances with Wolves	Orion Pictures	Dances_with_Wolves	1990	en/8/82/Dances_with_Wolves_poster.jpg
+4	Pretty Woman	Buena Vista	Pretty_Woman	1990	en/b/b6/Pretty_woman_movie.jpg
+5	Teenage Mutant Ninja Turtles	New Line Cinema	Teenage_Mutant_Ninja_Turtles_(1990_film)	1990	en/8/8d/Teenage_Mutant_Ninja_Turtles_(1990_film)_poster.jpg
+6	The Hunt for Red October	Paramount	The_Hunt_for_Red_October_(film)	1990	en/3/36/The_Hunt_for_Red_October_movie_poster.png
+7	Total Recall	Tri-Star	Total_Recall_(1990_film)	1990	en/2/2d/Total_Recall_(1990_film)_poster.jpg
+8	Die Hard 2	20th Century Fox	Die_Hard_2	1990	en/2/2c/Die_Hard_2.jpg
+9	Dick Tracy	Buena Vista Pictures Distribution	Dick_Tracy_(1990_film)	1990	en/9/9d/Dick_tracy1.jpg
+10	Kindergarten Cop	Universal	Kindergarten_Cop	1990	en/3/36/Kindergarten_Cop_film.jpg
+#rank	title	distributor	href	year	poster
+1	Terminator 2: Judgment Day	Tri-Star	Terminator_2:_Judgment_Day	1991	en/8/85/Terminator2poster.jpg
+2	Robin Hood: Prince of Thieves	Warner Bros.	Robin_Hood:_Prince_of_Thieves	1991	en/4/4f/Robin_hood_1991.jpg
+3	Beauty and the Beast	Buena Vista Pictures Distribution, Inc.	Beauty_and_the_Beast_(1991_film)	1991	en/5/5e/Beauty_and_the_Beast_(1991_film)_poster.jpg
+4	The Silence of the Lambs	Orion Pictures	The_Silence_of_the_Lambs_(film)	1991	en/8/86/The_Silence_of_the_Lambs_poster.jpg
+5	City Slickers	Columbia	City_Slickers	1991	en/3/3c/City_Slickers.jpg
+6	Hook	Tri-Star	Hook_(film)	1991	en/0/0e/Hook_poster_transparent.png
+7	The Addams Family	Paramount	The_Addams_Family_(1991_film)	1991	en/0/04/The_Addams_Family.jpg
+8	Sleeping with the Enemy	20th Century Fox	Sleeping_with_the_Enemy	1991	en/a/a4/Sleeping_With_The_Enemy.jpg
+9	Father of the Bride	Buena Vista	Father_of_the_Bride_(1991_film)	1991	en/a/a1/Father_of_the_bride_poster.jpg
+10	The Naked Gun 2½: The Smell of Fear	Paramount	The_Naked_Gun_2½:_The_Smell_of_Fear	1991	en/d/d1/Naked_Gun_2.jpg
+#rank	title	distributor	href	year	poster
+1	Aladdin	Buena Vista Pictures Distribution	Aladdin_(1992_Disney_film)	1992	en/b/bd/Aladdin_(1992_Disney_film)_poster.jpg
+2	Home Alone 2: Lost in New York	20th Century Fox	Home_Alone_2:_Lost_in_New_York	1992	en/5/50/Home_Alone_2.jpg
+3	Batman Returns	Warner Bros.	Batman_Returns	1992	en/8/83/Batman_returns_poster2.jpg
+4	Lethal Weapon 3	Warner Bros.	Lethal_Weapon_3	1992	en/c/cc/Lethal_Weapon_3_Poster.jpg
+5	A Few Good Men	Columbia	A_Few_Good_Men	1992	en/4/45/A_Few_Good_Men_poster.jpg
+6	Sister Act	Buena Vista	Sister_Act	1992	en/a/a3/Sister_Act_film_poster.jpg
+7	The Bodyguard	Warner Bros.	The_Bodyguard_(1992_film)	1992	en/8/8f/The_Bodyguard_1992_Film_Poster.jpg
+8	Wayne's World	Paramount	Wayne's_World_(film)	1992	en/e/e0/Wayne's_World.jpg
+9	Basic Instinct	Tri-Star	Basic_Instinct	1992	en/f/f9/Basic_Instinct.png
+10	A League of Their Own	Columbia	A_League_of_Their_Own	1992	en/5/5f/League_of_their_own_ver2.jpg
+#rank	title	distributor	href	year	poster
+1	Jurassic Park	Universal Pictures	Jurassic_Park_(film)	1993	en/e/e7/Jurassic_Park_poster.jpg
+2	Mrs. Doubtfire	20th Century Fox	Mrs._Doubtfire	1993	en/5/5a/Mrs_Doubtfire.jpg
+3	The Fugitive	Warner Bros.	The_Fugitive_(1993_film)	1993	en/c/c7/The_Fugitive_movie.jpg
+4	The Firm	Paramount	The_Firm_(1993_film)	1993	en/f/ff/Firm_ver2.jpg
+5	Sleepless in Seattle	Tri-Star	Sleepless_in_Seattle	1993	en/e/e1/Sleepless_in_seattle.jpg
+6	Indecent Proposal	Paramount	Indecent_Proposal	1993	en/8/84/Indecent_proposal.jpg
+7	In the Line of Fire	Columbia	In_the_Line_of_Fire	1993	en/f/fd/In_the_line_of_fireposter.jpg
+8	The Pelican Brief	Warner Bros.	The_Pelican_Brief_(film)	1993	en/9/9d/The_Pelican_Brief.jpg
+9	Schindler's List	Universal Pictures	Schindler's_List	1993	en/3/38/Schindler's_List_movie.jpg
+10	Cliffhanger	Tri-Star	Cliffhanger_(film)	1993	en/4/4a/Cliffhanger_Poster.jpg
+#rank	title	distributor	href	year	poster
+1	Forrest Gump	Paramount	Forrest_Gump	1994	en/6/67/Forrest_Gump_poster.jpg
+2	The Lion King	Buena Vista Pictures Distribution	The_Lion_King	1994	en/3/3d/The_Lion_King_poster.jpg
+3	True Lies	20th Century Fox	True_Lies	1994	en/8/81/True_Lies_poster.png
+4	The Santa Clause	Buena Vista Pictures Distribution	The_Santa_Clause	1994	en/8/86/The_Santa_Clause.jpg
+5	The Flintstones	Universal	The_Flintstones_(film)	1994	en/d/dc/Flintstones_ver2.jpg
+6	Dumb and Dumber	New Line Cinema	Dumb_and_Dumber	1994	en/6/64/Dumbanddumber.jpg
+7	Clear and Present Danger	Paramount	Clear_and_Present_Danger_(film)	1994	en/3/36/Clear_and_Present_Danger_film.jpg
+8	Speed	20th Century Fox	Speed_(1994_film)	1994	en/4/45/Speed_movie_poster.jpg
+9	The Mask	New Line Cinema	The_Mask_(1994_film)	1994	en/4/4b/The_Mask_(film)_poster.jpg
+10	Pulp Fiction	Miramax Films	Pulp_Fiction	1994	en/3/3b/Pulp_Fiction_(1994)_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Toy Story	Buena Vista Pictures Distribution	Toy_Story	1995	en/1/13/Toy_Story.jpg
+2	Batman Forever	Warner Bros.	Batman_Forever	1995	en/9/9d/Batman_Forever_poster.png
+3	Apollo 13	Universal Pictures	Apollo_13_(film)	1995	en/9/9e/Apollo_thirteen_movie.jpg
+4	Pocahontas	Buena Vista Pictures Distribution	Pocahontas_(1995_film)	1995	en/5/57/Pocahontasposter.jpg
+5	Ace Ventura: When Nature Calls	Warner Bros.	Ace_Ventura:_When_Nature_Calls	1995	en/b/b9/AceVenturaWhenNatureCallsposter.jpg
+6	GoldenEye	MGM	GoldenEye	1995	en/2/24/GoldenEye_-_UK_cinema_poster.jpg
+7	Jumanji	Sony Pictures Releasing	Jumanji_(film)	1995	en/b/b6/Jumanji_poster.jpg
+8	Casper	Universal	Casper_(1995_film)	1995	en/7/7f/Casper_poster.jpg
+9	Seven	New Line Cinema	Seven_(1995_film)	1995	en/6/68/Seven_(movie)_poster.jpg
+10	Die Hard with a Vengeance	20th Century Fox	Die_Hard_with_a_Vengeance	1995	en/4/4c/Die_Hard_With_A_Vengance.jpg
+#rank	title	distributor	href	year	poster
+1	Independence Day	20th Century Fox	Independence_Day_(1996_film)	1996	en/b/bb/Independence_day_movieposter.jpg
+2	Twister	Warner Bros.	Twister_(1996_film)	1996	en/a/a5/Twistermovieposter.jpg
+3	Mission: Impossible	Paramount	Mission:_Impossible_(film)	1996	en/e/e1/MissionImpossiblePoster.jpg
+4	Jerry Maguire	Sony Pictures Releasing	Jerry_Maguire	1996	en/e/ea/Jerry_Maguire_movie_poster.jpg
+5	Ransom	Buena Vista	Ransom_(1996_film)	1996	en/d/d2/RansomPoster.jpg
+6	101 Dalmatians	Buena Vista Pictures Distribution	101_Dalmatians_(1996_film)	1996	en/e/ef/One_hundred_and_one_dalmatians_ver2.jpg
+7	The Rock	Buena Vista	The_Rock_(film)	1996	en/8/82/The_Rock_(movie).jpg
+8	The Nutty Professor	Universal	The_Nutty_Professor_(1996_film)	1996	en/7/7f/Nutty_professor_ver1.jpg
+9	The Birdcage	MGM/UA Distribution Co.	The_Birdcage	1996	en/7/76/Birdcage_imp.jpg
+10	A Time to Kill	Warner Bros.	A_Time_to_Kill_(1996_film)	1996	en/6/60/Time_to_kill_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Titanic	Paramount	Titanic_(1997_film)	1997	en/1/18/Titanic_(1997_film)_poster.png
+2	Men in Black	Sony Pictures Releasing	Men_in_Black_(1997_film)	1997	en/f/fb/Men_in_Black_Poster.jpg
+3	The Lost World: Jurassic Park	Universal Pictures	The_Lost_World:_Jurassic_Park	1997	en/c/cc/The_Lost_World_–_Jurassic_Park_poster.jpg
+4	Liar Liar	Universal	Liar_Liar	1997	en/3/3d/Liar_Liar_poster.JPG
+5	Air Force One	Sony Pictures Releasing	Air_Force_One_(film)	1997	en/2/2a/Air_Force_One_(movie_poster).jpg
+6	As Good as It Gets	Sony Pictures Releasing	As_Good_as_It_Gets	1997	en/d/dc/As_good_as_it_gets.jpg
+7	Good Will Hunting	Miramax Films	Good_Will_Hunting	1997	en/5/52/Good_Will_Hunting.png
+8	My Best Friend's Wedding	Sony Pictures Releasing	My_Best_Friend's_Wedding	1997	en/7/71/My_Best_Friends_Wedding.jpg
+9	Tomorrow Never Dies	MGM	Tomorrow_Never_Dies	1997	en/b/b3/Tomorrow_Never_Dies_(UK_cinema_poster).jpg
+10	Face/Off	Paramount	Face/Off	1997	en/1/1c/FaceOff_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Saving Private Ryan	DreamWorks Pictures	Saving_Private_Ryan	1998	en/a/ac/Saving_Private_Ryan_poster.jpg
+2	Armageddon	Buena Vista Pictures Distribution	Armageddon_(1998_film)	1998	en/f/fc/Armageddon-poster06.jpg
+3	There's Something About Mary	20th Century Fox	There's_Something_About_Mary	1998	en/d/df/There's_Something_About_Mary_POSTER.jpg
+4	A Bug's Life	Buena Vista Pictures Distribution	A_Bug's_Life	1998	en/c/cc/A_Bug's_Life.jpg
+5	The Waterboy	Buena Vista	The_Waterboy	1998	en/f/f3/Waterboy-poster-0.jpg
+6	Dr. Dolittle	20th Century Fox	Dr._Dolittle_(film)	1998	en/5/5f/Dr_dolittle_movie_1998.jpg
+7	Rush Hour	New Line Cinema	Rush_Hour_(1998_film)	1998	en/4/49/Rush_Hour_poster.png
+8	Deep Impact	Paramount	Deep_Impact_(film)	1998	en/9/93/Deep_Impact_poster.jpg
+9	Godzilla	Tri-Star	Godzilla_(1998_film)	1998	en/2/2e/Godzilla_(1998_Movie_Poster).jpg
+10	Patch Adams	Universal	Patch_Adams_(film)	1998	en/5/53/Patch_Adams_1998_movie_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Star Wars: Episode I - The Phantom Menace	20th Century Fox	Star_Wars:_Episode_I_-_The_Phantom_Menace	1999	en/4/40/Star_Wars_Phantom_Menace_poster.jpg
+2	The Sixth Sense	Buena Vista Pictures Distribution	The_Sixth_Sense	1999	en/a/a4/The_Sixth_Sense_poster.png
+3	Toy Story 2	Buena Vista Pictures Distribution	Toy_Story_2	1999	en/c/c0/Toy_Story_2.jpg
+4	Austin Powers: The Spy Who Shagged Me	New Line Cinema	Austin_Powers:_The_Spy_Who_Shagged_Me	1999	en/f/ff/Austin_Powers-_The_Spy_Who_Shagged_Me.jpg
+5	The Matrix	Warner Bros.	The_Matrix	1999	en/c/c1/The_Matrix_Poster.jpg
+6	Tarzan	Buena Vista Pictures Distribution	Tarzan_(1999_film)	1999	en/4/4f/Tarzan_(1999_film)_-_theatrical_poster.jpg
+7	Big Daddy	Sony Pictures Releasing	Big_Daddy_(1999_film)	1999	en/c/ca/Big_Daddy_film.jpg
+8	The Mummy	Universal	The_Mummy_(1999_film)	1999	en/6/68/The_mummy.jpg
+9	Runaway Bride	Paramount	Runaway_Bride_(film)	1999	en/e/e2/Runaway_Bride.jpg
+10	The Blair Witch Project	Artisan	The_Blair_Witch_Project	1999	en/2/26/Blair_Witch_Project.jpg
+#rank	title	distributor	href	year	poster
+1	How the Grinch Stole Christmas	Universal	How_the_Grinch_Stole_Christmas_(2000_film)	2000	en/e/e7/How_the_Grinch_Stole_Christmas_film_poster.jpg
+2	Cast Away	20th Century Fox	Cast_Away	2000	en/a/a7/Cast_away_film_poster.jpg
+3	Mission: Impossible II	Paramount	Mission:_Impossible_II	2000	en/4/48/Mission_Impossible_II.jpg
+4	Gladiator	DreamWorks Pictures	Gladiator_(2000_film)	2000	en/f/fb/Gladiator_(2000_film_poster).png
+5	What Women Want	Paramount	What_Women_Want	2000	en/3/37/Whatwomenwant.jpg
+6	The Perfect Storm	Warner Bros.	The_Perfect_Storm_(film)	2000	en/7/7e/Perfect_storm_poster.jpg
+7	Meet the Parents	Universal	Meet_the_Parents	2000	en/0/05/Meet_the_parents_ver2.jpg
+8	X-Men	20th Century Fox	X-Men_(film)	2000	en/8/81/X-MenfilmPoster.jpg
+9	Scary Movie	Dimension Films	Scary_Movie_(2000_film)	2000	en/2/29/Movie_poster_for_"Scary_Movie".jpg
+10	What Lies Beneath	DreamWorks Pictures	What_Lies_Beneath	2000	en/d/d8/What_lies_beneath_(poster).jpg
+#rank	title	distributor	href	year	poster
+1	Harry Potter and the Sorcerer's Stone	Warner Bros.	Harry_Potter_and_the_Sorcerer's_Stone_(film)	2001	en/7/7a/Harry_Potter_and_the_Philosopher's_Stone_banner.jpg
+2	The Lord of the Rings: The Fellowship of the Ring	New Line Cinema	The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film)	2001	en/f/fb/Lord_Rings_Fellowship_Ring.jpg
+3	Shrek	DreamWorks Pictures	Shrek	2001	en/7/7b/Shrek_(2001_animated_feature_film).jpg
+4	Monsters, Inc.	Buena Vista	Monsters,_Inc.	2001	en/6/63/Monsters_Inc.JPG
+5	Rush Hour 2	New Line Cinema	Rush_Hour_2	2001	en/d/dc/Rush_Hour_2_poster.png
+6	The Mummy Returns	Universal Pictures	The_Mummy_Returns	2001	en/b/b7/The_Mummy_Returns_poster.jpg
+7	Pearl Harbor	Buena Vista	Pearl_Harbor_(film)	2001	en/3/3c/Pearl_harbor_movie_poster.jpg
+8	Ocean's Eleven	Warner Bros.	Ocean's_Eleven	2001	en/6/68/Ocean's_Eleven_2001_Poster.jpg
+9	Jurassic Park III	Universal	Jurassic_Park_III	2001	en/6/6d/Jurassic_Park_III_poster.jpg
+10	Planet of the Apes	20th Century Fox	Planet_of_the_Apes_(2001_film)	2001	en/2/2c/PotA-2001poster.jpg
+#rank	title	distributor	href	year	poster
+1	Spider-Man	Sony Pictures Releasing	Spider-Man_(2002_film)	2002	en/6/6c/Spider-Man_(2002_film)_poster.jpg
+2	The Lord of the Rings: The Two Towers	New Line Cinema	The_Lord_of_the_Rings:_The_Two_Towers_(film)	2002	en/a/a1/Lord_Rings_Two_Towers.jpg
+3	Star Wars: Episode II - Attack of the Clones	20th Century Fox	Star_Wars:_Episode_II_-_Attack_of_the_Clones	2002	en/3/32/Star_Wars_-_Episode_II_Attack_of_the_Clones_(movie_poster).jpg
+4	Harry Potter and the Chamber of Secrets	Warner Bros.	Harry_Potter_and_the_Chamber_of_Secrets_(film)	2002	en/c/c0/Harry_Potter_and_the_Chamber_of_Secrets_movie.jpg
+5	My Big Fat Greek Wedding	IFC Films	My_Big_Fat_Greek_Wedding	2002	en/3/3b/My_Big_Fat_Greek_Wedding_movie_poster.jpg
+6	Signs	Buena Vista	Signs_(2002_film)	2002	en/0/08/The_Signs_movie.jpg
+7	Austin Powers in Goldmember	New Line Cinema	Austin_Powers_in_Goldmember	2002	en/9/9d/Austin_Powers_in_Goldmember.jpg
+8	Men in Black II	Sony Pictures Releasing	Men_in_Black_II	2002	en/3/3d/Men_in_Black_II_Poster.jpg
+9	Ice Age	20th Century Fox	Ice_Age_(2002_film)	2002	en/3/3c/Ice_Age_(2002_film)_poster.jpg
+10	Chicago	Miramax Films	Chicago_(2002_film)	2002	en/f/f6/Chicago_(2002_film).png
+#rank	title	distributor	href	year	poster
+1	Finding Nemo	Buena Vista Pictures Distribution	Finding_Nemo	2003	en/2/29/Finding_Nemo.jpg
+2	Pirates of the Caribbean: The Curse of the Black Pearl	Buena Vista Pictures Distribution	Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl	2003	en/8/89/Pirates_of_the_Caribbean_-_The_Curse_of_the_Black_Pearl.png
+3	The Matrix Reloaded	Warner Bros.	The_Matrix_Reloaded	2003	en/b/ba/Poster_-_The_Matrix_Reloaded.jpg
+4	The Lord of the Rings: The Return of the King	New Line Cinema	The_Lord_of_the_Rings:_The_Return_of_the_King	2003	en/4/48/Lord_Rings_Return_King.jpg
+5	Bruce Almighty	Universal	Bruce_Almighty	2003	en/6/60/BruceAlmighty_poster.jpg
+6	X2: X-Men United	20th Century Fox	X2_(film)	2003	en/3/3e/X2_poster.jpg
+7	Elf	New Line Cinema	Elf_(film)	2003	en/d/df/Elf_movie.jpg
+8	Chicago	Miramax Films	Chicago_(2002_film)	2003	en/f/f6/Chicago_(2002_film).png
+9	Terminator 3: Rise of the Machines	Warner Bros.	Terminator_3:_Rise_of_the_Machines	2003	en/3/39/Terminator_3_Rise_of_the_Machines_movie.jpg
+10	Bad Boys II	Sony Pictures Releasing	Bad_Boys_II	2003	en/f/f4/Bad_Boys_II_Official_Theatrical_Poster.png
+#rank	title	distributor	href	year	poster
+1	Shrek 2	DreamWorks Pictures	Shrek_2	2004	en/b/b9/Shrek_2_poster.jpg
+2	Spider-Man 2	Sony Pictures Releasing	Spider-Man_2	2004	en/4/4e/Spider-Man_2_poster.jpg
+3	The Passion of the Christ	Newmarket Films	The_Passion_of_the_Christ	2004	en/c/c4/The_Passion_of_the_Christ_poster.png
+4	Meet the Fockers	Universal	Meet_the_Fockers	2004	en/2/27/Meet_The_Fockers.jpg
+5	The Incredibles	Buena Vista	The_Incredibles	2004	en/2/27/The_Incredibles_(2004_animated_feature_film).jpg
+6	Harry Potter and the Prisoner of Azkaban	Warner Bros.	Harry_Potter_and_the_Prisoner_of_Azkaban_(film)	2004	en/b/bc/Prisoner_of_azkaban_UK_poster.jpg
+7	The Day After Tomorrow	20th Century Fox	The_Day_After_Tomorrow	2004	en/5/58/The_Day_After_Tomorrow_movie.jpg
+8	The Bourne Supremacy	Universal Pictures	The_Bourne_Supremacy_(film)	2004	en/3/30/Bourne_supremacy_ver2.jpg
+9	National Treasure	Buena Vista Pictures Distribution	National_Treasure_(film)	2004	en/1/12/Movie_national_treasure.JPG
+10	The Polar Express	Warner Bros.	The_Polar_Express_(film)	2004	en/2/24/The_Polar_Express_(2004)_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Star Wars: Episode III – Revenge of the Sith	20th Century Fox	Star_Wars:_Episode_III_–_Revenge_of_the_Sith	2005	en/9/93/Star_Wars_Episode_III_Revenge_of_the_Sith_poster.jpg
+2	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	Buena Vista Pictures Distribution	The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe	2005	en/1/10/The_Chronicles_of_Narnia_-_The_Lion,_the_Witch_and_the_Wardrobe.jpg
+3	Harry Potter and the Goblet of Fire	Warner Bros.	Harry_Potter_and_the_Goblet_of_Fire_(film)	2005	en/c/c9/Harry_Potter_and_the_Goblet_of_Fire_Poster.jpg
+4	War of the Worlds	Paramount	War_of_the_Worlds_(2005_film)	2005	en/8/83/War_of_the_Worlds_2005_poster.jpg
+5	King Kong	Universal	King_Kong_(2005_film)	2005	en/6/6a/Kingkong_bigfinal1.jpg
+6	Wedding Crashers	New Line Cinema	Wedding_Crashers	2005	en/3/3e/Wedding_crashers_poster.jpg
+7	Charlie and the Chocolate Factory	Warner Bros.	Charlie_and_the_Chocolate_Factory_(film)	2005	en/1/17/Charlie_and_the_Chocolate_Factory_(film).png
+8	Batman Begins	Warner Bros.	Batman_Begins	2005	en/a/af/Batman_Begins_Poster.jpg
+9	Madagascar	DreamWorks Pictures	Madagascar_(2005_film)	2005	en/3/36/Madagascar_Theatrical_Poster.jpg
+10	Mr. & Mrs. Smith	20th Century Fox	Mr._&_Mrs._Smith_(2005_film)	2005	en/f/fd/Mr_and_Mrs_Smith_poster.png
+#rank	title	distributor	href	year	poster
+1	Pirates of the Caribbean: Dead Man's Chest	Buena Vista Pictures Distribution	Pirates_of_the_Caribbean:_Dead_Man's_Chest	2006	en/2/2d/Pirates_of_the_caribbean_2_poster_b.jpg
+2	Night at the Museum	20th Century Fox	Night_at_the_Museum	2006	en/3/34/Night_at_the_Museum_poster.jpg
+3	Cars	Buena Vista Pictures Distribution	Cars_(film)	2006	en/3/34/Cars_2006.jpg
+4	X-Men: The Last Stand	20th Century Fox	X-Men:_The_Last_Stand	2006	en/5/5b/X-Men_The_Last_Stand_theatrical_poster.jpg
+5	The Da Vinci Code	Sony Pictures Releasing	The_Da_Vinci_Code_(film)	2006	en/e/e9/The_da_vinci_code_final.jpg
+6	Superman Returns	Warner Bros.	Superman_Returns	2006	en/1/10/Superman_Returns.jpg
+7	Happy Feet	Warner Bros.	Happy_Feet	2006	en/5/5c/Happy_Feet_Poster.jpg
+8	Ice Age: The Meltdown	20th Century Fox	Ice_Age:_The_Meltdown	2006	en/f/f1/Ice_Age_2_poster.jpg
+9	Casino Royale	Sony Pictures Releasing	Casino_Royale_(2006_film)	2006	en/8/82/Casino_Royale_(2006_film_poster).jpg
+10	The Pursuit of Happyness	Sony Pictures Releasing	The_Pursuit_of_Happyness	2006	en/8/81/Poster-pursuithappyness.jpg
+#rank	title	distributor	href	year	poster
+1	Spider-Man 3	Sony Pictures Releasing	Spider-Man_3	2007	en/7/7a/Spider-Man_3,_International_Poster.jpg
+2	Shrek the Third	Paramount	Shrek_the_Third	2007	en/2/22/Shrek_the_Third_(2007_animated_feature_film).jpg
+3	Transformers	Paramount	Transformers_(film)	2007	en/6/66/Transformers07.jpg
+4	Pirates of the Caribbean: At World's End	Buena Vista Pictures Distribution	Pirates_of_the_Caribbean:_At_World's_End	2007	en/5/5a/Pirates_AWE_Poster.jpg
+5	Harry Potter and the Order of the Phoenix	Warner Bros.	Harry_Potter_and_the_Order_of_the_Phoenix_(film)	2007	en/e/e7/Harry_Potter_and_the_Order_of_the_Phoenix_poster.jpg
+6	I Am Legend	Warner Bros.	I_Am_Legend_(film)	2007	en/d/df/I_am_legend_teaser.jpg
+7	The Bourne Ultimatum	Universal Pictures	The_Bourne_Ultimatum_(film)	2007	en/f/fe/The_Bourne_Ultimatum_(2007_film_poster).jpg
+8	National Treasure: Book of Secrets	Buena Vista	National_Treasure:_Book_of_Secrets	2007	en/8/80/Book_of_secrets_post.jpg
+9	Alvin and the Chipmunks	20th Century Fox	Alvin_and_the_Chipmunks_(film)	2007	en/d/dc/Alvin_and_the_Chipmunks2007.jpg
+10	300	Warner Bros.	300_(film)	2007	en/5/5c/300poster.jpg
+#rank	title	distributor	href	year	poster
+1	The Dark Knight	Warner Bros.	The_Dark_Knight	2008	en/1/1c/The_Dark_Knight_(2008_film).jpg
+2	Iron Man	Paramount	Iron_Man_(2008_film)	2008	en/0/02/Iron_Man_(2008_film)_poster.jpg
+3	Indiana Jones and the Kingdom of the Crystal Skull	Paramount	Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull	2008	en/d/d5/Kingdomofthecrystalskull.jpg
+4	Hancock	Sony Pictures Releasing	Hancock_(film)	2008	en/c/c9/Hancockposter.jpg
+5	WALL-E	Buena Vista	WALL-E	2008	en/4/4c/WALL-E_poster.jpg
+6	Kung Fu Panda	Paramount	Kung_Fu_Panda_(film)	2008	en/7/76/Kungfupanda.jpg
+7	Twilight	Summit Entertainment	Twilight_(2008_film)	2008	en/b/b6/Twilight_(2008_film)_poster.jpg
+8	Madagascar: Escape 2 Africa	DreamWorks Pictures	Madagascar:_Escape_2_Africa	2008	en/7/7f/Madagascar2poster.jpg
+9	Quantum of Solace	Sony Pictures Releasing	Quantum_of_Solace	2008	en/2/2d/Quantum_of_Solace_-_UK_cinema_poster.jpg
+10	Horton Hears a Who!	20th Century Fox	Horton_Hears_a_Who!_(film)	2008	en/8/8b/Horton_Hears_a_Who!.jpg
+#rank	title	distributor	href	year	poster
+1	Avatar	20th Century Fox	Avatar_(2009_film)	2009	en/d/d6/Avatar_(2009_film)_poster.jpg
+2	Transformers: Revenge of the Fallen	Paramount	Transformers:_Revenge_of_the_Fallen	2009	en/c/cb/TF2SteelPoster.jpg
+3	Harry Potter and the Half-Blood Prince	Warner Bros.	Harry_Potter_and_the_Half-Blood_Prince_(film)	2009	en/3/3f/Harry_Potter_and_the_Half-Blood_Prince_poster.jpg
+4	The Twilight Saga: New Moon	Summit Entertainment	The_Twilight_Saga:_New_Moon	2009	en/9/93/The_Twilight_Saga-_New_Moon_poster.JPG
+5	Up	Buena Vista	Up_(2009_film)	2009	en/0/05/Up_(2009_film).jpg
+6	The Hangover	Warner Bros.	The_Hangover	2009	en/b/b9/Hangoverposter09.jpg
+7	Star Trek	Paramount	Star_Trek_(film)	2009	en/2/29/Startrekposter.jpg
+8	The Blind Side	Warner Bros.	The_Blind_Side_(film)	2009	en/6/60/Blind_side_poster.jpg
+9	Alvin and the Chipmunks: The Squeakquel	20th Century Fox	Alvin_and_the_Chipmunks:_The_Squeakquel	2009	en/d/d8/Chipmunks2squeakuel.jpg
+10	Sherlock Holmes	Warner Bros.	Sherlock_Holmes_(2009_film)	2009	en/e/e0/Sherlock_holmes_ver5.jpg
+#rank	title	distributor	href	year	poster
+1	Toy Story 3	Buena Vista	Toy_Story_3	2010	en/6/69/Toy_Story_3_poster.jpg
+2	Alice in Wonderland	Buena Vista	Alice_in_Wonderland_(2010_film)	2010	en/3/36/Alice_in_Wonderland_(2010_film).png
+3	Iron Man 2	Paramount	Iron_Man_2	2010	en/e/ed/Iron_Man_2_poster.jpg
+4	The Twilight Saga: Eclipse	Summit Entertainment	The_Twilight_Saga:_Eclipse	2010	en/d/d7/Eclipse_Theatrical_One-Sheet.jpg
+5	Harry Potter and the Deathly Hallows – Part 1	Warner Bros.	Harry_Potter_and_the_Deathly_Hallows_–_Part_1	2010	en/2/2d/Harry_Potter_and_the_Deathly_Hallows_–_Part_1.jpg
+6	Inception	Warner Bros.	Inception	2010	en/2/2e/Inception_(2010)_theatrical_poster.jpg
+7	Despicable Me	Universal Pictures	Despicable_Me_(film)	2010	en/c/c0/Despicable_Me_(2010_animated_feature_film).jpg
+8	Shrek Forever After	Paramount	Shrek_Forever_After	2010	en/7/70/Shrek_Forever_After_(2010_animated_feature_film).jpg
+9	How to Train Your Dragon	Paramount	How_to_Train_Your_Dragon_(2010_film)	2010	en/9/99/How_to_Train_Your_Dragon_Poster.jpg
+10	Tangled	Buena Vista	Tangled	2010	en/a/a8/Tangled_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Harry Potter and the Deathly Hallows – Part 2	Warner Bros.	Harry_Potter_and_the_Deathly_Hallows_–_Part_2	2011	en/d/df/Harry_Potter_and_the_Deathly_Hallows_–_Part_2.jpg
+2	Transformers: Dark of the Moon	Paramount	Transformers:_Dark_of_the_Moon	2011	en/b/bf/Transformers_dark_of_the_moon_ver5.jpg
+3	The Twilight Saga: Breaking Dawn – Part 1	Summit Entertainment	The_Twilight_Saga:_Breaking_Dawn_–_Part_1	2011	en/c/c2/Breaking_Dawn_Part_1_Poster.jpg
+4	The Hangover Part II	Warner Bros.	The_Hangover_Part_II	2011	en/9/9d/HangoverPart2MP2011.jpg
+5	Pirates of the Caribbean: On Stranger Tides	Buena Vista	Pirates_of_the_Caribbean:_On_Stranger_Tides	2011	en/5/5e/Pirates_of_the_Caribbean_-_On_Stranger_Tides.png
+6	Fast Five	Universal	Fast_Five	2011	en/0/0c/Fast_Five_poster.jpg
+7	Mission: Impossible – Ghost Protocol	Paramount	Mission:_Impossible_–_Ghost_Protocol	2011	en/b/b5/Mission_impossible_ghost_protocol.jpg
+8	Cars 2	Buena Vista	Cars_2	2011	en/7/7f/Cars_2_Poster.jpg
+9	Sherlock Holmes: A Game of Shadows	Warner Bros.	Sherlock_Holmes:_A_Game_of_Shadows	2011	en/5/53/Sherlock_Holmes2Poster.jpg
+10	Thor	Paramount	Thor_(film)	2011	en/9/95/Thor_(film)_poster.jpg
+#rank	title	distributor	href	year	poster
+1	The Avengers	Buena Vista	The_Avengers_(2012_film)	2012	en/8/8a/The_Avengers_(2012_film)_poster.jpg
+2	The Dark Knight Rises	Warner Bros.	The_Dark_Knight_Rises	2012	en/8/83/Dark_knight_rises_poster.jpg
+3	The Hunger Games	Lionsgate	The_Hunger_Games_(film)	2012	en/4/42/HungerGamesPoster.jpg
+4	Skyfall	Sony Pictures Releasing	Skyfall	2012	en/a/a7/Skyfall_poster.jpg
+5	The Hobbit: An Unexpected Journey	Warner Bros.	The_Hobbit:_An_Unexpected_Journey	2012	en/b/b3/The_Hobbit-_An_Unexpected_Journey.jpeg
+6	The Twilight Saga: Breaking Dawn – Part 2	Summit Entertainment	The_Twilight_Saga:_Breaking_Dawn_–_Part_2	2012	en/4/49/The_Twilight_Saga_Breaking_Dawn_Part_2_poster.jpg
+7	The Amazing Spider-Man	Sony Pictures Releasing	The_Amazing_Spider-Man_(film)	2012	en/e/e0/The_Amazing_Spider-Man_(film)_poster.jpg
+8	Brave	Buena Vista	Brave_(2012_film)	2012	en/9/96/Brave_Poster.jpg
+9	Ted	Universal	Ted_(film)	2012	en/d/d4/Ted_(film).png
+10	Madagascar 3: Europe's Most Wanted	Paramount	Madagascar_3:_Europe's_Most_Wanted	2012	en/c/c4/Madagascar3-Poster.jpg
+#rank	title	distributor	href	year	poster
+1	The Hunger Games: Catching Fire	Lionsgate	The_Hunger_Games:_Catching_Fire	2013	en/1/12/Catching-Fire_poster.jpg
+2	Iron Man 3	Buena Vista	Iron_Man_3	2013	en/1/19/Iron_Man_3_poster.jpg
+3	Frozen	Buena Vista	Frozen_(2013_film)	2013	en/0/05/Frozen_(2013_film)_poster.jpg
+4	Despicable Me 2	Universal	Despicable_Me_2	2013	en/2/29/Despicable_Me_2_poster.jpg
+5	Man of Steel	Warner Bros.	Man_of_Steel_(film)	2013	en/5/50/Man_of_Steel_(film)_poster.jpg
+6	Gravity	Warner Bros.	Gravity_(2013_film)	2013	en/f/f6/Gravity_Poster.jpg
+7	Monsters University	Buena Vista	Monsters_University	2013	en/2/2a/Monsters_University_poster_3.jpg
+8	The Hobbit: The Desolation of Smaug	Warner Bros.	The_Hobbit:_The_Desolation_of_Smaug	2013	en/4/4f/The_Hobbit_-_The_Desolation_of_Smaug_theatrical_poster.jpg
+9	Fast & Furious 6	Universal	Fast_&_Furious_6	2013	en/3/30/Fast_&_Furious_6_film_poster.jpg
+10	Oz the Great and Powerful	Buena Vista	Oz_the_Great_and_Powerful	2013	en/5/52/Oz_-_The_Great_and_Powerful_Poster.jpg
+#rank	title	distributor	href	year	poster
+1	American Sniper	Warner Bros.	American_Sniper	2014	en/1/10/American_Sniper_poster.jpg
+2	The Hunger Games: Mockingjay – Part 1	Lionsgate	The_Hunger_Games:_Mockingjay_–_Part_1	2014	en/6/63/MockingjayPart1Poster3.jpg
+3	Guardians of the Galaxy	Buena Vista	Guardians_of_the_Galaxy_(film)	2014	en/3/33/Guardians_of_the_Galaxy_(film)_poster.jpg
+4	Captain America: The Winter Soldier	Buena Vista	Captain_America:_The_Winter_Soldier	2014	en/9/9e/Captain_America_The_Winter_Soldier_poster.jpg
+5	The Lego Movie	Warner Bros.	The_Lego_Movie	2014	en/1/10/The_Lego_Movie_poster.jpg
+6	The Hobbit: The Battle of the Five Armies	Warner Bros.	The_Hobbit:_The_Battle_of_the_Five_Armies	2014	en/e/e7/The_Hobbit_-_The_Battle_of_the_Five_Armies.png
+7	Transformers: Age of Extinction	Paramount	Transformers:_Age_of_Extinction	2014	en/0/0f/Transformers_Age_of_Extinction_poster.jpg
+8	Maleficent	Buena Vista	Maleficent_(film)	2014	en/5/55/Maleficent_poster.jpg
+9	X-Men: Days of Future Past	20th Century Fox	X-Men:_Days_of_Future_Past	2014	en/0/0c/X-Men_Days_of_Future_Past_poster.jpg
+10	Big Hero 6	Buena Vista	Big_Hero_6_(film)	2014	en/4/4b/Big_Hero_6_(film)_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Star Wars: The Force Awakens	Buena Vista	Star_Wars:_The_Force_Awakens	2015	en/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg
+2	Jurassic World	Universal	Jurassic_World	2015	en/6/6e/Jurassic_World_poster.jpg
+3	Avengers: Age of Ultron	Buena Vista	Avengers:_Age_of_Ultron	2015	en/f/ff/Avengers_Age_of_Ultron_poster.jpg
+4	Inside Out	Buena Vista	Inside_Out_(2015_film)	2015	en/0/0a/Inside_Out_(2015_film)_poster.jpg
+5	Furious 7	Universal	Furious_7	2015	en/b/b8/Furious_7_poster.jpg
+6	Minions	Universal	Minions_(film)	2015	en/1/19/Minions_(2015_film).jpg
+7	The Hunger Games: Mockingjay – Part 2	Lionsgate	The_Hunger_Games:_Mockingjay_–_Part_2	2015	en/9/9d/Mockingjay_Part_2_Poster.jpg
+8	The Martian	20th Century Fox	The_Martian_(film)	2015	en/c/cd/The_Martian_film_poster.jpg
+9	Cinderella	Buena Vista	Cinderella_(2015_American_film)	2015	en/c/c2/Cinderella_2015_official_poster.jpg
+10	Spectre	Sony Pictures Releasing	Spectre_(2015_film)	2015	en/b/b9/Spectre_2015_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Rogue One: A Star Wars Story	Buena Vista	Rogue_One:_A_Star_Wars_Story	2016	en/d/d4/Rogue_One,_A_Star_Wars_Story_poster.png
+2	Finding Dory	Buena Vista	Finding_Dory	2016	en/3/3e/Finding_Dory.jpg
+3	Captain America: Civil War	Buena Vista	Captain_America:_Civil_War	2016	en/5/53/Captain_America_Civil_War_poster.jpg
+4	The Secret Life of Pets	Universal	The_Secret_Life_of_Pets	2016	en/6/64/The_Secret_Life_of_Pets_poster.jpg
+5	The Jungle Book	Buena Vista	The_Jungle_Book_(2016_film)	2016	en/a/a4/The_Jungle_Book_(2016).jpg
+6	Deadpool	20th Century Fox	Deadpool_(film)	2016	en/2/23/Deadpool_(2016_poster).png
+7	Zootopia	Buena Vista	Zootopia	2016	en/9/96/Zootopia_(movie_poster).jpg
+8	Batman v Superman: Dawn of Justice	Warner Bros.	Batman_v_Superman:_Dawn_of_Justice	2016	en/3/31/Batman_v_Superman_Dawn_of_Justice_poster.jpg
+9	Suicide Squad	Warner Bros.	Suicide_Squad_(2016_film)	2016	en/5/5c/Suicide_Squad_(2016_film)_poster.png
+10	Sing	Universal	Sing_(2016_American_film)	2016	en/b/bb/Sing_(2016_film)_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Star Wars: The Last Jedi	Buena Vista	Star_Wars:_The_Last_Jedi	2017	en/7/7f/Star_Wars_The_Last_Jedi.jpg
+2	Beauty and the Beast	Buena Vista	Beauty_and_the_Beast_(2017_film)	2017	en/d/d6/Beauty_and_the_Beast_2017_poster.jpg
+3	Wonder Woman	Warner Bros.	Wonder_Woman_(2017_film)	2017	en/b/b0/Wonder_Woman_(2017_film)_poster.jpg
+4	Jumanji: Welcome to the Jungle	Sony Pictures Releasing	Jumanji:_Welcome_to_the_Jungle	2017	en/d/dc/Jumanji_Welcome_to_the_Jungle.png
+5	Guardians of the Galaxy Vol. 2	Buena Vista	Guardians_of_the_Galaxy_Vol._2	2017	en/3/32/Guardians_of_the_Galaxy_Vol._2_poster.jpg
+6	Spider-Man: Homecoming	Sony Pictures Releasing	Spider-Man:_Homecoming	2017	en/f/f9/Spider-Man_Homecoming_poster.jpg
+7	It	Warner Bros.	It_(2017_film)	2017	en/5/5a/It_(2017)_poster.jpg
+8	Thor: Ragnarok	Buena Vista	Thor:_Ragnarok	2017	en/7/7d/Thor_Ragnarok_poster.jpg
+9	Despicable Me 3	Universal Pictures	Despicable_Me_3	2017	en/8/80/Despicable_Me_3_theatrical_release_poster.jpg
+10	Justice League	Warner Bros.	Justice_League_(film)	2017	en/6/6b/Justice_League_(film)_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Black Panther	Buena Vista	Black_Panther_(film)	2018	en/d/d6/Black_Panther_(film)_poster.jpg
+2	Avengers: Infinity War	Buena Vista	Avengers:_Infinity_War	2018	en/4/4d/Avengers_Infinity_War_poster.jpg
+3	Incredibles 2	Buena Vista	Incredibles_2	2018	en/1/1f/Incredibles_2_(2018_animated_film).jpg
+4	Jurassic World: Fallen Kingdom	Universal	Jurassic_World:_Fallen_Kingdom	2018	en/c/c6/Jurassic_World_Fallen_Kingdom.png
+5	Aquaman	Warner Bros.	Aquaman_(film)	2018	en/e/ed/Aquaman_(film)_poster.jpg
+6	Deadpool 2	20th Century Fox	Deadpool_2	2018	en/c/cf/Deadpool_2_poster.jpg
+7	The Grinch	Universal Pictures	The_Grinch_(film)	2018	en/4/4f/The_Grinch,_final_poster.jpg
+8	Mission: Impossible – Fallout	Paramount	Mission:_Impossible_–_Fallout	2018	en/f/ff/MI_–_Fallout.jpg
+9	Ant-Man and the Wasp	Buena Vista	Ant-Man_and_the_Wasp	2018	en/2/2c/Ant-Man_and_the_Wasp_poster.jpg
+10	Bohemian Rhapsody	20th Century Fox	Bohemian_Rhapsody_(film)	2018	en/2/2e/Bohemian_Rhapsody_poster.png
+#rank	title	distributor	href	year	poster
+1	Avengers: Endgame	Buena Vista	Avengers:_Endgame	2019	en/0/0d/Avengers_Endgame_poster.jpg
+2	The Lion King	Buena Vista	The_Lion_King_(2019_film)	2019	en/9/9d/Disney_The_Lion_King_2019.jpg
+3	Star Wars: The Rise of Skywalker	Buena Vista	Star_Wars:_The_Rise_of_Skywalker	2019	en/a/af/Star_Wars_The_Rise_of_Skywalker_poster.jpg
+4	Frozen II	Buena Vista	Frozen_II	2019	en/8/89/Frozen_II_(2019_animated_film).jpg
+5	Toy Story 4	Buena Vista	Toy_Story_4	2019	en/4/4c/Toy_Story_4_poster.jpg
+6	Captain Marvel	Buena Vista	Captain_Marvel_(film)	2019	en/4/4e/Captain_Marvel_(film)_poster.jpg
+7	Spider-Man: Far From Home	Sony Pictures Releasing	Spider-Man:_Far_From_Home	2019	en/b/bd/Spider-Man_Far_From_Home_poster.jpg
+8	Aladdin	Buena Vista	Aladdin_(2019_film)	2019	en/9/9a/Aladdin_(Official_2019_Film_Poster).png
+9	Joker	Warner Bros.	Joker_(2019_film)	2019	en/e/e1/Joker_(2019_film)_poster.jpg
+10	Jumanji: The Next Level	Sony Pictures Releasing	Jumanji:_The_Next_Level	2019	en/1/12/Jumanji_-The_Next_Level_film_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Bad Boys for Life	Sony Pictures Releasing	Bad_Boys_for_Life	2020	en/9/90/Bad_Boys_for_Life_poster.jpg
+2	Sonic the Hedgehog	Paramount	Sonic_the_Hedgehog_(film)	2020	en/4/45/Sonic_the_Hedgehog_film_poster.jpg
+3	Birds of Prey	Warner Bros.	Birds_of_Prey_(2020_film)	2020	en/1/1c/Birds_of_Prey_(2020_film)_poster.jpg
+4	Dolittle	Universal	Dolittle_(film)	2020	en/1/1f/Dolittle_(2020_film_poster).png
+5	The Invisible Man	Universal	The_Invisible_Man_(2020_film)	2020	en/3/3a/The_Invisible_Man_(2020_film)_-_release_poster.jpg
+6	The Call of the Wild	20th Century Fox	The_Call_of_the_Wild_(2020_film)	2020	en/4/43/The_Call_of_the_Wild_poster.jpg
+7	Onward	Buena Vista	Onward_(film)	2020	en/0/03/Onward_poster.jpg
+8	The Croods: A New Age	Universal	The_Croods:_A_New_Age	2020	en/9/91/The_Croods_-_A_New_Age.png
+9	Tenet	Warner Bros.	Tenet_(film)	2020	en/1/14/Tenet_movie_poster.jpg
+10	Wonder Woman 1984	Warner Bros.	Wonder_Woman_1984	2020	en/4/4f/Wonder_Woman_1984_poster.png
+#rank	title	distributor	href	year	poster
+1	Spider-Man: No Way Home	Sony Pictures Releasing	Spider-Man:_No_Way_Home	2021	en/0/00/Spider-Man_No_Way_Home_poster.jpg
+2	Shang-Chi and the Legend of the Ten Rings	Buena Vista	Shang-Chi_and_the_Legend_of_the_Ten_Rings	2021	en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg
+3	Venom: Let There Be Carnage	Sony Pictures Releasing	Venom:_Let_There_Be_Carnage	2021	en/a/a7/Venom_Let_There_Be_Carnage_poster.jpg
+4	Black Widow	Buena Vista	Black_Widow_(2021_film)	2021	en/e/e9/Black_Widow_(2021_film)_poster.jpg
+5	F9	Universal	F9_(film)	2021	en/2/2b/F9_film_poster.jpg
+6	Eternals	Buena Vista	Eternals_(film)	2021	en/9/9b/Eternals_(film)_poster.jpeg
+7	Sing 2	Universal	Sing_2	2021	en/8/87/Sing_2_poster.jpg
+8	No Time to Die	United Artists	No_Time_to_Die	2021	en/f/fe/No_Time_to_Die_poster.jpg
+9	A Quiet Place Part II	Paramount	A_Quiet_Place_Part_II	2021	en/0/02/A_Quiet_Place_Part_II.jpg
+10	Ghostbusters: Afterlife	Sony Pictures Releasing	Ghostbusters:_Afterlife	2021	en/d/d1/Ghostbusters_-_Afterlife_official_theatrical_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Top Gun: Maverick	Paramount	Top_Gun:_Maverick	2022	en/1/13/Top_Gun_Maverick_Poster.jpg
+2	Avatar: The Way of Water	20th Century Fox	Avatar:_The_Way_of_Water	2022	en/5/54/Avatar_The_Way_of_Water_poster.jpg
+3	Black Panther: Wakanda Forever	Buena Vista	Black_Panther:_Wakanda_Forever	2022	en/3/3b/Black_Panther_Wakanda_Forever_poster.jpg
+4	Doctor Strange in the Multiverse of Madness	Buena Vista	Doctor_Strange_in_the_Multiverse_of_Madness	2022	en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg
+5	Jurassic World Dominion	Universal	Jurassic_World_Dominion	2022	en/c/ce/JurassicWorldDominion_Poster.jpeg
+6	Minions: The Rise of Gru	Universal	Minions:_The_Rise_of_Gru	2022	en/4/45/Minions_The_Rise_of_Gru_poster.jpg
+7	The Batman	Warner Bros.	The_Batman_(film)	2022	en/f/ff/The_Batman_(film)_poster.jpg
+8	Thor: Love and Thunder	Buena Vista	Thor:_Love_and_Thunder	2022	en/8/88/Thor_Love_and_Thunder_poster.jpeg
+9	Sonic the Hedgehog 2	Paramount	Sonic_the_Hedgehog_2_(film)	2022	en/3/3e/Sonic_the_Hedgehog_2_film_poster.jpg
+10	Puss in Boots: The Last Wish	Universal	Puss_in_Boots:_The_Last_Wish	2022	en/7/78/Puss_in_Boots_The_Last_Wish_poster.jpg
+#rank	title	distributor	href	year	poster
+1	Barbie	Warner Bros.	Barbie_(film)	2023	en/0/0b/Barbie_2023_poster.jpg
+2	The Super Mario Bros. Movie	Universal Pictures	The_Super_Mario_Bros._Movie	2023	en/4/44/The_Super_Mario_Bros._Movie_poster.jpg
+3	Spider-Man: Across the Spider-Verse	Sony Pictures Releasing	Spider-Man:_Across_the_Spider-Verse	2023	en/b/b4/Spider-Man-_Across_the_Spider-Verse_poster.jpg
+4	Guardians of the Galaxy Vol. 3	Buena Vista	Guardians_of_the_Galaxy_Vol._3	2023	en/7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg
+5	Oppenheimer	Universal	Oppenheimer_(film)	2023	en/4/4a/Oppenheimer_(film).jpg
+6	The Little Mermaid	Buena Vista	The_Little_Mermaid_(2023_film)	2023	en/f/f4/The_Little_Mermaid_(2023_film).png
+7	Wonka	Warner Bros.	Wonka_(film)	2023	en/9/90/Wonka_2023_film_poster.jpg
+8	Ant-Man and the Wasp: Quantumania	Buena Vista	Ant-Man_and_the_Wasp:_Quantumania	2023	en/3/30/Ant-Man_and_the_Wasp_Quantumania_poster.jpg
+9	John Wick: Chapter 4	Lionsgate	John_Wick:_Chapter_4	2023	en/d/d0/John_Wick_-_Chapter_4_promotional_poster.jpg
+10	Sound of Freedom	Angel Studios	Sound_of_Freedom_(film)	2023	en/2/24/Sound_of_Freedom_(film)_poster.jpg
+
