@@ -6,9 +6,9 @@ import pandas as pd
 import urllib
 WIKI = "https://en.wikipedia.org"
 URL_TEMPLATE = "https://en.wikipedia.org/wiki/List_of_American_films_of_"
-MEDIA_PREF = "https://upload.wikimedia.org/wikipedia/en/"
 POSTER_PREF = "//upload.wikimedia.org/wikipedia/en/thumb/"
 POSTER_PREF_SET = "//upload.wikimedia.org/wikipedia/en/"
+POSTER_PREF_COMMON = "//upload.wikimedia.org/wikipedia/commons/thumb/"
 DISTRIBUTORS = dict()
 
 
@@ -21,7 +21,10 @@ def load_distributors():
             tokens = line.strip().split('\t')
             name = tokens[0]
             link = tokens[1]
-            logo = tokens[2]
+            try:
+                logo = tokens[2]
+            except:
+                logo = ""
             DISTRIBUTORS[link] = [name, logo]
         f.close()
 
@@ -34,6 +37,8 @@ def get_poster(r1):
             return urllib.parse.unquote(img_line.attrs['src'].split(POSTER_PREF)[1])
         if 'src' in img_line.attrs and img_line.attrs['src'].find(POSTER_PREF_SET) != -1:
             return urllib.parse.unquote(img_line.attrs['src'].split(POSTER_PREF_SET)[1])
+        if 'src' in img_line.attrs and img_line.attrs['src'].find(POSTER_PREF_COMMON) != -1:
+            return urllib.parse.unquote('commons/'+img_line.attrs['src'].split(POSTER_PREF_COMMON)[1])
     return ""
 
 
@@ -41,9 +46,14 @@ def update_distributors(link, text):
     if link.split('/wiki/')[1] not in DISTRIBUTORS:
         r = requests.get(WIKI+link)
         soup = bs(r.text, "html.parser")
-        img_line = soup.find("td", {"class" : "infobox-image logo"})
-        img_line = img_line.next_element.next_element.next_element
-        logo = 'https:'+urllib.parse.unquote(img_line.attrs['src'].split('thumb/')[0] + img_line.attrs['src'].split('thumb/')[1].split('/220px')[0])
+        logo = ""
+        try:
+            img_line = soup.find("td", {"class" : "infobox-image logo"})
+            img_line = img_line.next_element.next_element.next_element
+            logo = 'https:'+urllib.parse.unquote(img_line.attrs['src'].split('thumb/')[0] + img_line.attrs['src'].split('thumb/')[1].split('/220px')[0])
+        except:
+            pass
+        print(logo)
         DISTRIBUTORS[link.split('/wiki/')[1]] = [text, logo]
         return text
     return DISTRIBUTORS[link.split('/wiki/')[1]][0]
