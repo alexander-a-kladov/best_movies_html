@@ -67,11 +67,16 @@ def read_movies(fname, prefix):
     if f:
         for line in f.readlines():
             if line[0] == '\n' or line[0] == '#':
+                ##print(line.strip())
                 continue
             tokens = line.strip().split('\t')
             if len(tokens)<6:
+                print(tokens)
+                ##print(line.strip())
                 continue
             #print(tokens)
+            ##tokens[5] = 'en/'+tokens[5]
+            ##print('\t'.join(tokens))
             add_year(prefix, tokens[4])    
             key = tokens[0]+tokens[4]
             link = ""
@@ -93,7 +98,7 @@ def read_movies(fname, prefix):
                 html_data[year] += "<td><a href='"+info_data+link.replace("'","&apos;")+"'><img src='../images/play.png' width=100px height=100px></a>\n"
             else:
                 if info_data1:
-                    html_data[year] += "<td><a href='"+info_data1+tokens[1]+ "' target=_blank><img src='../images/search.png' width=100px height=100px></a>\n"
+                    html_data[year] += "<td><a href='"+info_data1+tokens[1].replace("'","&apos;")+ "' target=_blank><img src='../images/search.png' width=100px height=100px></a>\n"
                 else:
                     html_data[year] += "<td>\n"
             html_data[year] += "<a href='"+ config['wiki']+tokens[3].replace("'","&apos;") +"'>" + tokens[1] + "</a></td>\n"
@@ -141,10 +146,10 @@ def save_index(prefix):
     index_html += "<p><a href='"+prefix+".html'><img src=images/film.png height=50px></a>The Most Successful Movies of the Year</p>"
     for year_key in html_data.keys():
         index_html += "<div><a href='"+"pages/"+prefix+year_key+".html'>"
-        for img_index in range(len(index_img_dict[year_key])//2):
+        for img_index in range(5):
             index_html += index_img_dict[year_key][img_index]
         index_html += year_key
-        for img_index in range(len(index_img_dict[year_key])//2, len(index_img_dict[year_key])):
+        for img_index in range(5, len(index_img_dict[year_key])):
             index_html += index_img_dict[year_key][img_index]
         index_html += "</a></div>"
     index_html += "</body>\n</html>\n"
@@ -157,10 +162,20 @@ def save_index(prefix):
 def save_html(prefix):
     global html_data, style_data
     for year_key in html_data.keys():
-        f_html = open("pages/"+prefix+year_key+".html", "w")
+        try:
+            f_check = open("pages/"+prefix+year_key+".html", "r")
+            if f_check:
+                if f_check.read() == html_data[year_key]:
+                    f_check.close()
+                    continue
+                f_check.close()
+        except:
+            pass
+        f_html = open("pages/"+prefix+year_key+".html", "w")   
         if f_html:
             f_html.write(html_data[year_key])
         f_html.close()
+        print("pages/"+prefix+year_key+".html"+" updated")
 
 
 if __name__ == "__main__":
