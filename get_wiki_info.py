@@ -34,9 +34,9 @@ def get_poster(r1):
     for line in soup1.find_all("td", {"class" : "infobox-image"}):
         img_line = line.next_element.next_element.next_element
         if 'src' in img_line.attrs and img_line.attrs['src'].find(POSTER_PREF) != -1:
-            return urllib.parse.unquote(img_line.attrs['src'].split(POSTER_PREF)[1])
+            return urllib.parse.unquote('en/'+img_line.attrs['src'].split(POSTER_PREF)[1])
         if 'src' in img_line.attrs and img_line.attrs['src'].find(POSTER_PREF_SET) != -1:
-            return urllib.parse.unquote(img_line.attrs['src'].split(POSTER_PREF_SET)[1])
+            return urllib.parse.unquote('en/'+img_line.attrs['src'].split(POSTER_PREF_SET)[1])
         if 'src' in img_line.attrs and img_line.attrs['src'].find(POSTER_PREF_COMMON) != -1:
             return urllib.parse.unquote('commons/'+img_line.attrs['src'].split(POSTER_PREF_COMMON)[1])
     return ""
